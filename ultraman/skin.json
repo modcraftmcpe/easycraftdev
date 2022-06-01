@@ -236,7 +236,7 @@
   [
     {
       "id":1,
-      "name_add":"Addon Ultraman MCPE",
+      "name_add":"1. Addon Ultraman MCPE",
       "add_url":"https://wedosmp3.github.io/imagecreative/ultraman/add1.zip",
       "addB_url":"https://wedosmp3.github.io/imagecreative/ultraman/add1(B).mcpack",
       "addR_url":"https://wedosmp3.github.io/imagecreative/ultraman/add1(R).mcpack",
@@ -245,7 +245,7 @@
     },
 	{
       "id":2,
-      "name_add":"Addon Ultraman MCPE",
+      "name_add":"2. Addon Ultraman MCPE",
       "add_url":"https://wedosmp3.github.io/imagecreative/ultraman/add2.zip",
       "addB_url":"https://wedosmp3.github.io/imagecreative/ultraman/add2(B).mcpack",
       "addR_url":"https://wedosmp3.github.io/imagecreative/ultraman/add2(R).mcpack",
@@ -254,7 +254,7 @@
     },
 	{
       "id":3,
-      "name_add":"Addon Ultraman MCPE",
+      "name_add":"3. Addon Ultraman MCPE",
       "add_url":"https://wedosmp3.github.io/imagecreative/ultraman/add3.zip",
       "addB_url":"https://wedosmp3.github.io/imagecreative/ultraman/add3(B).mcpack",
       "addR_url":"https://wedosmp3.github.io/imagecreative/ultraman/add3(R).mcpack",
@@ -263,7 +263,7 @@
     },
 	{
       "id":4,
-      "name_add":"Addon Ultraman MCPE",
+      "name_add":"4. Addon Ultraman MCPE",
       "add_url":"https://wedosmp3.github.io/imagecreative/ultraman/add4.zip",
       "addB_url":"https://wedosmp3.github.io/imagecreative/ultraman/add4(B).mcpack",
       "addR_url":"https://wedosmp3.github.io/imagecreative/ultraman/add4(R).mcpack",
@@ -272,7 +272,7 @@
     },
 	{
       "id":5,
-      "name_add":"Addon Ultraman MCPE",
+      "name_add":"5. Addon Ultraman MCPE",
       "add_url":"https://wedosmp3.github.io/imagecreative/ultraman/add5.zip",
       "addB_url":"https://wedosmp3.github.io/imagecreative/ultraman/add5(B).mcpack",
       "addR_url":"https://wedosmp3.github.io/imagecreative/ultraman/add5(R).mcpack",
@@ -281,7 +281,7 @@
     },
 	{
       "id":6,
-      "name_add":"Addon Ultraman MCPE",
+      "name_add":"6. Addon Ultraman MCPE",
       "add_url":"https://wedosmp3.github.io/imagecreative/ultraman/add6.zip",
       "addB_url":"https://wedosmp3.github.io/imagecreative/ultraman/add6(B).mcpack",
       "addR_url":"https://wedosmp3.github.io/imagecreative/ultraman/add6(R).mcpack",
@@ -293,14 +293,14 @@
   [
 	{
       "id":1,
-      "name_map":"Maps Ultraman MCPE",
+      "name_map":"1. Maps Ultraman MCPE",
       "map_url":"https://wedosmp3.github.io/imagecreative/ultraman/map1.zip",
       "view_map":"https://modandskinmcpe.github.io/easycraftdev/ultraman/map.png",
       "des_map":"https://modandskinmcpe.github.io/easycraftdev/ultraman/instalmap.html"
     },
 	{
       "id":2,
-      "name_map":"Maps Ultraman MCPE",
+      "name_map":"2. Maps Ultraman MCPE",
       "map_url":"https://wedosmp3.github.io/imagecreative/ultraman/map2.zip",
       "view_map":"https://modandskinmcpe.github.io/easycraftdev/ultraman/map.png",
       "des_map":"https://modandskinmcpe.github.io/easycraftdev/ultraman/instalmap.html"

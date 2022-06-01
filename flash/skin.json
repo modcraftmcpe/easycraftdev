@@ -27,7 +27,7 @@
     {
       "id":1,
       "title":"More App",
-      "image":"",
+      "image":"https://modandskinmcpe.github.io/easycraftdev/moreapp.png",
       "link":""
     }
   ],
@@ -475,7 +475,7 @@
       "addB_url":"https://wedosmp3.github.io/imagecreative/flash/addon1(B).mcpack",
       "addR_url":"https://wedosmp3.github.io/imagecreative/flash/addon1(R).mcpack",
       "view_add":"",
-      "des_add":""
+      "des_add":"https://modandskinmcpe.github.io/easycraftdev/flash/instal1.html"
     },
 	{
       "id":2,
@@ -484,7 +484,7 @@
       "addB_url":"https://wedosmp3.github.io/imagecreative/flash/addon2(B).mcpack",
       "addR_url":"https://wedosmp3.github.io/imagecreative/flash/addon2(R).mcpack",
       "view_add":"",
-      "des_add":""
+      "des_add":"https://modandskinmcpe.github.io/easycraftdev/flash/instal2.html"
     },
 	{
       "id":3,
@@ -493,7 +493,7 @@
       "addB_url":"https://wedosmp3.github.io/imagecreative/flash/addon3(B).mcpack",
       "addR_url":"https://wedosmp3.github.io/imagecreative/flash/addon3(R).mcpack",
       "view_add":"",
-      "des_add":""
+      "des_add":"https://modandskinmcpe.github.io/easycraftdev/flash/instal1.html"
     }
   ],
   "Maps":
@@ -503,21 +503,21 @@
       "name_map":"Maps Flash Minecraft",
       "map_url":"https://archive.org/download/mapsflash/maps1.zip",
       "view_map":"",
-      "des_map":""
+      "des_map":"https://modandskinmcpe.github.io/easycraftdev/flash/instalmap1.html"
     },
 	{
       "id":2,
       "name_map":"Maps Flash Minecraft",
       "map_url":"https://archive.org/download/mapsflash/maps2.zip",
       "view_map":"",
-      "des_map":""
+      "des_map":"https://modandskinmcpe.github.io/easycraftdev/flash/instalmap1.html"
     },
 	{
       "id":3,
       "name_map":"Maps Flash Minecraft",
       "map_url":"https://archive.org/download/mapsflash/maps3.zip",
       "view_map":"",
-      "des_map":""
+      "des_map":"https://modandskinmcpe.github.io/easycraftdev/flash/instalmap1.html"
     }
   ]
 }

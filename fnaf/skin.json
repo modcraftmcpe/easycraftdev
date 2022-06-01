@@ -402,8 +402,8 @@
       "add_url":"https://archive.org/download/addonnmapsfnaf/addon1.zip",
       "addB_url":"https://archive.org/download/addonnmapsfnaf/addon1%28B%29.mcpack",
       "addR_url":"https://archive.org/download/addonnmapsfnaf/addon1%28R%29.mcpack",
-      "view_add":"",
-      "des_add":""
+      "view_add":"https://modandskinmcpe.github.io/easycraftdev/fnaf/add.png",
+      "des_add":"https://modandskinmcpe.github.io/easycraftdev/fnaf/instal.html"
     },
 	{
       "id":2,
@@ -411,8 +411,8 @@
       "add_url":"https://archive.org/download/addonnmapsfnaf/addon2.zip",
       "addB_url":"https://archive.org/download/addonnmapsfnaf/addon2%28B%29.mcpack",
       "addR_url":"https://archive.org/download/addonnmapsfnaf/addon2%28R%29.mcpack",
-      "view_add":"",
-      "des_add":""
+      "view_add":"https://modandskinmcpe.github.io/easycraftdev/fnaf/add.png",
+      "des_add":"https://modandskinmcpe.github.io/easycraftdev/fnaf/instal.html"
     },
 	{
       "id":3,
@@ -420,8 +420,8 @@
       "add_url":"https://archive.org/download/addonnmapsfnaf/addon3.zip",
       "addB_url":"https://archive.org/download/addonnmapsfnaf/addon3%28B%29.mcpack",
       "addR_url":"https://archive.org/download/addonnmapsfnaf/addon3%28R%29.mcpack",
-      "view_add":"",
-      "des_add":""
+      "view_add":"https://modandskinmcpe.github.io/easycraftdev/fnaf/add.png",
+      "des_add":"https://modandskinmcpe.github.io/easycraftdev/fnaf/instal.html"
     }
   ],
   "Maps":
@@ -430,15 +430,15 @@
       "id":1,
       "name_map":"1. Maps FnaF",
       "map_url":"https://archive.org/download/addonnmapsfnaf/maps1.zip",
-      "view_map":"",
-      "des_map":""
+      "view_map":"https://modandskinmcpe.github.io/easycraftdev/fnaf/map.png",
+      "des_map":"https://modandskinmcpe.github.io/easycraftdev/fnaf/instalmap.html"
     },
 	{
       "id":2,
       "name_map":"2. Maps FnaF",
       "map_url":"https://archive.org/download/addonnmapsfnaf/maps2.zip",
-      "view_map":"",
-      "des_map":""
+      "view_map":"https://modandskinmcpe.github.io/easycraftdev/fnaf/map.png",
+      "des_map":"https://modandskinmcpe.github.io/easycraftdev/fnaf/instalmap.html"
     }
   ]
 }

@@ -1,0 +1,454 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"More App",
+      "image":"https://modandskinmcpe.github.io/easycraftdev/moreapp.png",
+      "link":""
+    }
+  ],
+  
+  "Skin":
+  [
+    {
+      "id":1,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/89oRDObADEBx2p_LbIxuvM2B1OsbPBg8EkfbYO3FgcRcNa6NNIRBb7senXbig9Dp6LRwpiZkZsYGesq22zAU",
+      "view_skin":"https://lh3.googleusercontent.com/IYCo-pHN1uDPcYg2SkeciEY8rChgD6VXleKsSABCcok5Ewl2PgW1E1Eh7f1V3mxsb-5XBo_hP3FBJhteCgQnHpE"
+    },
+    {
+      "id":2,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/jXzhxxkAfw0q-KhRAejKcZQ5Y3O84k9v4VsXhF26IBffpfBvLbLiOBnjB90cB48htJ9EiUMVw3DqmZHjXvtvujNKQ3VyGZvp3klW",
+      "view_skin":"https://lh3.googleusercontent.com/OTNmQTajV63FLZ25-VkW2QEe6QVe69UC-RSHsjGtDZOK4u9KX-AaDfWV366--EiJaOTvpysyceuRByYBy7dmLOas4LvKBeYtsRc"
+    },
+	{
+      "id":3,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/D1N3H5waNUg-EJM3LzYkNHAYGJJoD2Chn3QTdWGzmJRLqzD12B9jJbAmgQzVJbaVRgSuAbZzhBy5umdaxREUNg",
+      "view_skin":"https://lh3.googleusercontent.com/AV49v2Ki5HNDxGNNhLglzrGnUDCaOoje3aOrWBIgKVbCWH2bFjGVxXWnW7wCuldgYBE2WdVCuChCI8FA3o2jjX8"
+    },
+    {
+      "id":4,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/EwsXa0Z9UV13a7ItWngO2-RQIfTM2k05BPHHlRYACRSt8byTKM3lwwaWPJ5uX_lxJBtM2kTPsJsx9PN2q-NIgfub6pxQSETn2c_V",
+      "view_skin":"https://lh3.googleusercontent.com/J3CxsEGm_KQOxnyf__HKlakwuZjlqYaLJOtjtd0ce6hTlBowa-4K4H8vJPol3VFAXsdOd245y_fXOOybiqZbgGG9UFWhZIsf_hs"
+    },
+	{
+      "id":5,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/e2yLZicZJBlF9X0WW5qA-zOQLTVAaRCpgqc5sp5OQJXSdU1iBsULB-HH5RcGYWz2UIjoq64c5b7DjOC5YiihFemMydVIheLXde0",
+      "view_skin":"https://lh3.googleusercontent.com/47AS7r8KiAWySRXmRZf_Xyfv1dSd3Jv55ZvGmgFDXLMoe1s4qdy2zVintBGoJDMWtSXJcmSrFBzLBZ0v1I3hwr-XBLcHJiuFsg"
+    },
+    {
+      "id":6,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/FHyX103Eqyb_iQih7kFfY9i2172H4-f8uo6uwjDZPWyKZEmnpVuG0F1r-E6gxeObgC3WH551e68gGyobrsGGKpTW2F7UYBEXNKc",
+      "view_skin":"https://lh3.googleusercontent.com/p9d1jQ4QJHnPn9LXwwiAy-IHBRStOR2zufDGpE-XnbyAQYZg6zXXgKl7-qFuNn2Eb4T7CqhDMANuaBNwYaU_lsvicLtLtuQlNSA"
+    },
+	{
+      "id":7,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/EdQVZjejoyFCp4snOtDASFalcF74sr4l_oIoRu0HkUTibvB0h386qlwcAmMudQIL37KVMA2CIPCCtgSVF2qs0OR5Qx8E2BFLM_s",
+      "view_skin":"https://lh3.googleusercontent.com/o1y0mHoIPNU96HZcjNoKAJRygrACc3Z77fnlZYZprbGPI562qVDNk34qNr8dzQmNHK3gHeCpNh0zbAD5w3LaeWqedktTTxh5xMAS"
+    },
+    {
+      "id":8,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/bP5kmrqCWFvaOQUKOQHbHuSuQehDvB_o9wAl_BJiKDwP_5bofCazAK2efyp_sBs_JDXR3DLY8Xs_mL6xo88YBVLXRkDdys7BOdF-",
+      "view_skin":"https://lh3.googleusercontent.com/MOErNLzgf3NSMRQKZzN7eRcThbSZ-eUTLkZHefhZWPAqCEJMG3_FI10Uy4P7aMtEF6e2T7Xb386UICjBS85NTtwnx0VdWn_ijsik"
+    },
+	{
+      "id":9,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/QtgMZAzlmXMbRi6tF6QjkeQER80fgcT99KhBHTtATu5BSEjmpqwwbUPOLQUOLxqs8XOYMbuMCbZkFUDi95HgxS2rV8XqU61QknPD",
+      "view_skin":"https://lh3.googleusercontent.com/rzatRFJLDXpA18exTbBn0Xtp4S4MpMXDbivCwN0MrVOB3lSopWvUmXhT3vTieAoClBYQWWiXX5pwH_uG7Y8kB35YHgVAD8Rz6TQ"
+    },
+    {
+      "id":10,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/ffDwlvd2EPkCwjDrssHYEjEcLjutNHWMtIgDlVQnMZVnpupghIuZAHIN4ujw-W8df8inS4c9MPFL2j3zI-Hb7jy58kZJRzly",
+      "view_skin":"https://lh3.googleusercontent.com/d9-RGiZRcySqIsc1qxAdDo00ogOb4C0f2pwEqbIB4v_CtISROdDECVeQpgZhX3vuggeXyhaunrS_ngGVQYEBIRMoAD1J5kK9sw"
+    },
+	{
+      "id":11,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/9eFR_kVKulcztbvoFDLqLZxSawoe057E_z8cSfuVqt-dPfANB8Rwnr0dlzGDFz01b447alzJm84vpcyInWV_TA6VYjlY2mT9BY8",
+      "view_skin":"https://lh3.googleusercontent.com/QxpC5m0FnXCcFl8EKIRXot_ug1TPd7z0MEypdPCZ9REp4VPaMqn9ppv-O1zdM_cJYAcckbapmrY-PXDqEOShN7Y99NUnhw5c6g"
+    },
+    {
+      "id":12,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/YL47ljGb4Gx7-JgsDSjdiMivBGMh9GMAE9MkjpRtEFzjlAHyWY2LwqFSn7ZfPS4-d6pXi0X0giGxm_Emr-UfCUtWgVMOOpD_kiY",
+      "view_skin":"https://lh3.googleusercontent.com/rSX7b0ZeI69d5iGszgJS2f7oG8T041SzF_gaIEJgJ1TPcCznBPSP9BcfRrg_OhZIRR_cGfLcBiZ1ZtidZq-W0gSNrkSjysS3oQ"
+    },
+	{
+      "id":13,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/DTHySIMTY9BSOx71VMNOqHwZHriRc6MpnJxiruGI-SWDLa3KD_NI6-gs9sXTwFtRScSvIBb9JXB6L3xGfhsT",
+      "view_skin":"https://lh3.googleusercontent.com/vVcxL0pFGG2NtpKrJnP9r3cpbeOtsabckJNv11yTQjOmKy5tP9ZXsr6RecLnD7f6IMT9Yn0EAKs1XNp7y3GnuYo"
+    },
+    {
+      "id":14,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/JQOfAxj_y3xjt-G_HjGnPt6wcu36a5DZCUTJrzCliOJXh3IC1vgitJEen4LEz6G5ZCiGHUXzZ0vid-7kTjfF",
+      "view_skin":"https://lh3.googleusercontent.com/lWMa_Y-g3MnRk4F5iq-rtRgGlbLnR8_jmvF9RLUeMOyfTUJEuHc0mYXqqZhFfUtEOUnqOnfWM4la4OzS_1GqLA"
+    },
+	{
+      "id":15,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/7O7avJhOztRMNNkzYcEl8E0JvLACpXp422ZlUcoXhGlAyqKNItiZ_a7dWylbdKa6kFRH2yRgZ4JZ67JBfQ4_iK7yAIZPbPMOilc",
+      "view_skin":"https://lh3.googleusercontent.com/X9AdOAVaK61UlPB--Sub9tRCthoKqHy3cIiU__72IMUforWUFWAJfZrbs9bDOWMwa-E6TBjDiORDNn9xTFT9BgmbFJJ1nZzqbFcO"
+    },
+    {
+      "id":16,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/2bCQQk9eQIfRi1fiWN6VnIKTuLOdyYx3UQFPvN5dnG_aLuxjwtwWmM-PItW3KbC6TZyJHSxCooynMAnxHR6NFw",
+      "view_skin":"https://lh3.googleusercontent.com/znDTYCSYbvGfGmzV-WzTS6RYD0Y6fCANV9wy3TMI6EVPpBn2eYWewjirR026J69lHKNd3YcaDLqV_jyrkFEMZA"
+    },
+	{
+      "id":17,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/m3AjdyhZlqoX1s56zDS_pWu6NO6qrUAWFKLRMR9LFLl-VDRd24nVshChVUzaqZ98XNIOqDpipRRaEJi0yz_EtESDEjoY6NTCQLZW",
+      "view_skin":"https://lh3.googleusercontent.com/XnqemAgyMuc5BS5YWRiNaj9zhpZ1mVrF5p01M2aATVgbTPs6nwqzL-8noAj8cGPvPJR6mVT8IhstcOi87x7oPKJpxlKpGJZc6ws"
+    },
+    {
+      "id":18,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/JM_iy93qF96BiCRrTlaaO3SQ4JYXECTzkFF1LMn0u16weyN3cB_FchRcWPgEtYcRLbMf__mG36ivg4Q4X_6NAjR4o8jVbI2Jvg",
+      "view_skin":"https://lh3.googleusercontent.com/x5fEJoUFdXlJNfkUvs4xrwjyDMfJXOgvNH14MeFdeOsxkmp0lY3scZXSnGEl9wuTWO_Qa3lwOcJRi2xz6cZcGEROjMNyFzLNzA"
+    },
+	{
+      "id":19,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/av18AH45F2oGfnE6vjOfDUpFFx7EFEMvQyJkiN9QPBXX2XakxHpF1Azhc8WgZdQ4wzWxVUlE2LQNVqo8aC610aJ0cn9RFF1J0g",
+      "view_skin":"https://lh3.googleusercontent.com/ynUjTYTswVN_fQjEqDjfs4KTerpnegu1Cr1qh20H4dkMMMJ4DWke8eWVgdSKGSJ9qjkBq0HRJUu9hHO9WV-etGkGgdPu7Ztr2jg"
+    },
+    {
+      "id":20,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/oLbjNFHf-G-bv3AtqzpZMjKb8rieZAVy8sxj2G86o0yK3F62Kss2NEPZnjUHxiF-A__4OEMePJdAoMJ11K8Ynw",
+      "view_skin":"https://lh3.googleusercontent.com/jfSWD58UKeKHiFXGmfoNH_024kYPr-3CgorbVLZqiuByrdC4X3vCSB1vfScyLfS7FItiP2-tzAn6rPJW4ckSjYlDE3lcXUGTj2bF"
+    },
+	{
+      "id":21,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/V9hmMIxV2yct-KdCBIKjYv3-MMmzkVK_UxUlwn5BxnuGDIhOjD0qepl5mbzMW3RIWKRhpgU_0GaWUape1f8_dMLzwxWe3hy3DJg",
+      "view_skin":"https://lh3.googleusercontent.com/f44ohl_lfgzs2Jl4p8Ni0oyEUy3d0mR3dd03VoocEPn5xSFrUUkr911omt29UQ5hJwlpm8BtVUGxGPU5Ol_xKYxNsN0roqpwRYQ"
+    },
+    {
+      "id":22,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/iFgqFiT0Rrj0NPhmxT2XkPSV4_WwtTGdfJtysWX3nB8vZt3UrTdysubCjGN83OsUf6ShO8tjYUCUVB7jLASGDA",
+      "view_skin":"https://lh3.googleusercontent.com/Iqlplu1Q1gDtagaYb2OZURjIRtETELMnTRhCREr_fRCEzeSwdhDkbocEEBg9APhbBfekErJ7ITqThWtBCCwG3-Q"
+    },
+	{
+      "id":23,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/keVvid_Xl9XFkHSR1LBwXljUepX33gputjku-TuODmTI0SIWytyDsqJpZNwD2Mcq58KDdG3Yknc5EJSgRP8nIQ",
+      "view_skin":"https://lh3.googleusercontent.com/XpOCuVTxqDjOLFjW6aRLWfsuY4jXAyaKdDDblA8IVLicpgxo8uTJaVLpxRC8DWQDGmm2UfKmJDr87l02ZNcH"
+    },
+    {
+      "id":24,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/fRi3rE9XIS55llJvkbaP6S5sjVvwokSqUZ6rtKNvKNO9yM0DxlJ4kNWzNTpUuxSSgHrnsGaaE3NwSapfJ1SK4w",
+      "view_skin":"https://lh3.googleusercontent.com/lDFL3KVpLoek2tj6BpDv3FIUNEwt2m27lhP2NFwtdAysz6o4qgFc_r79U2x7Zu9hS6bbICRye9JAIgHwaEPAFbI"
+    },
+	{
+      "id":25,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/FerI_N_dHelQg2Knh0SVdCoocdNW26TXVzF_4oFHVP1pFlBVL4Re4ibMF4VSS_NhvkduDsE7LjSJhRw5raXTlA",
+      "view_skin":"https://lh3.googleusercontent.com/u-G2d6F9yfkTIbCQLP9osBEN0PPPrUD9FBg_Q1h8h69Km18xT_Hd3iGLgdM7N1e5mjr3njmLG7OSOfbNKgs5"
+    },
+    {
+      "id":26,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/GQd4DhA0l9978y3blA21nLqDQzdZucqog7zqpHUtu-e4G9lyQ9Q1AgGJpHe-DUmkqJd14v_APP9BI21r0U1L",
+      "view_skin":"https://lh3.googleusercontent.com/y5cloBMOg3A3qT54ks_tCHUfSF-XkPK0UAlWqBYAqI14rD-cqfQg9Q74fU4dDEq4CTULzI3_tGxR4Jk1G_F0gw"
+    },
+	{
+      "id":27,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/j7ZkkAzriNF2dCDWdfRulig-I-lsi7nsYsdhh06dm9L5B5e2ycdtd-IyaPT9cwjaT5sxSJiVuNwl-m14upmJlw",
+      "view_skin":"https://lh3.googleusercontent.com/-G88O6vlukY6Lp1xDD1Fb4q4UDiRynZlAKWT4QqI15nui1yEo0-VeV7Hz_z42ya1HXcEMsLK4b68gcbtvS5vpxM"
+    },
+    {
+      "id":28,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/wuehkEDGfQdFxLWlabQHYVIFhWHOvilyvvPAKD4WCtFvrT4BmXsOII7VOVkPz48YRklzOiUjvMsqxrP4mNZQWw",
+      "view_skin":"https://lh3.googleusercontent.com/tLaginEGCLFsMqtj7ujN6LRw68-FTzuAb2N7zuIFmty_EqmCHw420JTebyMPtv-1r6jqhfK3eULL6xdQ_FVs8A"
+    },
+	{
+      "id":29,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/mTwNzMepH5QGBAIsccjEMYSfD3jy8y4eEGXxTTQ4_axpMTsgO9yRfMwy6Vj07YAcZMY_4X4twgGd7LXdimO9",
+      "view_skin":"https://lh3.googleusercontent.com/p9EI3-PJ0vwPUjPwq1xuRutO-QbFtwam_7cHHf4M9QPaw5VmNGuSTjcogCLZBdUye_gz2TGUY94wsPmlyvKUVA"
+    },
+    {
+      "id":30,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/TQlaaRHhN6vcWbYAekMtqnpb6K_v5voCaq1UySxBesk6zuqjzPYg5qlPy6GB5emHx8qdOK2okiPJTRC2Nb1klA",
+      "view_skin":"https://lh3.googleusercontent.com/cwra7LsY5myxnmzmgKppHg80xcKa1GUWvUUuVHB7e3nZ4D_NzEw0F9vn7frdDwLvXLT7KIAcTU7y-H5PGHhF-g"
+    },
+	{
+      "id":31,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/JGjjMkksHvj-ApGTUFq6Lu1-9oxwdP4yUsvsPvJQ2a_Zo07TXbcj1iSEHO_FZ9jRHMj9cyeSBBviutPo0eOX",
+      "view_skin":"https://lh3.googleusercontent.com/ExpvfVC-gU-TBhPkSIIL5ciwDMcUhfjXdgKjZxG2g1fruSvOcNPQOF1iTLjwEpD9DA8zWiRwCBzmXI-WQUSL6M4"
+    },
+    {
+      "id":32,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/sxSO_EHnCwjMUp2iMee0AcExDut-Hl4G4n5bxzQzNS3USXH4zZpAUaG5kFvai6-uLP4l6it1Vh_p5npgPjttiQ",
+      "view_skin":"https://lh3.googleusercontent.com/NZH57Spyq7lWmLoJUicELM42gslAsYob__l-0K9hiqld3JCO297chfc7Pe37TEElyhXnrGXoPVFhsDeeowvjIMk"
+    },
+	{
+      "id":33,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/tEkux9SYIQjuk4ReRjeIj4T_TlnfxJYl1NxA26JIXopJgQlaq50TO3-8lxrPsXEOoqZkiIZU31S-726TPYnufA",
+      "view_skin":"https://lh3.googleusercontent.com/eKTvblpKgLkNZj-VcAysQr679SKGviekZifGEA-rUywqigoJxnmUW4TOd2HC8u2P5fOJ3WeqcARDBSR3sPoV71s"
+    },
+    {
+      "id":34,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh5.ggpht.com/qEpwpgBXlxixA2MyWOK-BJ0fxiVKvrx-gz_Bav6XlkCW-jDA6-bwthFf4H-Pyg1mzAthQkw9Qk0ve8tbLSWYkfo",
+      "view_skin":"https://lh3.googleusercontent.com/RffBi7aWpQJeDyyGVtJPsSkLrgCWyd0gUzDF-Ony11YhMwbuAfIhgO4OcpwZvLqUuuvsjG8pQnBy4L3HYu2U"
+    },
+	{
+      "id":35,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh4.ggpht.com/fklLRZuYL8ezVNM2mYDtJW9XJ5gAyDVsW2tHs881aR5nvmhAOtHQGudlzQ3KB4YaKjXAO5ZkKldJIzKO0OVAtg",
+      "view_skin":"https://lh3.googleusercontent.com/IDT9rKh6yfhMizQ4H3c2TMv2jmcjkRDj6zLshzNMF_onG_2boC8sg8BW1tqjVRWzRfgRtgpU94sjBXEL7-qVxPI"
+    },
+    {
+      "id":36,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.ggpht.com/J97G9rillJrLzkUgRJl-HJHYo_pAFLQaHEFYvQYV92BHaNuw8dNVTvS_YcrWJuVSV9yz-VUyWJkLSDxzWiIt",
+      "view_skin":"https://lh3.googleusercontent.com/98vq5wP7UArBbubtVxRN8p04k84rOllPKHOoIS7A0bMmCeUxENzLoZl9zkayFzEOe6AP9uGK0981HJTmRV3vLqY"
+    },
+	{
+      "id":37,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.ggpht.com/An-foqtXfNyVCnvGn0ZiVcH4uQjeaLG5BOOfmUy869HZcD_WhefSC0HeRAi5F3HdO8eaOlyjTahXU7KA4tisRw",
+      "view_skin":"https://lh3.googleusercontent.com/LztYm4HwCB7XAlJJ76kGv5TwH5LENy_UwlKhmbE8qUGlMl8CnFbOwAP0RfMmfXOjqAppxIWmAoVbrkLJAKbp-A"
+    },
+    {
+      "id":38,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/tUBTrN7Ee-HhI8vQgZ5NRSaEt4areLGgOkXbApUBek2fNE_Y3IcIG4W3YKf25NWGSl_AeU3zSPmTIEvZL1ZaTA",
+      "view_skin":"https://lh3.googleusercontent.com/mWoJ7iLOBIlt_oKv69ZF2RaNDMSxXUQEcomWNqC4MN2lnJNUF7oO90Xf8-j0WtTj2yZMX-pb_JGQVplDPYBfoA"
+    },
+	{
+      "id":39,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/xRNmCGfzEaGzuYR_YyC3pn4N3HPRPwhSg4jtGJ_PvI_jdX70omYXbl_9vMk5mly1iCsu7QIue3HGlKrQRKPaK2SiVUsq-uQKYdk",
+      "view_skin":"https://lh3.googleusercontent.com/usVIHVy4a6evnOIvHWOxtDk63Kv7K1ompGYQC6e7G1yJP2260EY2EcrMMWgVfT25nO6KFo09-abSmE8ywmVlRnYKaZZ3v7MUZ-E"
+    },
+    {
+      "id":40,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/rwvl6xgQxCdCEoUF1yhtA9HUUPunWILVzBPClKwWe1s225frkoJtJDleV4peMeaEKfYo7JJ1nwitruBVWEb9kQ_52bcD8EHHZcE",
+      "view_skin":"https://lh3.googleusercontent.com/xD6bRB2sRwGQ06h5yANe4nOCZVmaSxorDqcdG_yD-5R0Zon06l2YgloqohVxjTWzTJdjQhErQQkyq0Dt3FpPehS--2CD9-Pm4SU"
+    },
+	{
+      "id":41,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/1ZZW8054y8A48BiSOKVj1_CPVf_BZRpExIi3HtfM-RTt6ZGhGmteY6a96QpXlaCTVxdUfenf4Cz-UdlJEOHRpJq_6cT5CvY7On98",
+      "view_skin":"https://lh3.googleusercontent.com/r-ERwBswNGVK7CfRTxtFG5JRVipbhnmfcnQd4wc_704CS6cRXtJR174fmtG9Y57T7RfZaYMoUzpxevhbmieoECL0RMNEFibhpw"
+    },
+    {
+      "id":42,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/v6seNwLVlTS37imFlKZCnrrRBW695AdkzTfOAKwV-nM3ALN34D3sfKknQmc3fnWc4sKy2qLSy8pxVQSVXyYjX-fJiuNzygNBYg",
+      "view_skin":"https://lh3.googleusercontent.com/M8c3Sz540ZWzssG-gfB-pmqhBgif7wLYNCnTbjuFKEFy-yXVAJYgY4shKGwF0SuirEMjNkrrUhZ2DBIzhiEE3A3ybfsAOF71anT3"
+    },
+	{
+      "id":43,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/fk1Dz1U_6PX9Yu3Ja8TGbO7vL6APX-U2y4taUTNNb6ZFzqBAPw-AYB2Z90buIdVnGnJUgjHbjd4bDUNeNi2eH-CGqIIfDFk-6TXr",
+      "view_skin":"https://lh3.googleusercontent.com/kCSaTTMaeww2yo8y5srB2ynrlMVHQPwzSw482ALDgiSOe9C0ugWUJn3EISFu-rziNfi4j9Dr1t8Zb7UUG_4ohcCcbrCj7dx-KQ"
+    },
+    {
+      "id":44,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/0J2X1_hqsA1ZQ19kKQ9tYhnr-_ACFJmbxbuNbV8n_YV2cK2a5yxFUCtOslBvj00VnUE7KECzk-n_D1bY9XfoyZAjvXWQ1H4nnNsV",
+      "view_skin":"https://lh3.googleusercontent.com/HG8o-KAsjWPz9tcA7lora1trKMcyvvgzJ3eS4dCZeQh2PlWRPwcKyy4ccFSmzSxTLwHcWm3vju8aYm3g3DRFzREyhC7wUHZtJDE"
+    },
+	{
+      "id":45,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/9ZMmk23I0zYYvt_X8mVZuHgEgSEB7PEbYvANNrE4gZUhRBj-qSOQF3rq2zM0Mup4m8ig_HZSRAnFDVLI6i7BAeu72XcQalAPjDc",
+      "view_skin":"https://lh3.googleusercontent.com/b3QRJlNNWY7bVZyPiO-Pg24dclJ32FefZ7q5fYtY7SMy1_1WrtriElhJtRjKVgMNVb8jRQ093JKcalAJFQRNdrNX-cckJsQ0ols"
+    },
+    {
+      "id":46,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/0J2X1_hqsA1ZQ19kKQ9tYhnr-_ACFJmbxbuNbV8n_YV2cK2a5yxFUCtOslBvj00VnUE7KECzk-n_D1bY9XfoyZAjvXWQ1H4nnNsV",
+      "view_skin":"https://lh3.googleusercontent.com/qDTzh7XB1wFBZ4getfCVFMox0wJ89Eu0f12kVqxJ018ODu81J9IsZ_q6Hyg3AP4bKgD4FwlID0zXuUfsEqQMh5soQmexUp1FRQ"
+    },
+	{
+      "id":47,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/Rm3DURfKNoY8T8-VKwjawFVd3sQA9vHQaYF-zwO5q-s8gpYioXYi8Hzvs9oQ--9WJIgGe81H7xbl8fgMnjtJcITukeYxdU8LtJ8",
+      "view_skin":"https://lh3.googleusercontent.com/bCs-oXHhTwYNxVSThwziAsL2G4hyhXrS1zzv90BZ5hP9zkKs9Mypq47X-NqSCv2hm7e1Vz41ElTwoVkuNSPMrrr7Tg2Q1b1yhQ"
+    },
+    {
+      "id":48,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/9RRkLD4D3TGQK_CfH0TDAiyTHtuC74aChlJng-pfKNKo9n2ONejqDTmZdL-vHjZ3wo8YhEsA5WTJz-oFy0hGRRTAkrH9mwlYBmo",
+      "view_skin":"https://lh3.googleusercontent.com/47ZFSwlQPZ7lU_0i3StctLh4X6HX2ybxaVTMERxU2Pk_wJehGc5yrYJec6LEhT0DcYmXhJkkodfBldxsqCvQzJVmt99ExVEvvg"
+    },
+	{
+      "id":49,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/NF8EvhcvfYis0xbTC_NNFj7JCrBijD_ApOnmYAN1FIj9F-pdyGdZ75-6-m_B9dAwbAV5BJOVzfaogfILEB8M85m656KgnVOd0w",
+      "view_skin":"https://lh3.googleusercontent.com/M04Ld-T0rCfl-3qex4dBnlUSdup6jLlXuKV5mLjOEO_If-4Vg_7GN_AjlIZzHmbJHGbY2AcfW3cQZuszfejQK4PKVYhWyajxJQ7X"
+    },
+    {
+      "id":50,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/cCCRUFIVwVtK-LmOt7cHoUUKmr_dKKLrETWn_YxdfEM3XLbSxvYeIaZOGuBV8FqeW5U6Gn34tyRv1_9NO0JroLKW69HH2Lj4rb_y",
+      "view_skin":"https://lh3.googleusercontent.com/bx1LmcVsdT_reguAAsdi3oqMZZDwwR51XwkeNjry7_3yLI1D-Ik6FWvoSHaHJl-o4EbnUvDimStpZswm9TYL07P0smTw4O-gfic"
+    },
+	{
+      "id":51,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/KRdoUb6_Oxtjljc6u2imK9Xr8MIZZCA2Bx5_7bSFxB-iQkz8x69lpamv2lfLJlIRnjsk5UAdK4ByMBeqchsq0N43G6upxE0VYw",
+      "view_skin":"https://lh3.googleusercontent.com/ADYWt81dEckrNAffJS4LxH-OPgxURFoxkUO4VbDa4Yg2WrxD4MWBKJiPI5FPe9cKHkcArLy_y8pPDGVGZaJgRfl_T_AqbsRF0rD-"
+    },
+    {
+      "id":52,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/WCWczfWMpZAUVnm1gpIXsc_byQH4R3yLBgtFDKZsw8tMZo3wT3pE3tS_l6VIx_daxp00hPqeJMAV7XcsaSOfhDADaIPoTNl2oZw",
+      "view_skin":"https://lh3.googleusercontent.com/gqOtTncWKrhk8qKUUVE2qcHS8vSGrEtE8Ka05uatjyjgqgUX8nrR3L02X77mHvx0pHFVCh_4aGTLFFaN7Ku-fp96gHBYhbKoMjwo"
+    },
+	{
+      "id":53,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/bnglm9uMY6rBUq6ep0e8YMVgwQlG4RN6i1IzjhxQZzTdWBixDc6ioewWBhbG4CgK6zTJ5Ul4qlHd35FCwlYQu0Nbcow-lsnW3zMI",
+      "view_skin":"https://lh3.googleusercontent.com/d9tUMPjoUNlhhLCEz06PnHQlOXyjbwWXiBxQHSa7ZvunJm9OZ9l8HYel5RvvIGrc4NmZLXqq2P4gOVsfWai-3oN9c6lKhFM9G-pL"
+    },
+    {
+      "id":54,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/hpDierJytaq0-sYW9sCd8xuqHhzGDDgBhU78zw8wMf2zK7Kubf6QxXHY3lJuofgneiLSZCwdUM2f3aeKF5BxaY3SoTNF_ALDww",
+      "view_skin":"https://lh3.googleusercontent.com/r2AFQCc4gKnjmfKWLL9a3ET-bOwjCHsy1Ulm7bka7oCnWnbXoy9jur3Ku-NjHVrrK4vdLy9GnJpaPspQKEDM5UaJbh6ommq6DjE"
+    },
+	{
+      "id":55,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/5jB-lCAhHs4EZrS19NzAU78jbDaT8PxoaGS_z04uR-qTuU2QPZJIbgQubkCQ8G_L1WAepSfs8GtmUpTYTfnYS01lzJdqJ29zC88",
+      "view_skin":"https://lh3.googleusercontent.com/HILd7mHti9S9i9XVyeFu5uYbh4vCol18ZXNumpPp4lpjh-3A29zZfg6e-agLl2-IRKA4Xa8J63flChTbXTJUWURdObHy7gzHlVM"
+    },
+    {
+      "id":56,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/zKxVl2_ylfRrkJnUIc2MnqVNDPXtAOQCB7u_PvlTyM3gfEgDMt9swnp4UPjT1tG6x1luQsU-sYZCdZHcvN4h_ohetBAtw8HT358f",
+      "view_skin":"https://lh3.googleusercontent.com/0_FV9jlaNSVbh63-MfAZ-5btqfv38DR9Pohvc8_0UODq47y_braCfg0sIFAVEiIDce5ctRQTWFEGc4n82YWV_NajVLcynXzu1HI"
+    },
+	{
+      "id":57,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/HDqx68pzrjM2rqJ3gvWa81qa-ATgo8wkkjfPXGymtu0fHt0z40C94YEwswbmsmkL1Zu1MsyYp7iPbOjcwv3oYA",
+      "view_skin":"https://lh3.googleusercontent.com/dEG9eVsP0XDbiwukWVMBaMV4vZrlOLmY19fOHQNRI3tUaCv0qmMjGG_sW-NPg9uNy1FRQK9J7dhXIj2WCA_3qA"
+    },
+    {
+      "id":58,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/t1x2_I3AM0wtkUChuW6fColCyvojLqoajGatxkkDQDp5OhM6Vtv2d_4kKwKnE4FZJmvpugj0mvI008RZLklp",
+      "view_skin":"https://lh3.googleusercontent.com/iL6p5ePpZoF6Ykdt3L0b67xPzPjoV1DQQ8xXjIBcqhbtt-V2kwuM10OiVdCJLCYkwV1qLdkA9nS68oDHkNgA"
+    },
+	{
+      "id":59,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/KyufogL_891-KWy6ybVVBatv3CpPj_04I7R_p_B6ipTOuIVBaMcFfLIcgFBmM5Rs_W2ROvCXjxp2Vot8Wf0-",
+      "view_skin":"https://lh3.googleusercontent.com/PnMZm9SLdt579dPCPn1qijhG32z-aeYnGwNzZ4pn1AmpM6GMAPHJluS8qnVIi7QzW352q2hkIHS3LJ3FnHQB"
+    },
+    {
+      "id":60,
+      "name_skin":"Power Rangers Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/clALhNbVfFYgfEdLg5ygoyWsUPVG4xFeBpCym15Lv5QmMbkWfgmf2OYUIrSpMGlUmj7u8wxWs3GrSIQ8AzKjM1g",
+      "view_skin":"https://lh3.googleusercontent.com/cQuJGDe7Zq53tIrrgYJjSgaFUg6GgGGGBMos4-agaiZDj_vYTZRyHhE6Iu_KvXOnWZAGhqcJoIjaF5I3OV8oi1Q"
+    }
+  ],
+  "Addons":
+  [
+   {
+      "id":1,
+      "name_add":"1. Power Rangers Addon MCPE",
+      "add_url":"https://archive.org/download/powerranger_202206/add1.zip",
+      "addB_url":"https://archive.org/download/powerranger_202206/add1BP.mcpack",
+      "addR_url":"https://archive.org/download/powerranger_202206/add1RP.mcpack",
+      "view_add":"https://modandskinmcpe.github.io/easycraftdev/powerrangers/add.png",
+      "des_add":"https://modandskinmcpe.github.io/easycraftdev/powerrangers/instal.html"
+    },
+	{
+      "id":2,
+      "name_add":"2. Power Rangers Addon MCPE",
+      "add_url":"https://archive.org/download/powerranger_202206/add2.zip",
+      "addB_url":"https://archive.org/download/powerranger_202206/add2BP.mcpack",
+      "addR_url":"https://archive.org/download/powerranger_202206/add2RP.mcpack",
+      "view_add":"https://modandskinmcpe.github.io/easycraftdev/powerrangers/add.png",
+      "des_add":"https://modandskinmcpe.github.io/easycraftdev/powerrangers/instal.html"
+    },
+	{
+      "id":3,
+      "name_add":"3. Power Rangers Addon MCPE",
+      "add_url":"https://archive.org/download/powerranger_202206/add3.zip",
+      "addB_url":"https://archive.org/download/powerranger_202206/add3BP.mcpack",
+      "addR_url":"https://archive.org/download/powerranger_202206/add3RP.mcpack"
+      "view_add":"https://modandskinmcpe.github.io/easycraftdev/powerrangers/add.png",
+      "des_add":"https://modandskinmcpe.github.io/easycraftdev/powerrangers/instal.html"
+    },
+	{
+      "id":4,
+      "name_add":"4. Power Rangers Addon MCPE",
+      "add_url":"https://archive.org/download/powerranger_202206/add4.zip",
+      "addB_url":"https://archive.org/download/powerranger_202206/add4BP.mcpack",
+      "addR_url":"https://archive.org/download/powerranger_202206/add4RP.mcpack"
+      "view_add":"https://modandskinmcpe.github.io/easycraftdev/powerrangers/add.png",
+      "des_add":"https://modandskinmcpe.github.io/easycraftdev/powerrangers/instal.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name_map":"1. Power Rangers Maps MCPE",
+      "map_url":"https://archive.org/download/mappowerrangers/map1.zip",
+      "view_map":"https://modandskinmcpe.github.io/easycraftdev/powerrangers/map.png",
+      "des_map":"https://modandskinmcpe.github.io/easycraftdev/powerrangers/map.html"
+    },
+	{
+      "id":2,
+      "name_map":"2. Power Rangers Maps MCPE",
+      "map_url":"https://archive.org/download/mappowerrangers/map2.zip",
+      "view_map":"https://modandskinmcpe.github.io/easycraftdev/powerrangers/map.png",
+      "des_map":"https://modandskinmcpe.github.io/easycraftdev/powerrangers/map.html"
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"More App",
+      "image":"https://modandskinmcpe.github.io/easycraftdev/moreapp.png",
+      "link":""
+    }
+  ],
+  
+  "Skin":
+  [
+    {
+      "id":1,
+      "name_skin":"Encanto Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/8r-GMmyAwtOzh-UwCog6QdyONTIglD360ogKHfXa8knSAIhEd62NcMIPLdl_ZKvW4ZfKUKgMd2kdd58TcOsWDoNJchBVLxdqHN8",
+      "view_skin":"https://lh3.googleusercontent.com/-n4TN9ZCWZnTeCh3AyvlxAH8edjbcncfFes1XsMnoMRw2K8Fwu6V-EPFZlnpX23DW8uXSNeUEbQFuIpkr_VcQXTKsv4Ch7Fj4OU"
+    },
+    {
+      "id":2,
+      "name_skin":"Encanto Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/DG2VMIAJwAN0mf5d3qdxN28UE9Srcu-L_2joWQmK-D-66i-wNwkNghhj2UVwpyY_kZs9yT0dhoq3cvOiuIYnJNf-s2QtGF-NtTg",
+      "view_skin":"https://lh3.googleusercontent.com/-dq3fU9abz6tpHy9-iwGglWf6_xHJk3wFxy5Vea076vPVJs_-dqoYBwr4TEvWOGTkguF72QXwFRZM3YZBL-UZGXVZJDnhPEDeg"
+    },
+	{
+      "id":3,
+      "name_skin":"Encanto Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/s-a_NyM6fQs6n-LBZ67dZX1AEsKSveI0WV3sDhOt4CgHwsczZ53qEDh6bbGGxkSnBFIj3rFhF4hBvxENgwgh6Ejiv3A5H39IRqw",
+      "view_skin":"https://lh3.googleusercontent.com/5DgGZEdREBwINvRjKE9XwgRB6XYWaYCzZGSoPbgqLNcguQpU4Blcc47dA2s6QDJrpdTUTK1A9NCRTnwDgy-Pd0LWYeUc5DbbqA"
+    },
+    {
+      "id":4,
+      "name_skin":"Encanto Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/bl58BjyVRljUAGOwbucm5uXpOaSXYak3UYTinfiui3otAgMXesWxM0L2CNimDW17lw2HQygxvPOjjRDy94FLMluEcuzm7iw8nYM",
+      "view_skin":"https://lh3.googleusercontent.com/kD2eHPIplHJ343BTTiWrmurtxMDqZ-rEdm8MhOYr1wjNa3z_7avFzcCoggkcuWRtia9RVTCoS9uY8pVlXrJBUlm1n9LyMKWD-AA"
+    },
+	{
+      "id":5,
+      "name_skin":"Encanto Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/hpAgLKFmyDBupa_CqKzfW4JgB4gTVYRgdm8gz61QKi4Iyf1OGVVxTuSQCbtc8hjFC-V_MLRI2IbJD-_7A4WOUIRkx6bg68jW66Q",
+      "view_skin":"https://lh3.googleusercontent.com/dr-W0j7o2L6ti_B8b6Q92IQGyKtuZNLq5NGQVAH-INqvZw4wYpTVKMhygbrGF0Dgao6H-RdU2qVKcBmc30CoyEUUv8vpCzbNgw"
+    },
+    {
+      "id":6,
+      "name_skin":"Encanto Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/YapkGWOfGVYruTBi_tO2ltoGTKY4r6mK-2hdGTCp8AMRAi-EcrsNvLB40RWXbcasFBefz4XxaFwGQATsJZqbfb_7aqkNQG_PV3A",
+      "view_skin":"https://lh3.googleusercontent.com/sEI3rb7fTpdt1ItKx6djiRSTslFzrusdEf6amUtYon1uqJbsgzfXSMrMzrZFX13eokbx2e1UtDp9IlNFhGVRRKI6XeqxLbDaBCpK"
+    },
+	{
+      "id":7,
+      "name_skin":"Encanto Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/48KDk8lbuvE5qhW-iUoQD6r5uoWrPRJR7c8eNRSPG0mLKH-l2XtbSIdiY8sxFJ96Tkfb0lqBEbT5F9rQSI2lVC6m4HxMyRXzdrQ",
+      "view_skin":"https://lh3.googleusercontent.com/SYJiK5yIjtaf98ubgYGzyq-IkzYNXEIsoBpAZpQ4to6yis1eoXXwEvARDgavXsLDe1PlH0Rb3yV5i1t1923oXMlrJAE81I_iaek"
+    },
+    {
+      "id":8,
+      "name_skin":"Encanto Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/OAMTJ60PweIObIJDwcY-xJ1aPGj6olkYQcWYhVmoIGKNwNzJXlM6JVYkptfW_vGa7LoQ5_149gmsJXuKQaCvedZqKQIZz3ozryA",
+      "view_skin":"https://lh3.googleusercontent.com/SkyEb4A9JB--N0-dc96C06igyQff14MMOw7nScgFwN5pmeRiBuf0MsHMsNZuPSp8VjtNfh96SGh5dmeB35HZ0h3T9GyKiuG9I_8"
+    },
+	{
+      "id":9,
+      "name_skin":"Encanto Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/qW9fFnZhy1F6JvVUV3KlsTr55qdllV8mrnYlxvGejXmxnsD8Z4NrIZzVR6oNxjpfqAONlLmR3d1AUZBgbpA973VHhaTmHjKOR18",
+      "view_skin":"https://lh3.googleusercontent.com/drTlP3lYHuIvJPM74cJ_GEh4kku6SeUrXzqORUvGzXmwbEXpOWmqSwxysdLbdgMHuM_SD6uRn5_RUYXEs6C2yNzRqWh3Kjr8eAE"
+    },
+    {
+      "id":10,
+      "name_skin":"Encanto Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/g2LFpL-q368B_koMw9F3NA7rqtYKKp6WgFFvgdJVKElUnxFBxUtSSteLUrKjMmK0uR4n5wZeM0EQsjK4Ht75-52ECuvhPaftgXw",
+      "view_skin":"https://lh3.googleusercontent.com/kUf2pXmQitnIhzpGCKZZtyH9JjVzZRNYTLLxz7-_fS-l51zcB1AAH7Cz6a8FGE2peP_OBJQKVbvuiLW_m5oBpGh3-u1x2fw2EYA"
+    },
+	{
+      "id":11,
+      "name_skin":"Encanto Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/9TA8_RAWnDUizlnOs3ve13vkRkQtMiKhujhmYRBfQY2JBfLcr-7L56uNI9sg4mSuckaenejldBXBF-6fbUA41GA1h39OFDh56AE",
+      "view_skin":"https://lh3.googleusercontent.com/PxX02OGavlqohMvIG5AQdALLnoEpn9qdcW89Nkic8qO12ljMHJ5qLNvaChQZpeRfDMozOYg8zJKZhjXmWCUR0H3ogXWTapNmuvRj"
+    },
+    {
+      "id":12,
+      "name_skin":"Encanto Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/z9gnlNW2OtDz94QFljzuUAweAbMJTuueDvJYyGJ7PmZf5LjlEFFXgTDBegHDLyMyHTeJ2hCBXsMXcqJRCRlAK23yPzbe8i6mhlk",
+      "view_skin":"https://lh3.googleusercontent.com/MzJo3yoF5Dn-x_0a3r3p2q0tuC1INPqb37311q0NjfkgbRWSFy-6aWYM-pqucWa7y0PVKqYfm84Fw4HyHtFtkpMkhlo-Vbq8gW0"
+    },
+	{
+      "id":13,
+      "name_skin":"Encanto Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/e56D65QgCs_jAAQP_-0P6XeU5C_LcGilsn87rdGk7nyNS7k2lHqmrNQ6At8JaptnkG8Ey0qr0r18wFYuI9jaWr40ZAzbsQ9oNbU",
+      "view_skin":"https://lh3.googleusercontent.com/s8sTD3PpLD2jlQuBFbYar245fv61LNnFJY3BGOQi2c4FA1DDGZkdKIxfE4-7_l_SZw3v-Nc6E3QY9ED0UYUfE6Q1PiGBJ5PXl6MV"
+    },
+    {
+      "id":14,
+      "name_skin":"Encanto Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/LsFKJNN6VPjFb5t2iPWhkQiyklDq14DNBA80CV_hZ6i8MDnvkaBWVGMSCsxkkCpHX_d4NIFTVWJKF_hLSl2lKmKF76IRGtJl9Vg",
+      "view_skin":"https://lh3.googleusercontent.com/xLYY0FzHvcG6_iOCmzY100Zo_Ui9_PoV94GNsT-6dsi16xBHTKPx2EuFf6cUyIEW5679NmtMGg9ac8oLgM7eE-7kVFPRvUm7j_o"
+    },
+	{
+      "id":15,
+      "name_skin":"Encanto Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/epS0zJQ86Eov6bI0-tM5Tsp-f_NGzn8vIiPjFwyQQQvFBYtSJbUWddA8nRiYR8VWmtta9diQLeRd2nBiMc1iHeeBPTDVhA98Kg",
+      "view_skin":"https://lh3.googleusercontent.com/qPXO79UsyxsLRO0JKcv7ycPuuRFjiSvy3FsW7gweGjXYm33kh3JbxAvWOaR2ZauIkcBlvF8HHfDNvQrkgL7MPgtPdrXzjgQcmH9v"
+    },
+    {
+      "id":16,
+      "name_skin":"Encanto Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/hquo40Rv0c7b523qeQN4v__mJ_oyrH0_HvS8_12StDf-AK9zW1gHEbS1osGFXhIuOjaLJzgglxfRKM1fdsvSeTyz1KW1-t2WU1yz",
+      "view_skin":"https://lh3.googleusercontent.com/JDiGfCZv7-28v8bs8rX99pRQey5K5FCDx4UeELs3Kmr51O0N7HlJRglPR2v2OGnrb7L1Ok2X147k4p3TmcbbTGSoevHU6nFA-I4"
+    },
+	{
+      "id":17,
+      "name_skin":"Encanto Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/MqqYPG_UAEzteJpaDCmCiH5YznAHxJjRhakndbmVQjze5FEnfrf1ajM51rzC2-TZTLAsenRtJ-WkBoD1MEQyQzFbMhOAD4ER4Y8",
+      "view_skin":"https://lh3.googleusercontent.com/M6_9S9zpXd9D56sc3hK0Ci8i-TglHgcTqGn_FFXrqNKBaK57Iz43PvvwqNZyoBP6gdJqRRsy95GvaYIeN0fLr2ZomM07567QJAKj"
+    },
+    {
+      "id":18,
+      "name_skin":"Encanto Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/s99mI-LisABp8VdvX8dytX8E1kK2OV3e6Xj5uZ7DleMoVKzJ6_MJq6t2NQdIJueQsGSsgHDZQrcgLc7v9WfQQE4Z8f-4V1qlIOn1",
+      "view_skin":"https://lh3.googleusercontent.com/tALa5eak-kbPF3_KKNvrTGlzJYvmCmzxKyTS8wR5EJhTZ8il9KgClngayniqek0E96GyuvLxPP6RZTqPal-W_0hNPDLrTUwBWfIX"
+    },
+	{
+      "id":19,
+      "name_skin":"Encanto Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/CfTxcR7BjSpIJIlS9cWfWB9Gw3QnsOfZkiS3qVjEbB63tQ7e0E9dG_wHfngzRpzxv_m1WHKR_L9mr87-FIbWd4ln32MUPkt_9Gs",
+      "view_skin":"https://lh3.googleusercontent.com/pDfLCEVjBU5CRwxEQiUdAV4hHfqdZxtiTzWV16pmu6cTSBLSybUqAQ6T9_5slajH6NQk-Rmex9umxrXbfLvLodeuNe3KHA3z-34"
+    },
+    {
+      "id":20,
+      "name_skin":"Encanto Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/T90eqvSntFfdhwbYt_XookMYfOjYFpe7jFXjZQCw1XRCcsq2WrvAhJfjYPYX1pl_tQ2BhUVx2wFA_juHi0Nw7zZBCW_gtaVppKg",
+      "view_skin":"https://lh3.googleusercontent.com/7CX1c2faShPPazj_b1aJIe7-J0Om6qKFESff11hpNIPZTG9tSJXaFl92InWiPUOQP68mstVd2x9jrM3I107SiR1UkofRXrum87i-"
+    },
+	{
+      "id":21,
+      "name_skin":"Encanto Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/gV7DuCC2nGq0SF64ENPdTdOKHPIGxl7FXdBdbfaVudF49xTQV2KWd9JDoJG_XXaCRlGA15mVAnTUAjrRo8dYOwDndeUyyzYTXSg",
+      "view_skin":"https://lh3.googleusercontent.com/PJaEUOs68N533kv_6Jg1VHwF9n4EZQPTDELjrI1YtY2_ZRtX48aWCutcIDK2hot8NW88OXhwjXgxwKiwzoqygLwJGjEnMVvUrg"
+    },
+    {
+      "id":22,
+      "name_skin":"Encanto Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/v1hht5nyhCVi8uvutrwkwJSQs2AaY9dKIQrb-irIsKr4gDMBWZWiaKaMH_4awgd7kOPMVYz8yci2QeKDr8RjGVVaSJKB1sZ8l5Y",
+      "view_skin":"https://lh3.googleusercontent.com/d23eQ-qHdrZ9tkH5zTc1vG9_U4PMW31fkQYGZ0FLqg3YTZyvtg0RbslFgu3aSWth_XOFm9rqEFm24Tp5UX-FYu0NbxO4Z7f-tzE"
+    },
+	{
+      "id":23,
+      "name_skin":"Encanto Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/8HtiAvrI3AGRnRU0PFWjVhdioLR6pVDbR3GpiSIfbl1GO6OdqJGS04j3mGqaqzRX5mdUkEezWegtWu7GE2HNUUWG__A9SApIbA",
+      "view_skin":"https://lh3.googleusercontent.com/1xFBqSGlKE-WcRaY8q1glkcXdoLToriiIs8CMGFkp8Rud8Xc04Uh6FHKUo9QRSEPu4dZmi-xfw8Rtuko0QyvRUbH8bzlNQ0se6o"
+    },
+    {
+      "id":24,
+      "name_skin":"Encanto Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/0pqTO3O1wKKXEdS_udeqbKkqH_4j2rSJgLKH5jDVLLzpS1n-XWKDe6F7kZWOmCsxSdG9ZpwbjMAzpFiyxCI_sNHLkz1prxwmcg",
+      "view_skin":"https://lh3.googleusercontent.com/ameRQgAVan3maCf4RuKiXQSviqag4iUmye5Mg8OCew-7xqN1IPU6KmigJbN5fA_mYshBZg-7Pl-e4l_XVI1Qm9_6zHT4HnUjeg"
+    },
+	{
+      "id":25,
+      "name_skin":"Encanto Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/VqHCnxH3ZnP2oedsXInhQ0Ib14Gw6z6rNOJg1KGbskiAP1VYvXdNU05Nj78qVfNjqx3MsiStRnJWlXhv2Ihc1mBywje-gY5No4EL",
+      "view_skin":"https://lh3.googleusercontent.com/toxhZcSz9Z3djQkG1iLcU1LWALP9Es8aUYsGuTVnnM88QsmAChAxJOTKnuJC-NyIn41ICG2jXtWHnhjs_lc82Pr0_Yev7Nm_Qv0"
+    },
+    {
+      "id":26,
+      "name_skin":"Encanto Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/fW10S0HFoaJcfFIsoy5aY0GKhdAJOOT7f-Y-di_XFxoTVFcfTbtGr31RMM-a2pVWFimHHfMlZlRxNIQGV3oMMHzLnCi4JqrQa0k",
+      "view_skin":"https://lh3.googleusercontent.com/5TV_HvlvYsO_ZaYmmjnAM26eZZ6mRxszE27YTNxT4pXPPXYhOCNeTpwTIVjsp7XbTmwjj7pjMWst9TSCSpLAfEEisvX8eA1HW9V0"
+    },
+	{
+      "id":27,
+      "name_skin":"Encanto Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/m80PFRjnaLRwfajP2u5iG00foFq0ng0C1dG1D8Q4td4AaccfPHRDw4cKjFwBFdjT2QqEyXiU7cM1HINOdxktW5eSgMTQRAGNZaRq",
+      "view_skin":"https://lh3.googleusercontent.com/tlKTv0LYwTOGNbe2d2JXCXiulf8VSFxc2MkxUpUK8ZzcNhhmgOgLqBeJ8NiUIyEFbjr_fPzIj9cBj_cO-ettbpd08BTwfRrH7Ws"
+    },
+    {
+      "id":28,
+      "name_skin":"Encanto Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/oBBL5Ho8V49BmdYbLDaUvwKTfbXSwpWOMwIvtAe6swZ2ZbZ3dZgtGUmRbWuVfz15Mtq-t6yYJJHv4Pxq_uU800JXFcomm8shi9A",
+      "view_skin":"https://lh3.googleusercontent.com/qaH0f0iPVr9z3C3BlPGbZnil1f0phjS5s3INeTSVXeWHt0FfNYYGwQ-FWZLbLb2z-tlV0fbpcmfZSPZ9Esik0dwBHroSUqKy"
+    },
+	{
+      "id":29,
+      "name_skin":"Encanto Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/roEnqfG2_cY8IwzKd87jSrjApt71gVs8u6Hk_f4OBMhRPOvWPNItCCb-F6fHjCXoHrLJaEeKQjXO1EvEChnwoi_XwT9KHCSkNQ",
+      "view_skin":"https://lh3.googleusercontent.com/n6OPGxrHsnE3Cv9Ly16ERmE8HL6yFT4JS587fAL4fopgmKtvOuTfOW1XCwSLAEbqyIPcyi5nZ2_WpsQEzJAWV5xVvY1rnWJhifI"
+    },
+    {
+      "id":30,
+      "name_skin":"Encanto Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/UAqdfGDmcUnKDmLhfvesCNFyE3AXXo0V1b1AoagTkvfZDaqSypmHtsFFy5NW-6wH-i0crHK4WH5mO_xRuZWY3w",
+      "view_skin":"https://lh3.googleusercontent.com/n5lSLqhxnAbdiZ8ExBX-LtouTzEGrVSO1o_gPM00-WHLTxc4ISCssIuuEvC1DSpvYzlEvdDuRfNppilITyXYH1o"
+    }
+  ],
+  "Addons":
+  [
+   {
+      "id":1,
+      "name_add":"Encanto Addon MCPE",
+      "add_url":"https://archive.org/download/addencanto/add.zip",
+      "addB_url":"https://archive.org/download/addencanto/add1B.mcpack",
+      "addR_url":"https://archive.org/download/addencanto/add1R.mcpack",
+      "view_add":"https://modandskinmcpe.github.io/easycraftdev/encanto/add.png",
+      "des_add":"https://modandskinmcpe.github.io/easycraftdev/encanto/instal.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name_map":"1. Encanto Maps MCPE",
+      "map_url":"https://archive.org/download/mapencanto/map1.zip",
+      "view_map":"https://modandskinmcpe.github.io/easycraftdev/encanto/map.png",
+      "des_map":"https://modandskinmcpe.github.io/easycraftdev/encanto/map.html"
+    },
+	{
+      "id":2,
+      "name_map":"2. Encanto Maps MCPE",
+      "map_url":"https://archive.org/download/mapencanto/map2.zip",
+      "view_map":"https://modandskinmcpe.github.io/easycraftdev/encanto/map.png",
+      "des_map":"https://modandskinmcpe.github.io/easycraftdev/encanto/map.html"
+    },
+	{
+      "id":3,
+      "name_map":"3. Encanto Maps MCPE",
+      "map_url":"https://archive.org/download/mapencanto/map3.zip",
+      "view_map":"https://modandskinmcpe.github.io/easycraftdev/encanto/map.png",
+      "des_map":"https://modandskinmcpe.github.io/easycraftdev/encanto/map.html"
+    }
+  ]
+}

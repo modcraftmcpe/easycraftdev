@@ -1,0 +1,256 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"More App",
+      "image":"https://modandskinmcpe.github.io/easycraftdev/moreapp.png",
+      "link":""
+    }
+  ],
+  
+  "Skin":
+  [
+    {
+      "id":1,
+      "name_skin":"Space Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/cyXPTtzXNFMa8N7ZD7tFYXTdFFiaZFnSe6yldloFQ-OM5R686vUeOMEOKuolm9PrsIomztrDmFHt0aNQ8KI0ANjiBj4sHpmggoM",
+      "view_skin":"https://lh3.googleusercontent.com/a1P9Wlh7ZOIc4HAJmLHn_4GSLokkMfNZzrSRgKNurTkra1sc9ouK0fgj40eucKN0SixWRrWp6TPXSmpmp_Ha0wXfLnKsmnOUkm04"
+    },
+    {
+      "id":2,
+      "name_skin":"Space Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/SRia9cHoei5yHkb2Vdwcqgpi-TV3CsHhCcQJuQsQ6uedVwuBNM1zCGvOmH6pASSi-zLlXpbQ5rgtaMwEfCn3LA",
+      "view_skin":"https://lh3.googleusercontent.com/kuwWRHsLQhDc74K3F7iwEHeBI0Qhw8Y4K997V6uNMtvEDF-fnZHORfkKxY3LpJrCVHj11rHKXXIaquWPgbkOJg"
+    },
+	{
+      "id":3,
+      "name_skin":"Space Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/TesZKPA76AxejqTsYueAIMLgW_Pv9lPr6PxgJxrena7j7aaMHADc46oGZKV84HhTltWR1atBDBpUwSRDMinIgA",
+      "view_skin":"https://lh3.googleusercontent.com/ohqNPu_3KYQ3dJiNLI-JOvu6bDhNXBJgN9JihyoMWz1MEI-mXE8ZkKkFu9xuLsNqcleA_qigt1ggQrTEQ0Xv"
+    },
+    {
+      "id":4,
+      "name_skin":"Space Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/CnMWos_JrQu5saVtKaYTpm_JvDa_pXkMBfZI1OCy46mGSKJJ-lgvGdMJuv8HSPSMVUZwltgmLFPfhCy7F8w0MgA",
+      "view_skin":"https://lh3.googleusercontent.com/uO6OOYtd4nK-Y0Rpgxv5VMS48LKgSpcXmOTlks9EQDw-EP9qZjHuodCPvKlF2XYZrheKz9kmrFhPn1bbDDhcSg"
+    },
+	{
+      "id":5,
+      "name_skin":"Space Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/SdYo-H1YS7FF5xf5Vo8R8XM-Pe63bojuj_AEeDXCRI-rj7kja-66wnEIkXw280ohBH1ZktxIBny4Mdll9HkK6w",
+      "view_skin":"https://lh3.googleusercontent.com/lDpwhOVNb7vjRWijgKnqiD7SMUCAvouXFeMa0CGsRM_XX-xVY_zKw5j1CPk8sCi6hwQTZ2ldDeccXmzWgaebSjk"
+    },
+    {
+      "id":6,
+      "name_skin":"Space Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/ktkgFWCnExJQnLGz7Gv61rdqw1F0uqL5MRQhuxB1THkKCcoh8lDl5jLrXQULWcSXlkPuf12tn6NoPmDGL_3v8w",
+      "view_skin":"https://lh3.googleusercontent.com/Hc0TMhLdLRCWo1He7nac7Imd_LEX0EObLYkzPIJvYDi1eQeGFIsCfgd4r9PGln6ZBR3eUnVE2btBcqTwEiefJhI"
+    },
+	{
+      "id":7,
+      "name_skin":"Space Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/Rw3oLEeJ9YfPKcRGOIlcHvUOwG6mF-eMMrOawgwPVosI81_oT5m0eEPcV1bB9rU9KM7FGc7Lpqs1a-VhbyEbe0QQ_ZLdQXlP0CcB",
+      "view_skin":"https://lh3.googleusercontent.com/QRbLbHN1ShAsJzh-NUiZZeoD16U7pUMUcl_9dxtmeZaDUxHQx2FR3gkxXLHFOWMUFbdV-eIBOMZKPGASM_xDJXfKu-vNrTGW1Q"
+    },
+    {
+      "id":8,
+      "name_skin":"Space Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/WbIoGMQFVBEtmKbe5-r_ZUtyFRZYck--FRTEaU77xbFYtJWdXqqXkFfOPrErhkz-_oWcEgph86_-LXDPzx75niG_UWP7_9u3zm4h",
+      "view_skin":"https://lh3.googleusercontent.com/L4N7DOF1VWB8ZsqnoB8n1x-7VWfM7vNqDeKKZpzDrEsawUgOtQly0NtTonxVUPzIyijgVhK08vlCZWBLOFbRGsIEpVAm1eNXtz99"
+    },
+	{
+      "id":9,
+      "name_skin":"Space Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/XSXxRgXb-nFg-IqUymWKHYjCObgTt2C06T4g0uq6R1dkheoFRccQTa5IWmmEGe6Ogef3gpjdMCWx7Y86ydqHoNiBrx8IXNHSRUs",
+      "view_skin":"https://lh3.googleusercontent.com/HDHOTxrDNkiGdLjPBTDMi51tzfrHDHW2yJXMt3FS60aTI79r587CEiqsGSHbh7esyugF8Z-QxN7CI88oMCH9HYf2ArHdILzS2g"
+    },
+    {
+      "id":10,
+      "name_skin":"Space Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/adoQ2qfgYUWzXObTScrA40qf2QX8A0wK5rUaio68Ie_66wDmieuUndsnfxL0VqohhRgsGiGYOSABN_tJxmaKMbudb4DfEzMZ8cc",
+      "view_skin":"https://lh3.googleusercontent.com/kfwi04O2Hr_-ZPpTz2VZI0vMsyfdyvwKxX70MiI6NTEyuogimiplHDW_smuFgGy41A4ea-Ahr3E550LSLJi2V24aLD8NAtJu7w"
+    },
+	{
+      "id":11,
+      "name_skin":"Space Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/JSxZFFhlpmYfyLG08C8qU5IC_VZAzlBnUg88-AHeulq0OpBVfgnI9hi8rCPoGRagx1vPVFh65EtBMSl2ZANpeUggUD1t5iZVSw",
+      "view_skin":"https://lh3.googleusercontent.com/LuwJs6aZvIKt1pADM2v4YFKjfRJA_oX0d7onD4tYNpima6XzBzPu4CTIWDFfdyVPcnwDCOMRBIOxdv4nGpVbhx52CnnZNz9Z8A"
+    },
+    {
+      "id":12,
+      "name_skin":"Space Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/_fvtMZpv56AMzS4M83FraWUd_B6YHvKwqYYPeRCZp7BmeHpm5kz2UycvlEIc1gi-XJdPxeolx7WuROkWbqVD_qKQ9gGSCfpL8fw",
+      "view_skin":"https://lh3.googleusercontent.com/dtTk-XHgZgw4lbP0qeGrBKeuQWhq26c2z04qhmSAaq5tHuZfbO3ZaTF1OlHJiyMVlfEBL5G-AB6KkISr5BTFK9QVuOXxIpIf4g"
+    },
+	{
+      "id":13,
+      "name_skin":"Space Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/OhJuOf6_Hh2-u-Ng0t5ay4WLu34wcMNDdmvFNqNO4Oy71zp99dHShAK17ykbZ-DSij9wlBrrDJLrpc3lcdr1kC-8QeQWmMKQzQ",
+      "view_skin":"https://lh3.googleusercontent.com/bzxQvMEK3dZO-ary05aXaHiq2FSkGwk7V5ctjjPO_TTn0F5CQP7QNtC6qsttn3HWOl2Y7vlICw1OmEWJDf_qh9pYMdueQcBscA"
+    },
+    {
+      "id":14,
+      "name_skin":"Space Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/DESTUk2L3o5EHlj5DyOAawCFE1jvFBLpewvICh7F95Os9me-nO7LaBF6-U1_vRmM82rEevpLcKeyYx8fkw5hdN6BkEGJamABjaM",
+      "view_skin":"https://lh3.googleusercontent.com/LfjKD-xCBPVZyTsvKHlkja9vqRp3HwfI_TM3NePKSYum6rzYvnNkSHOQaF2QX1Ght2YBcOL8FpejbO6OJYYkM8kO5Y5LftdaUg"
+    },
+	{
+      "id":15,
+      "name_skin":"Space Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/VCwY-AIR3_YppZW4UrCHe5LElW8O-i2TIeQPOc43-EmXm6CspSi9bSE9WhHWI79TERfViYdBLEnmW6hF_ykqHBLVKaHS6RbcjJtL",
+      "view_skin":"https://lh3.googleusercontent.com/VH94PftBvxE9aZi-hN_ocoXIU50W6h5ejQGGjoU3IJzfYtx_9VSO4m-NE6i27PNujGP9_t_HqBU-5dA1ju--FzKE9nz7cWeNu9I"
+    },
+    {
+      "id":16,
+      "name_skin":"Space Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/fSsW2J5000CvMvQQ8DJZnYKwP2xHFwTafhVB-TIiQiLgyxjj5S28y7d3E-W4y8rSE-gptYTcr1JcwHFJD3gGDbkxSFdA8CgiWA",
+      "view_skin":"https://lh3.googleusercontent.com/Fkuhc6kOXPqvdk0DVchwF_5tCPrDZ8HiMCclt65kIZzdhakYYcR5JzJ2nWv_Cof5PPRKs6izoTX2ZjsTeXTVWU6bc2BQOx3n13U"
+    },
+	{
+      "id":17,
+      "name_skin":"Space Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/QOxSok7rWftZGJp_ScscfDhHECHqS9wmUV6Hd0vyYpz4F5qR7g7zoVi9Y39WjSjixtWprsB6i3sDAij7zcBPswPnNcKQdQFXWPw",
+      "view_skin":"https://lh3.googleusercontent.com/myE_K3img5UaUx0XtL3kaAK3HgssuAobGAEfeZqvBbdg8tnJxuZ4vGjuesWgFgy7wHRe9Ful2ig2BBOso4_7YcCtomhRyLz_DQ"
+    },
+    {
+      "id":18,
+      "name_skin":"Space Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/qU11E2SJwNIjXnZ0HxB9fa_J-0YHxrtAbD_oBKxgYYdfWqTK03er9LLiba7TpMcbITwUQuUZILntNjJEahFnNqnPBAI1YzZqVg",
+      "view_skin":"https://lh3.googleusercontent.com/QUSnKOr6BR-EPMgD-txBMIpYVW8sptrd8zJSEQFs2FO6p6tXnVLQ5x265UEXjYckIcq0JIJIzTR7i80D04SLpZBRxbam0N7828Y"
+    },
+	{
+      "id":19,
+      "name_skin":"Space Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/nnHwwHj8Xc9PdwbiMvqoS-6SwKO9-S4-8JRjc2QaQ2F1HwxaQAWXlV6JmSy31F1kDDpvGnqtSOqJS5YGuslZHt5kETQym4obzvM",
+      "view_skin":"https://lh3.googleusercontent.com/vWQKXzBfOgAY9c1EjjB_DTMbUbmtFKoNtIHvWjmuD-1poXEk3ITw4WOuoVf4EiO9XF4Smn5Uv18ncnujYXu4V9lWAfQ6rUfCcg"
+    },
+    {
+      "id":20,
+      "name_skin":"Space Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/A9mDfbpwg2DAWwSYI8Z6W3NeoYHMjSvmZ_124BUJHLh_-I7h8dK3KDp4FEvpSnCMcEuq8UEglQC5lSN-QypJ3y2MMYDZBitJvxY",
+      "view_skin":"https://lh3.googleusercontent.com/1BPBPEY_NNanLVLkYIk522tx1aHkcx0Vu-UdTWiXHdFb7w-AEfzeBKrA3zFp3P7bBYlIimy9ovThZqBMoCDSOPyLoE5Py5um4jk"
+    },
+	{
+      "id":21,
+      "name_skin":"Space Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/QJrJDBBgGiyxeZAxkZLOuo4HiCpGrelMKpVDbmIywmjyqIx5Z6iAiDgWC8Fj-_V5Ujq8FF7vXW8EN24fsSluoAXCMooHoEZ0hXo",
+      "view_skin":"https://lh3.googleusercontent.com/sP80HQyzxHfSZYy4HHHyNZ_RyzsmlbmTXq7x7zLZPcZSSclxxOIQO6MQvky_RG41dqhwhEH0s3Z2KjDiAoUcpi9GlPQaY_-DaUQ1"
+    },
+    {
+      "id":22,
+      "name_skin":"Space Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/-1fubFW-GpNpRpnCrQxD2GNBthx1vqLbgqtpLwdhlkKUQIyUQG3mTndItAQH-qjdX4BUJ2EGIppTtdcQfCWmyzwN27oU5p--Fw",
+      "view_skin":"https://lh3.googleusercontent.com/4O_BTG7eOlUqqyLjjHgvUFqt2YwTOHmGDBYivOGYGE-M5gzwR8aeRq32LpAkNhgjQfGPaS7rmBX1MrLkWbLp3AMJRSyPK3amHns"
+    },
+	{
+      "id":23,
+      "name_skin":"Space Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/jw9Zt4x3-cFceMP_fR_h7J0B344PfQPIaLz_DJp9oyngxBh9h6iQco9e8MyI9Mg5lMEQYDM_kjCvsH_zk6m7tETJdSL7_EZdhC0",
+      "view_skin":"https://lh3.googleusercontent.com/zEaQxqHRfiCsRPB7suTUmgWcwtyiL-xpkt4ftML7NrZL9hzNBKrXnF-KAFa37xy_V7k9tHKU6pWmD8mf_8-iqMzzv4XtQKBMalaE"
+    },
+    {
+      "id":24,
+      "name_skin":"Space Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/U78aIfqG5OU5X0HnWIMWMkKIBtJhLoUnAWdyds0AOS6eVqcLKkflRpZkl-Yba06VzznSDlpoE8zX9BQ7zHBQ1RIJXzR8iIkIzFM",
+      "view_skin":"https://lh3.googleusercontent.com/_fIDlD-QjBxCh1lJwBviCpJnzawzmh9qOxSP-V5z_mJ_xBg_K4A-sZRlXEXSqGZ1M3GFAIzIgnrnj_ttQf__KM5E9tr77VWcYzw"
+    },
+	{
+      "id":25,
+      "name_skin":"Space Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/nU85EGe3VB1nluK5NkDrQPqRnK8GKEWWnVuS9UVayEOD4kvs0SIsjvtop9YNuO4RxCf7owVKmszJpwuxyMFuJUjGiPe3PekOQWmz",
+      "view_skin":"https://lh3.googleusercontent.com/K1lgdaaxezbvWqg72IMGu9dzSM3-guXHYF10IdQjOzYePCNu-v29IwPN8__oVFNBHhN7YAV3QS_Ttghqk2RIIu1kg5UtchcKXMHN"
+    },
+    {
+      "id":26,
+      "name_skin":"Space Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/4K18Msoh2grv4NuD7vldGDJW3dKwO-NY6oBFmWXNW3uGCc_H69n7AgnSqPDlkkNaT5mkwn84Y1T2dNSQk3qaWiCFo7m8l8QFwCc",
+      "view_skin":"https://lh3.googleusercontent.com/uUB68Al8K3W46UIWRG7tXGfvXcnhOUoa5tZQwFOdKQsWtOLUrN7I9NRQYC2QbWsJFuwBdTEiaely-_hE4MVEXUK8swzbudypHQ"
+    },
+	{
+      "id":27,
+      "name_skin":"Space Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/pNOTvXi-2Tz2Ow4rLu6h6J_zR87-MQusjtlba512XXGymPUYHucDts61R0G9K-bK5j9eNRpnzjXzBHQyl_GpTkeYhovTdOUXFg",
+      "view_skin":"https://lh3.googleusercontent.com/DqEG2SNGlbHzKpevW1mluJqdw8pnrsAWr8ndamxbaPMwPdhAR3Mz_IBsdY78AagCJ0xSXmdqRmHdzaQud3zc5-cgKhWK8FQ2Ri4"
+    },
+    {
+      "id":28,
+      "name_skin":"Space Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/fdRTpGyWNTXRhIi5YqXQjTkod8IP8kRSPdM_Amf_qKixZcBEoPNrDD33t4_kGxn0GRviP31foGMHA23ynTDZETaYrCpk2PB0haJc",
+      "view_skin":"https://lh3.googleusercontent.com/JaBAC-M7mjYh8BNmyD5scBIi6iwGAs7XLmHmDriv1eTTDZk2DqMHYRrEWeYy4FVxSrBTuwaMp-EfKSa-7Z7dDmZhcOC5LBqls5c"
+    },
+	{
+      "id":29,
+      "name_skin":"Space Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/ncT4qW90YR9yMZrv-qImVyPpgxMpURPxEs_lDklRsYkO5_yXtyeXiS9SSDPQn5OVk93D8rP6SATW2kIdtjJq4PU3O5h2b5O1WQ",
+      "view_skin":"https://lh3.googleusercontent.com/qb_fd9VMZ3fgpJbZa4jDvaK0g5-A8bqDVaVtNjozZ01Ze0hCcWPFcr4Y3LOpr1epXnVzXXQC0Dm2b30LJd6pAU-MPO5HkrE_dA"
+    },
+    {
+      "id":30,
+      "name_skin":"Space Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/ErL43KLIdiEo-g63D0T7TypZhwx6kafD2qljV3Uy3Lfl0JREL8ugknGuPATxjvS54TDS_-OY5gtfEVshUqKfueJcndCzEEbXlA",
+      "view_skin":"https://lh3.googleusercontent.com/RfqIcR4l2Y5CJrYwVwGBaJQ5UW5r3--uta5t3qYURFAvPpdx-IMtYur9JRbD5irSnZSxib4UutJ7uLlXPL39LDIBblnAsi4RxdU"
+    }
+  ],
+  "Addons":
+  [
+   {
+      "id":1,
+      "name_add":"1. Space Addon MCPE",
+      "add_url":"https://archive.org/download/add1space/add1.zip",
+      "addB_url":"https://archive.org/download/add1space/add1B.mcpack",
+      "addR_url":"https://archive.org/download/add1space/add1R.mcpack",
+      "view_add":"https://modandskinmcpe.github.io/easycraftdev/space/add.png",
+      "des_add":"https://modandskinmcpe.github.io/easycraftdev/space/instal.html"
+    },
+	{
+      "id":2,
+      "name_add":"2. Space Addon MCPE",
+      "add_url":"https://archive.org/download/addspace/add2.zip",
+      "addB_url":"https://archive.org/download/addspace/add2B.mcpack",
+      "addR_url":"https://archive.org/download/addspace/add2R.mcpack",
+      "view_add":"https://modandskinmcpe.github.io/easycraftdev/space/add.png",
+      "des_add":"https://modandskinmcpe.github.io/easycraftdev/space/instal.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name_map":"1. Space Maps MCPE",
+      "map_url":"https://archive.org/download/addspace/map1.zip",
+      "view_map":"https://modandskinmcpe.github.io/easycraftdev/space/map.png",
+      "des_map":"https://modandskinmcpe.github.io/easycraftdev/space/map.html"
+    },
+	{
+      "id":2,
+      "name_map":"2. Space Maps MCPE",
+      "map_url":"https://archive.org/download/addspace/map2.zip",
+      "view_map":"https://modandskinmcpe.github.io/easycraftdev/space/map.png",
+      "des_map":"https://modandskinmcpe.github.io/easycraftdev/space/map.html"
+    }
+  ]
+}

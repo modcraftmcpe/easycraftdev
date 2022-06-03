@@ -1,0 +1,445 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"More App",
+      "image":"https://modandskinmcpe.github.io/easycraftdev/moreapp.png",
+      "link":""
+    }
+  ],
+  
+  "Skin":
+  [
+    {
+      "id":1,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/6ziEPEB5KLK4oQ0-ql4KfwL3PDlhBAoSpXNEo49UPhhSsdBKTCLe238I5IjEemnd6bzCLYgRkr78fwpmUW1h6-G7TN5jC26utcE",
+      "view_skin":"https://lh3.googleusercontent.com/H3GMalJn-TMZd27rvqlFXhVemWE5OV9_LWEryZ5Yw7alxISZayNLScce1vOK2__Mb_OLMNnsNUYa-ZC7ikowJMY6Ug8cBJ-qkQ"
+    },
+    {
+      "id":2,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/f2O9gTcVyAC5C6HjW7PolR5-TY8vA2L_9VTDpQUOaFgUolU4sd-_PMx-jkxuOWx1Ck7u9wfn3G2q0nih5qD2",
+      "view_skin":"https://lh3.googleusercontent.com/NwsU1HWY5QugmHbZ28ygXxR-1IAbvSwyItNdNQO50eBwfp94waW-A6bZpFlVhLyyh7-FFybx8k-lBdqmO1xtOqI"
+    },
+	{
+      "id":3,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/mGpu-0UEdqpOF-hW-JbbgoYNNeg7aMRpe1L1dJIWVYsEXpld9tSMmGuKQHG64nQYDPQcoF4iiYkcAX81fjXTpYIJw8vFcUA4ug",
+      "view_skin":"https://lh3.googleusercontent.com/HiV_irKOSsbmFsyraW6xOH48p1FHlgFgqQnOonEPPMKnW4VlvjTb-EnCUAptJOm7g0JcHKOrOmBfCMnOpoaCskt0h0CiOQty_HY"
+    },
+    {
+      "id":4,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/whQVQ4dnlDkkXyzvH2rtu2xuIeTCHKndzsrwTn2XGxV5m19v_4xw_MPeyuFfyOOxIW8ajdMakW0ag6JOAS-0H7_RsK5Bkk8OWw",
+      "view_skin":"https://lh3.googleusercontent.com/hQFpL5WmFrn78cVBNPzIJ_L_gVMSZ8KDgtkpB2Oo9ikWxZdc9FGNFDU_Tt7RBvlhfV4OA6Sj_fSEhBRiPHnkJFM2XP07B4Zk0aQ"
+    },
+	{
+      "id":5,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/tNS56fF_4-mvCf9iCiWENotW3JsVhWQHnymMVGjVECa14s8olarKDSxOhO3aEotzTcoh5BaswtTMz-zYWPYubsiUfWnYUKISTw",
+      "view_skin":"https://lh3.googleusercontent.com/5xQ5YfdeLz1yfsIX2VYpGSykehj8Dp3kN81jcnIuOVaa1_FQH_GBw9oV919Rm-xRiNY_SmoivMaC1SYYH6EsQhOlNxSeN1jPmw"
+    },
+    {
+      "id":6,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/1wPhdUE9coMEnfMB5qYE0DIxqIUmByKCrILYsorj3DMX7XUf5DFIsk0iMNJZHHc71677jTKz0tpPG2Le02-fL-KjONqoIJUKSA",
+      "view_skin":"https://lh3.googleusercontent.com/-TkueD3x2lGQYMc0yQhdP1-RfdxKg6vnMwyZ0TBwTlyoRv5t7mgYG8qWkKwK0_x_z3o3vtOwQVVXYVEkNEh1lnEZAp-HRVvuc4M"
+    },
+	{
+      "id":7,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/Rpn0SNdIDC5GeSek6w4dfVEolXJBO8tjHMl1BsKVbnJ4CYmZr2DXLDNe_W2dwLm4uB4-_DVQy-k-e-1VjjBYzS_W9hJefD845jaa",
+      "view_skin":"https://lh3.googleusercontent.com/j6mMCMIgGlqo3vXbcyeMUwGB-_wQLPYCFzGi4kQweugFX0sCy0YG35lzs96W0FV21o2g23Zt4Cs5wg8SHMtak5RcFCGuqwIeLQ"
+    },
+    {
+      "id":8,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/HuXozXNIF1aCA9x9GiJfmPfWxBUSz_Un2Q9Zk0aCajrKKBWOgxgfYu2Vwgzr8FxwweKrqfKe2FXnTa9R3GE2LQ",
+      "view_skin":"https://lh3.googleusercontent.com/-W8AKQffM5TTzAqA-9XJpnZ-NCGMHkYMePY3RgUCM47xYS8PHpV5K0w8OdfUNfqFyBkBCTsLltiEAworqFcb"
+    },
+	{
+      "id":9,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/llG_vPYD3wBJ5dN9vJibIlnKP69tBVRsMBKkc3SDZzc19L8lNEzV4j3qxF8BO7eiOjwhd22b6V8FDDG6qKGDNw",
+      "view_skin":"https://lh3.googleusercontent.com/an936Sg9g0-4v6Bp3LJUNrRyPeMiqjRAuz6sdt-dQKIvkB6EKkk9stJZO__rFeNuzIvvM25cAXtSAhuMGVmNTA"
+    },
+    {
+      "id":10,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/-cmFcl0Ac-xTXCijtkVI2hq8y4uSNjXaVTg5QLLFfsUarE3Jz4VW-Oe0ZpI_4OKWR-EsXClwU151RoOezNejYw",
+      "view_skin":"https://lh3.googleusercontent.com/Oad13qxPBUuW0EntiPedFecJ4tmHqg1CQQKr4vgv3SmOdm5E0uguLVUcnNt9u4ux4gf6VWUX_AyNoVcFkvgN"
+    },
+	{
+      "id":11,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/6qdfpFGWg3FFrqjzP7-WdI8hWPoZP0yCB-jzElKQXUzjIWvq6dn5hwE_FXaGgFJ0ii__ZuoB4dvEUxEKgGEN",
+      "view_skin":"https://lh3.googleusercontent.com/qa1QpAXKdLcdVFN3sRa3Drk1u6J22Qg1fLpXss15fHrofUPPq-MNMvjCiGuGqrnKI9vdvwzontjYNHYXOWqnCg"
+    },
+    {
+      "id":12,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/GKGuwghXuLaYKIgDPbx_VnmD2Y6ld0JLtL9BhN0q6fsMf525MMlYqLvZHiAztaEsSckC-hFZozz4Xv94dwEQzg",
+      "view_skin":"https://lh3.googleusercontent.com/zifRthZ8WWXlgKjSd6QfPVYIwkxzsjlMplYuzzIq5YFn1utUSyRCEOKce4MmrDJid26rjxntBEBwhPUdfgdm"
+    },
+	{
+      "id":13,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/FNYUstM9rN6IGG10o5RieBx10Dqzb-kSKboAeEi5Xk8wRdRm9gO7WD3UgQ7swoDzFU-jthBi5QBLPLploS4J3w",
+      "view_skin":"https://lh3.googleusercontent.com/RKy5vep7k_um0mS_gvSiqYl3DUExOp1rMGjNXKangZaLW2xjhN4-rP0PrJlsesnVSRKpfD97LjqGc_XynFkQ"
+    },
+    {
+      "id":14,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/fc1f1lcIVl5pGkGEVMmjBmcyHY_5EmIFfes1kFz17kKPLar0qSFHrwxyitg_shAi-0jBKd-tplh1UVbZHcMxKg",
+      "view_skin":"https://lh3.googleusercontent.com/WmiHgpRFwFSTvTc_aIGdW98gXrcKyPY7aQXzdDCiKak6Nblg66r7GOh8SEQRWHxTS660sTVr58G9POk3bUdU"
+    },
+	{
+      "id":15,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/yUFrbuYrQZTZXfpHitJSzKNpJaEeXLx-d4E27W7Gw4E_F118ZmYGg_1i0gi4dvgL76HZHzT5BuRLvXiuSs2PxMg",
+      "view_skin":"https://lh3.googleusercontent.com/6ullhRKtO8iFrlzn-Ox2LgrxSxmwim1vX_v4Rm-hPH7u7FUOMJpITi6rijO1tdtFglMMHlHPNLJ7cGA3UehE"
+    },
+    {
+      "id":16,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/RL1cmATS0h-YMIqHxjsi6J4XFLi97-ynIWVhaOQL6JURWEkFVpedAOLfmypulxM3USH1R2sfioMspcyq5oAm2Q",
+      "view_skin":"https://lh3.googleusercontent.com/G_7iwINvzD7EjoFPlFa51mfbLBsrqtihicc7Z0YotwGVj915sEjWfB5Q3CPYmKxW3eybj3m7H_0kFzFmPsX1Yw"
+    },
+	{
+      "id":17,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/JdcJHdwqBvj7HhB7Jb8_0b5LMTXRui5FzIh56hSGAug9g8eHvfqsVpww0zNRdWuw-ONozBqK47koxsbCoUuqyj3QJ33vP-ga4_Yn",
+      "view_skin":"https://lh3.googleusercontent.com/jGwAZSZOfjgmKFoEWyjT97oD14g5dplxzO4DrcnQFi1HCMaak60iUxIhXySe44w4o5Kk-ksr8t7GtYNYYjiTZBuSkkTAWhjBmUo"
+    },
+    {
+      "id":18,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/RIOi1DMz1H3CpUTvHEpMt2eC6VDjGKepf_3V-YebjULIZvM8B_ay3VbCey7gPdLPjMhPdc3rSrUIii9RTSAhkhLxhasddHNG0yY",
+      "view_skin":"https://lh3.googleusercontent.com/1KwdisbxFtgIFuKSaGq7_Qd52-lQSxebIAyZ4ZBlsZXpnQ6IdaS2HzMnzaoqbnZUbTRd6B5va_srrTnhDQwlrTRSMJDtmLks8lN1"
+    },
+	{
+      "id":19,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/tNS56fF_4-mvCf9iCiWENotW3JsVhWQHnymMVGjVECa14s8olarKDSxOhO3aEotzTcoh5BaswtTMz-zYWPYubsiUfWnYUKISTw",
+      "view_skin":"https://lh3.googleusercontent.com/TOzV5V17VA6PkhGAAPF48J36ZAr-8EiUCSkZoND-PVULosEkuvpzCTg5CkIi8exxzSNB4xQ8Jm9-lQA5kxzVkGbG67zvx5M4kuE"
+    },
+    {
+      "id":20,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/nZRe2nvV7i98pV36TGljJ-E-XtuV1fbKs-ATmDlhKJgntAS2Ij9mpdqAxf9iTJ4yxeHg84y98l6KgK5ZqwHSUn7c0GjCf9DVz3A",
+      "view_skin":"https://lh3.googleusercontent.com/ILRcIGwO5kIv2N_6G0NFFX-vVeefimpICitS7FWI_HLLMLm7-cpphUjcJCMbU9J-Evu7OKJeQfLB-wcmSqFduF1qOU4oeNHB5LFq"
+    },
+	{
+      "id":21,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/vRynZSaNFVOfYD_bLW_SvyuvQksV_HfCGgzhm2TEjrFS53YUyJzvw0YyamTS9pK799tHhgBy8LLpUXar05SfQJdeI074g4bQET-6",
+      "view_skin":"https://lh3.googleusercontent.com/cLlGudGFFwHXr2AvTXNp32wXQViQ4aDAEPJ8CWZ0548KokGXm0HoLnpEl4jDfC7trH-MgT8ggJZZNFPV7PrzQqLLN4JLiUl3NPM"
+    },
+    {
+      "id":22,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/lxVaH2VSHVL7YDStwq_wL94M-XNWYgBtRVPC6jEv8qupNcIEtf6y3hpcJ5JuVrODnMBgPfLBDY1wDyGR1Lytu52-mavHiq7Zkgs",
+      "view_skin":"https://lh3.googleusercontent.com/9DZxtz0C8cfuoYfm_lbj4BXDGKSY7_D-VTr9lrGWV6yu9VTBYrcGql5T8ZcuH-lUnHdVH8_VJbuUfIvrfj_F_g7QveYuovipdhs"
+    },
+	{
+      "id":23,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/Z5SOypO6tRmnnle2fxeEVW2vibaVK1EtnLCBx-_82b9mFsTSwAlF3eUQLyEtkqwKT1JRwCOWeVWFlboQovwhg4OeiIXgLZTrXKM",
+      "view_skin":"https://lh3.googleusercontent.com/B9-8xo1RpADsD5XEG8slN-Kz8zOJ_jd6n_tz2dSG5bMqODmGfqj3_GiGxBus8EnorV7HwOCrHNEj5oqDzEDvlRkixq1eHGk6Iwg"
+    },
+    {
+      "id":24,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/BIlqnp8WAd_Icruqp7mDfvzC1kwsKgwRR0AX9goXhE94-rRlu2nPMQuxEGUVXx7kt7ncoKoqa1yPGNYbD4JF6r0",
+      "view_skin":"https://lh3.googleusercontent.com/vzXIFcYot5TbDRL6q2fdwpgAdr92D93H4cwnAESXEj5ouLge83hFvMxXNLew5rKA6YzP_qaNYPwxir8xsbQ9WQ"
+    },
+	{
+      "id":25,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/wdIC97Qe4taBgcTdmICa2bqLsZSTo0E7G3q85l8ZtIlmLIBk15-2g5hTu5UXajJrSh-Gnh1F0UYdP9WH634K7VVv09MChJyiJ70",
+      "view_skin":"https://lh3.googleusercontent.com/2qFTnHuZgzdu9T1kL5pSe24gkrXS_qtglzKcIO4whDlUg7YFnvpVv6EEump0sEpcbMuQwwjTHesVadHTmjF3mjUg3t1qgcsekLk"
+    },
+    {
+      "id":26,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/87ROxcjqO4r2ISqRXsE_vvYY7T25YNEI7BzzF1jK10ygDhtePY9hb8GPK9SVSJi_qklDA2VKDi0eYSBM-9glIpvo_FmQSHrRNMRp",
+      "view_skin":"https://lh3.googleusercontent.com/FHKWhQRJwYAtkIDTpr10QxrS--E85Oe2a4a4Vg86_RzD5Xkq4B6uBXw-yNnh2HM9U-1jeXCVyD_gAsia9XHNgiFHH-BjMJElqA"
+    },
+	{
+      "id":27,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/VrK8oEPnm2SRZbpowmiogaubUO9T3EmE9Hg4JZY5ro-7Hs37SpZ-8h5NctT-7ODKBWacXgDQNPUvwWjbxqs1qTZTJ1StY1ybEg",
+      "view_skin":"https://lh3.googleusercontent.com/5LEUJm3VrIe9g3aLsCQEq_MjjDtGlTvmEkcXHI8R1lWHYd7YESsnNhcuN1TcjYadlLEDmuZRsiRYORcaOka9Ye1a0QTUdCDX1w"
+    },
+    {
+      "id":28,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/-2anahikxtv3pQSFIpcFCDXjE42ZsMEd-vcgqd8elw8qkHHlPcVeWMxxIdNbUs2cm9fPSn5gWWOPzr1cFVhtKwAh7SNUYN1Gjw",
+      "view_skin":"https://lh3.googleusercontent.com/Hx8Oixs5xgaKSdbCV89nLqkgKKqpwMRB15jKd2efuxMIwUqjVVb0uW0CoSPEY_p4amSeX70cMzRPiMhRMw5DUpF4f1XCBoirFpE"
+    },
+	{
+      "id":29,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/3iI-tqSg7eFQcQeJJlyWVTRGKrCSm60lT7vmc9NLSia3DO7KA_ArN6AfQeQf03HGGwEE19eqIepvLiG5uTgYXX9mpQ6Uijwe4qs",
+      "view_skin":"https://lh3.googleusercontent.com/H2CmLWILhEj5G8Miez7-hG8VJjmmidsZLGbKd9sni1S17-YpYRmHvCEmGxwI4S000pCrCV7tk6H_ACCssOk2ohIyJecveUDrZQ"
+    },
+    {
+      "id":30,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/ZAxVUlhgIYqmDGG0Qpr-wjITszeKfFrMdUUtxo7tWxwjymMtWXIYZtQz6adUWZAfIrgsSqUXuH6l8WxO1bfZPJVokoykX-MmOg",
+      "view_skin":"https://lh3.googleusercontent.com/A0WoTbaiJaYKpMAxVEziPxJV1C4KXpJ25jbYOAfZRB_KTCgbcL06ynXl6IA6Q9Tzjbp5xjzCrHPEvPJ97WoTGZme_vcdZMkZ4vvd"
+    },
+	{
+      "id":31,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/pl0p2ogHfa3VK8ibCp_uNJIwMOWPviZ7iC17SkCel47BoX5b7hmxRrM7OWrYNepFF01gi9jCb8X4ROi6BZu3ZpvGcBVbuF-IzhyC",
+      "view_skin":"https://lh3.googleusercontent.com/Jm9-6RYe5KL1bePVjAlfe-_P9pwb1CCs0J73DCQFUObhPpqJV2_cuGc7ZZGE-3XQ4KElQfYC0JtqAfVTYPMtPq1uzaKiUyNmt0s"
+    },
+    {
+      "id":32,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/uUS_N5mbI3jx5dbHj_VseVVP07FghGAELf769ANhOnRuTLpxnqQZoU0CgtDuuCrOyKZeeIFfcM8PtWxrfM-b0OTMXLM29n1Sl4NV",
+      "view_skin":"https://lh3.googleusercontent.com/7OPVCRVOBWKM0BC04gukAccjAE3oDHQrqulVFM6jYTbsFQ_H0otHo0WAEtOIJwBPahRYC9eWkdziPIDWJ7C1L_eLRdmvk8lPBQ"
+    },
+	{
+      "id":33,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/NGcjHaghEfBq9SpUHdfWstP4TNt9q4p9jMWPkQXx6Kd6PXF0-KGuaivHoglCltC-qc4exa-LANZ1IEz7GQMfMradU2CKDggMoA",
+      "view_skin":"https://lh3.googleusercontent.com/1e_1ThTwuqnXsCxEUEJXc05ccW63ezLf8KXBueUDUVTVTGQIP_sIPTxXmtx35AVlHn14VHbf6C4mFJUi_6kkXZ-JrXreMluJllvw"
+    },
+    {
+      "id":34,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/4y-XFtOOeGAm64ayaLDAiALj-DAb1IlPt8F0BZWeoJlsyj878lAKyFOtowu0WYxPyTjDDXowIvqWsJptWqjIF933r6Q5RPhT4g",
+      "view_skin":"https://lh3.googleusercontent.com/d5oVTx13sH1Wu8mBi_FNHzrKfHiRbc2-F-EK02Gy3-6bcblyUrC2Vfr041KMymTXe3lFr673GYhmfRsIB3rp-GGeAghHuuCjrA"
+    },
+	{
+      "id":35,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/OwpFj8zGWrEb-A_I3ey-szv2a01dxIqnc18ask6aM_eOHAVywlr7tSPxXaWeQMFdN6tBOmnJqcH1CpR-6s7kdkmsuDM3b2LbiZmS",
+      "view_skin":"https://lh3.googleusercontent.com/RQNE_zviX9rVJTRdT7Wzsa_3RMo4bRWqfMhv04yJvEllotqpRXstPqt1BfoQRBUZIdHzM7snZSlBgQvupiGjeziywEj7Gqi8utyw"
+    },
+    {
+      "id":36,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/mMaEozBg8qk68EB9QEixX3LCMxIWMnop_jq50Krd4IJ_yFQygBMDsAXGlu6taWHrHlmRLxk54p_Fav1eUAbxFltb55R3fzC8kPcK",
+      "view_skin":"https://lh3.googleusercontent.com/UGIX5BLXGETS75VIxPsuYjEubeYJUsvxCfQv7y4ykQgn48OlFPl91ik9j_qp9C4WGA6rdLuqa0qD0WFbhKMdsqR-s5fXXdoNOg"
+    },
+	{
+      "id":37,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/P85EwkG3nuyQADQtYKsXNbnzplZPvAWckdFlbNYrDndXyLEYcbmJgphL23_jdn2_w4UeLIs0BeW7VPFd02bTY2SECgL8aShplqp9",
+      "view_skin":"https://lh3.googleusercontent.com/6Q-q3YMcfuq1o9lnp3soBjk_O6HBZ1o0Sc-9WUt38DveFoNBBeSKZ7LyVv7njoeWmZF1faPNtJdfZJXfKeqDRhNyKQm6YVER0A"
+    },
+    {
+      "id":38,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/tYqQQsFfeBDjbHzNTQ1I5fBeRm5R4E-kLCn2HfmKRqUpYLpdppVPEqBtbkUJZmQhilicl0bkpBYXsE6iZfh78hs_jxDGu54ybCA",
+      "view_skin":"https://lh3.googleusercontent.com/hkSbtdi7-Llexy8ADOmzoxwM86lheXdyOMzCZqZh0jL_WNneUbdpWCmZA7NQXqn03o_m6NhzemU_ykVhmk82T-htzOZUOx_UhC1c"
+    },
+	{
+      "id":39,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/cT9jAiz1umN8spYD16wF1Ypp86BVYcefs8qv9IzySe_nCwipZcc2gCFOTxIrk2FCdlG20ffYTmFU3FYooqQkCc-t8RRiMtAR2A",
+      "view_skin":"https://lh3.googleusercontent.com/gGODM39F_W7gzE12isSqvxTDaSyHVl-_-xzM-Lii8rRLhKK52GkbKpbZq4zWb136x0PCkfUQWlbXUer8Te2xKGHmK6emcx-Eqjc"
+    },
+    {
+      "id":40,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/8I0_GBzPoSYQfi8sjX-ylMXGWdbQeJC7Ia9r2g17tXUgRR73SqqNuTgxudlhZraaenQtHtFGiDbw0OravCECIQWOmI3ORFNcC38",
+      "view_skin":"https://lh3.googleusercontent.com/3cBhd07_WzlswRRsL2xz_ayOi3JI-ZwbNmB53NJI61SOEvPNxD1AbOXufj_WAhDkPg8d-KH5dcx8I2EUFchZ5UmL0bB89fczB9Me"
+    },
+	{
+      "id":41,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/1NPTkNPts3Xex9ESl0rL86phd7MYc1ke_k0h_MQW6sFTEiQqi4NX-dpiT1Pjwt2CpXcdH-x4UXGwcCbsqG44d4hQrXI1DN2UYCfe",
+      "view_skin":"https://lh3.googleusercontent.com/C-cZsQOuKLgu-fPnoJBaqIi17pT45-a5h5lV4-csCd-U2A3M2LPYpM_U_1UgiaoBGoONGWcqyUYfLxYja0LfhR62NB8YOMEnxw"
+    },
+    {
+      "id":42,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/tVkzs-2OL5fQ16rgweL42hk6ooil0jpwt4JrZ1OnivsnUMmn2koM3RfO7-L8AzarNzpN-AM8RdRk8UVnDsWbM3n5nuGlxwPb9ao",
+      "view_skin":"https://lh3.googleusercontent.com/ybYxD_Gv_OMBrLUmpHzMzHjf9e7E8KvFr7xPZ1jlAM3un9DMXIv_NqRqvDSler-YUANjxnk7ki1dL15g7NFgqAXMrK_Wer1I"
+    },
+	{
+      "id":43,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/wtiK-YQhh_8xQsPZG4KtMpEeTGBrwbQO3e196JZalAy-YgyHm1U8PnUppSIUz6W0lAV8_NMqq-QQrg9GNBVIAyramPmu-YMExEk",
+      "view_skin":"https://lh3.googleusercontent.com/xDaxgH-39AoEdJoZDX8J36Va3pYhx--udIF_QldLaXxXbqINmK2sEzkpCk96uTB1JgN0Yr6V_S8QnZM8Fyx6RqDFRoJfSxqUPcVZ"
+    },
+    {
+      "id":44,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/FG7V5dI3Cgo6equy8SWqqC9o41ZAANBKiOvyHAuaxqKUGFvHZCzMorT0Bjsnd4f4u1s40G8w05nxOSTmSXZGMwG24mPBnl9oqR8",
+      "view_skin":"https://lh3.googleusercontent.com/4cKUGGZrFSFw-nYxhUSpoOMYtgWUCNp2NW9-KgkJBvMZO9aCLH7ALFaqc_YWy-ZBiFpvxTdhpmbsKZxteu8TN3MOsEbIHIpJDjc"
+    },
+	{
+      "id":45,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/Nqzq_QPCXbz7doNxe8YYfMOPUtPn3RRpBjCjob-IckRcaK4HZ0tKpnvWLPqpT6oP5cuaPRYP8Ol2ozYtL2wzTyzwdCYYnLp1eLg",
+      "view_skin":"https://lh3.googleusercontent.com/_3k-_NQ4aJtoSD25zH-qTC-UWRjeUW233UoeY0atJYUl54InXA6mJlwAgqiEDapRtuTkXHYwb0EZb5rVO4scRA8BK4cRKm16ag"
+    },
+    {
+      "id":46,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/srdthbVPgV0shjBoWzUbkB6wXYrddutcI-oV4jj20DrYIvfkjeo0Pg9MogR40DjmPkSOVAXuhsWbSaNhQGR-MMWL_X2JIH3WVgg",
+      "view_skin":"https://lh3.googleusercontent.com/oXmqwPYwDU9nLM8x2LSXdbRmIyjERb4Cy5C6jGoDCwwPqINDxBVOI9rIQN3quKi0j4XH4RNZU0TLWowWNlgCB-q8Kf4xzOvwdw"
+    },
+	{
+      "id":47,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/J54E1ZqntOULdIwh3RZWZYxsCfLjJqP1JjTGubhfhZxlS3GkC53HsPI1tAd9WlBEDjYuGeU9ja2zuRSTk-8B0K9dHxEPyQoOoDc",
+      "view_skin":"https://lh3.googleusercontent.com/aGW71oM8UVNH--9SXg0i6rFSNeQDP0rIohOHQGXJI0Pe-uSpPlYgPyFv3lgnHhYc2Ma-RXgrK1aoHuYqljWHXkSBHJrmf_nmysA"
+    },
+    {
+      "id":48,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/SE261-NHnnsHCiISmcgjZW-s8ov8WEmq5qcbfjkJVfEULbtkK5LtplNj8qgqOeeOIIe9HD45vUZe8iDaP0PKzZOnrBdxgXkycp4",
+      "view_skin":"https://lh3.googleusercontent.com/h3D1JS0-a_sMf83EUqwan6FoTVvfwiSnS-Iimetat_nBzRdwLJtW8Kqg2hfs0ck2AeiiB1j3JDSDY21k7G41Z4OV5AtIb36qva0"
+    },
+	{
+      "id":49,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/-l_4XqXjICcQj5vYvfOOawAwKsxIZW8m_BkQL9A3SSEUJ9SgM8Mpwasn706YyJy_cmANy1d6jgXqlniF3F9ln9pUtPkejMzDjDk1",
+      "view_skin":"https://lh3.googleusercontent.com/5fBRx_sHVHEvfubsDp4q4nWISbFQYb4XhNJG-cgGLe18XihHT9TS5pi3I5m-Nl61YDSucjgFC7keoDxOTOVuBMNIiFZKivTArcIc"
+    },
+    {
+      "id":50,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/3rj9h3LbFy5uxO_VutisrRE1ZlGETX3IwIoSnT4NSvlt8khTjioJuWvaSw7U2Y5LO5TGtdZrimuyqsCsc7_zReLjxVEQCXyb_pQ",
+      "view_skin":"https://lh3.googleusercontent.com/8fLcEzRiiVAip8-nGIrgwGGx6fN7GuoGEDDnDxEbXuoZXfdLRoy-GHAtZwBFzGfg80jqSHR1Bqp_RCgqAE_dFlvZqZdpXTROSgQx"
+    },
+	{
+      "id":51,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/8cdvFIKlTuo4B6AALTnxeJ4X66NX5YVqT_W_Jv_U_SvyGhDn67vrC-6EsB1duwPlzenOs6FueCLSinPDec9ABrLH_RXq0Od6MQ",
+      "view_skin":"https://lh3.googleusercontent.com/nHXhY-_pqkhVt8rL_INMj5ukAOn7J_jB22sXUBCQJ7OJTCVbEJnD2TmOe-SBx5uJtIbBxHPSAplDabV7JQ68OoDYJxAEnNo_6zNH"
+    },
+    {
+      "id":52,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/ETUN-uPmVM1ijpYztFevk9-kpv0nq_zc729FHdkwanp91m0aLr1yFhVlCROQdR-p-cXNTFLSPvWOnYlrXeD6gsa3xN0vGNQsFek",
+      "view_skin":"https://lh3.googleusercontent.com/y93HxcbDV-AR77NiKmc4W8uhK63iJaUmifXbRrv8i5Gha4UHcY-1cJ-MQ8CTARdQ8PkI6qQXz_oHWwddEJX9ALYys6ybHSPdBds-"
+    },
+	{
+      "id":53,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/5_lrGTfFiB96-oP-CS2nWMwKV0GeX_-VotzmxMjvkZjuIsQ9VGsIFGaHSZ8B6EG6Wg4-l84W_Go6hlpl-qa_FxtyUPLypMlEVRs",
+      "view_skin":"https://lh3.googleusercontent.com/OwGVrgAkxZlRS3FMmSJVSRbTDFLBCA32HcDryUeGKCEaZX0v0Zt-9vv6dYvXhpNQm_Jq__s81Brmiwz4i5uCF3Z3vjLva0oVVRo"
+    },
+    {
+      "id":54,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/UCIvxFjKEl_Zi9nBKE0prjhQlKFIAeJQjlT9TU8IeBv6SPTVf-P5WkHhGjHzTRqpiFlvUb_uI9kF8YKGUh6EZpcx7pKpSHiHjw",
+      "view_skin":"https://lh3.googleusercontent.com/tCtEx7wdfR4bnocR-OcvpqCDyJCj7fFKgNKMYLxkdnqfuQzh2vk0jfJd0QEhPnEDxtqyXjz_stRK3HfKX6cT_vEt5ELKwQPER30"
+    },
+	{
+      "id":55,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/HVcpG2pXb_gO-k3tWvGEJZg1oqhKzdVSRKod02l92WSPocZXX8J4Gyb_9_YHR8-BwqOrCI3__NPmBWTkaMDdMStUio6Ui6CG27E2",
+      "view_skin":"https://lh3.googleusercontent.com/_Cy5w-olrWXHPgeK99mjG95gvcMdfg6EtWaFM4e3Uhwa3VdeOgJ-szEv7tKESwrJp8Sk3LwDKhg7qmpQ9dNjhkQs2XjP1VxdAg"
+    },
+    {
+      "id":56,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/t9CtI40za4AEYmbEDLjxSSPAxII6Or0ZiHfFL-sRm81S4D8VDLe0NUpIwyhQg7QOVnA3AH0ZK_8ZMysqqniNCILKgP7og-qjgu4",
+      "view_skin":"https://lh3.googleusercontent.com/qSzm_BttqJa7UncO_t4fLcEA50HT8Jm373RqlM77mayfcRX0fDGmxOV1l6jA1wf7RQ_oP6TWVSkbG9aWNJL5feOonQidet2j12c"
+    },
+	{
+      "id":57,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/Rl_Rs7xjLon22AQIWcorxeV_ok4yfbBKMKkevIO6OtnIrYDkAvTkyjkJKyF9uiC5uEZbHpKyq9XducqopwHjL9qbmkP974E3eQ",
+      "view_skin":"https://lh3.googleusercontent.com/-eqOwdmV2yOk8yeGrpdDyPLb4aUNmJcOjI1SIHhn2L5LRNqoVSU56GEFYT4MTknp6nHt2LCZ5SCcezC1_9SJDQINYAL5EyKuTvRE"
+    },
+    {
+      "id":58,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/-M13gmdpTv2_3v_aAT5TUPYo61X90Iw1pFzyFT_hUdg2TXf_ghmFhcksfgRc3QwcBQj7SekAtTRA0JoUz6pLtJK4jBuw5XVYlQ",
+      "view_skin":"https://lh3.googleusercontent.com/AiW_NtXioEX9x5QXoeh0ZN1S17x1hlxaF4T0xMP81LiWTtP922Top2wAXCmFqQgeUulhFBSikaGxJvXswrAueSyqfcttdjF-6g"
+    },
+	{
+      "id":59,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/OPzd8IOZWd8yvqZr3qPYAVDZNpc4ElYal6b1jXp5df7ud6kntPepl_VgG5t7tu7yTNXNTbyjhrPStdzPt_lBe4V0jBG9E03MOA",
+      "view_skin":"https://lh3.googleusercontent.com/sbMLwKMrjSJBQCXRn9CC6jojEOzN2sFNnk6LHBST3Z0_H3iiyoYzvhBBctOlzSpS_zeTtUNiinCCk_jzKFv6cUdKuMNSF09NBzs"
+    },
+    {
+      "id":60,
+      "name_skin":"Clash Of Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/kbCKk775qJLKcUmRVctgpF89qByajrji6ho7KHnPQO5uXH2Yr_DlyqWb4LAOWgU5qUnqo4u6wwvW-JHN71EnPomMNGIoVX-KyiQ",
+      "view_skin":"https://lh3.googleusercontent.com/fUGiBdzBYSXOkqUewfEiTdiBWH_RB2ZQxuR9VptrtL4CURXF7ThiPpPhCM9oV0D1hyXoy0twTpvcPlgMcymMvXGJ1LQWzckrW-c"
+    }
+  ],
+  "Addons":
+  [
+   {
+      "id":1,
+      "name_add":"1. Clash Of Addon MCPE",
+      "add_url":"https://archive.org/download/addclashof/add1.zip",
+      "addB_url":"https://archive.org/download/addclashof/add1BR.mcpack",
+      "addR_url":"https://archive.org/download/addclashof/add1RP.mcpack",
+      "view_add":"https://modandskinmcpe.github.io/easycraftdev/clashof/add.png",
+      "des_add":"https://modandskinmcpe.github.io/easycraftdev/clashof/instal.html"
+    },
+	{
+      "id":2,
+      "name_add":"2. Clash Of Addon MCPE",
+      "add_url":"https://archive.org/download/addclashof/add2.zip",
+      "addB_url":"https://archive.org/download/addclashof/add2BR.mcpack",
+      "addR_url":"https://archive.org/download/addclashof/add2RP.mcpack",
+      "view_add":"https://modandskinmcpe.github.io/easycraftdev/clashof/add.png",
+      "des_add":"https://modandskinmcpe.github.io/easycraftdev/clashof/instal.html"
+    },
+	{
+      "id":3,
+      "name_add":"3. Clash Of Addon MCPE",
+      "add_url":"https://archive.org/download/addclashof/add3.zip",
+      "addB_url":"https://archive.org/download/addclashof/add3BR.mcpack",
+      "addR_url":"https://archive.org/download/addclashof/add3RP.mcpack",
+      "view_add":"https://modandskinmcpe.github.io/easycraftdev/clashof/add.png",
+      "des_add":"https://modandskinmcpe.github.io/easycraftdev/clashof/instal.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name_map":"1. Clash Of Maps MCPE",
+      "map_url":"https://archive.org/download/addclashof/map1.zip",
+      "view_map":"https://modandskinmcpe.github.io/easycraftdev/clashof/map.png",
+      "des_map":"https://modandskinmcpe.github.io/easycraftdev/clashof/map.html"
+    },
+	{
+      "id":2,
+      "name_map":"2. Clash Of Maps MCPE",
+      "map_url":"https://archive.org/download/addclashof/map2.zip",
+      "view_map":"https://modandskinmcpe.github.io/easycraftdev/clashof/map.png",
+      "des_map":"https://modandskinmcpe.github.io/easycraftdev/clashof/map.html"
+    }
+  ]
+}

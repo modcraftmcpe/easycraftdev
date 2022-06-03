@@ -1,0 +1,297 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"More App",
+      "image":"",
+      "link":""
+    }
+  ],
+  
+  "Skin":
+  [
+    {
+      "id":1,
+      "name_skin":"Diamond Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/EUIlbZV8yZvsCsEd2nwL68jCYvZHVQlHC9Jl5swjmDxWMNPtsOl2lcSYwCfi-kKUDBQ17avu-aVTVo89Mk-N3Hs",
+      "view_skin":"https://lh3.googleusercontent.com/oW8M5fzs_NakuesTgHzfELfF5TrccfQ0zsc0-Ni5Jdvm59qNsU-vSn-QVhvKz7FhNK1oa6H2Ok6ezCI1P35hEA"
+    },
+    {
+      "id":2,
+      "name_skin":"Diamond Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/0_t-TQWQMRv-muD9iZs2wq4bRs-Id-QOHfW_PeVO3nyLqnF8sxdCg6lgsD6og--FEMcCVO7T_lB__3ix_sRQ7Q",
+      "view_skin":"https://lh3.googleusercontent.com/U1UD7v7Gjs_2KJWoAlT4tUEwMTuHWD1xFEtuC5jl1KFQpMX39Y4d6aXjoe-ufLnQYiKBAgmDY24rOqEUiI_KTQ"
+    },
+	{
+      "id":3,
+      "name_skin":"Diamond Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/AUg-MppO8hnhUqyKjP4Hsvr3fvYhJN6MnGmLg7crh5kHUsihQeCyWkW31QeylNfRPnM7RdtfPNxHP_EcZ9epcQ",
+      "view_skin":"https://lh3.googleusercontent.com/ktEe8xgs--uHrDYz4RPBzbvSWRxsiSCQT1uEcEfsMArP3RLmjyt9LOFW4QCemf9rWTlUJXy5tXBN6dWfuAc-Vg"
+    },
+    {
+      "id":4,
+      "name_skin":"Diamond Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/pIsXbhUDElbUvysA026tVUeAZXGz_REoxXPUTW4cSARyThATWKE1ql9iy0vr21moRdGn0H5HhcoA4GKmIKRsGZI",
+      "view_skin":"https://lh3.googleusercontent.com/VyhccAZ7cbHEMJM6-KcC_GDtFGG0_5rx3V_V95sc19VCH13JlDqF7Lucf-4lvna2W2uL66TCGqxUGdDkxB3Q"
+    },
+	{
+      "id":5,
+      "name_skin":"Diamond Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/jdMSOUtYpUO2WY0GyvXBGPYCs29FUJKNV1JS7yDDq3YghgJPNXEuYEnOhfwl9-Vc_ofCZqsZ69O7UWDu0NOI",
+      "view_skin":"https://lh3.googleusercontent.com/fE8wIo75RrBcNC9NNdjRv_w58QR9GTuAgpkn7WPHc-5ZS3aSVKasF5mVr9dGloCrjhp6xNBo1uz2MN9HlXNQYAA"
+    },
+    {
+      "id":6,
+      "name_skin":"Diamond Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/CR1Lkn7gx71a2IENBeZ5ouXczOoyg9T_4n0ZZHzrvkTgkobG8C9JEJaWrmjlWTdEXIYrZXR7qQfX_5uz8Uge",
+      "view_skin":"https://lh3.googleusercontent.com/ZhqSFtSqEJfcOFgbr-u9LC4ePqdZjCCRNPqPOdXSd3AA7u9cYHpQ8Khb3eOVf5loj9EagG213298tHZOwUKiSQ"
+    },
+	{
+      "id":7,
+      "name_skin":"Diamond Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/mIML7FWlutUwzZrFkErix2yWFamcrnu2mbcR0ipf1_ygToKMvpFI_7L_Hokk2V34gmEDeFfc1k_loCmOlzQyG6M",
+      "view_skin":"https://lh3.googleusercontent.com/EkSARiX6wUR7MqXKqk6XflPBNwEdvVvUZUYnwrRsRXfVYrygKokJkrguRWoUE-PH_vQXADGGPruSMH2eDHAIMHw"
+    },
+    {
+      "id":8,
+      "name_skin":"Diamond Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/f828Y8EhFab15uJW5NVZJjZxe2RLANTB5htla7KkNpfIeC4w1uj-9lP7DtN7Q3bDjRaYbvJNtZCZNXihkhIg",
+      "view_skin":"https://lh3.googleusercontent.com/hTqSQDC2zWoQl92XAwKh70J-hmc-EpxO0CTNeBOgTMRbjcHFlG1izImsxJHCnM6puAj9pEErqsfAXPFS3fRhehE"
+    },
+	{
+      "id":9,
+      "name_skin":"Diamond Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/6slgzesFfoUAtTXoHkV4gYQ1KTX_JOl9cR4PsnirhwmBirPwqnEr30sB2EStRQ9mGeYS9DpAnCD3d1WzAQHWSpvDfmyMDLHO2Q",
+      "view_skin":"https://lh3.googleusercontent.com/AjwmGj_A-HsjPdKNxjeT00q7BpmTSsM4YN0rC0CE7J2s17ORNL5nQEDYSjRVOS8ZS0iAWoMYA5z8X0xFx6fHQ_YYdo_n1Pd885U"
+    },
+    {
+      "id":10,
+      "name_skin":"Diamond Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/5Tw_4ZDwPJgxQqInGwuQyQdGtBLWS9hL2fJwDQMSFl4qpb6LdxMON4l1vFC10-R02oBfhV-pSatnWukjPtRimA",
+      "view_skin":"https://lh3.googleusercontent.com/GA6COC63_la81JnoZLrOPYnaFB4tGNnnc4kEacyMyQtP7BVr7msSxq0lgCewUkOFs5DzzYbzjwUIKDztTQP4qA"
+    },
+	{
+      "id":11,
+      "name_skin":"Diamond Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/_Fjdnf8Ifh6wBBcQfaKm1up4JOSIm4sbEkCqqTFzb8xa9zPr2Cyn6mcG63b2t8JQMGQCeNVMspo8zZ_M-w__ybA",
+      "view_skin":"https://lh3.googleusercontent.com/s0mZKnIvHSd74CAs5E28N_bb4m4sO4crF7oJa9BrNM98tnFA4A93kP-n-WOtgV6-29JLcHYBcMkGJVq0WWVsCA"
+    },
+    {
+      "id":12,
+      "name_skin":"Diamond Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/Y4PgxsMUsRRgScz36R2aBftawvkkhsybGJMhjseeE1YyaD96yCPxKU3Mhy6M4aMpUxXwtCQmqfFZx5QfhJaU5Q",
+      "view_skin":"https://lh3.googleusercontent.com/hEas-xSiRfhPV7AsaslB6qydh44BCI2VvVazBVEo5A7gm30vN_rihqkmeMlXV-5-1E1hsOj-0ErP3-2DUHpTfw"
+    },
+	{
+      "id":13,
+      "name_skin":"Diamond Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/uQoEVBAlMso2MI3_j0o-9vtDprA2r4IwzULpwfUkwKrX01aKvvK3LplxObQgn7F6sQijJVkCgl-AcU3mFjzgQno",
+      "view_skin":"https://lh3.googleusercontent.com/LhyTuJYPZqn483fHfDveAT8arGwUxFVKhkVIy-NOqToHP_Kk0iwL6lnnE-E6V-6PRimKoRWMLdSlgoGZ1YJOuw"
+    },
+    {
+      "id":14,
+      "name_skin":"Diamond Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/7aAP8A4EGmSR8uUoci_0NhTplqggyEncscig0R6O9hxb0xtaHjRyirW7E1M7T2d6OLznHJacpXXqb7rDH8sl9GM",
+      "view_skin":"https://lh3.googleusercontent.com/JvmuzhxwQCU4xoNm8n0yHmT6HVNRwBMix8jE1amGtR-2ng-wZVAbk-ztnbElP2EwLwUfC8acvkIvc-f0Yr-w_g"
+    },
+	{
+      "id":15,
+      "name_skin":"Diamond Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/DVN-M_owqZ8PmdB_6QOPgdipFCIMjZ4VJ0lpBhONgMrQh1iAqTN0q19pTsd4sW6bnWP7Lq-WM2XglIc70R4oEA",
+      "view_skin":"https://lh3.googleusercontent.com/XjzK6sNwV2AcTI-Cgc0zCLNhLwMiawrW-CowAUeL7BwvOqO2Aa6xcici-EBMupC-Y29VvYIafzxKYMSO-CFL7os"
+    },
+    {
+      "id":16,
+      "name_skin":"Diamond Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/Gd_vg33XZsbP7CNeVr9kpogI5LSKH0iiubyTCpXNcmdukWCa4SXJKWVhaRTu88JCpHve9kfgEL_SuxpyDu7m8BIX8qtXvtPmjCU",
+      "view_skin":"https://lh3.googleusercontent.com/UgYiODldIHUuuCfdBRIH-CgUZOOY_8Qf7gLQgvFWP_vuLnaQqAv3u9Zf8IxnSKHxQdwkuSgAUw6eawoaDxj40f003HtV95L-R_0"
+    },
+	{
+      "id":17,
+      "name_skin":"Diamond Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/uU_8b2GRFLMj5cWgmKPpt5Lyi90PBLc7G9JYbFLD7V5Swt-FEPIqtdDUY8L-uq7jvwWiEi3G_f3Q315JsvwLAZo",
+      "view_skin":"https://lh3.googleusercontent.com/pzIUN7TUX962Hx2cfUkZgrMiFfp1-eXAEoZcSy1zkkIeGWnbYHPsGUw10FNgg9vqSEZ-m32msohPeNGuPbkW"
+    },
+    {
+      "id":18,
+      "name_skin":"Diamond Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/cfNxoMLCUdlYyXPq0K5Xj4HVfjEleoLlPg0FaL532rUsv4Rcc_XRXVqMuEgGBcCyOOqA8DWa1R7u9ZJxnmAXZa793xbQXb4whL8",
+      "view_skin":"https://lh3.googleusercontent.com/ZxBiEuZx0_6cKRobqUKhQqSEPWrna7WZ70XBStDX5Xaq22qTzFaP2d51DN-0-cUuvtRfk_vPXhKH4j3yHxXnA9dTx0XQd2qafDM"
+    },
+	{
+      "id":19,
+      "name_skin":"Diamond Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/IAw1Ct4Jt0oBTxUsVsI1oHpU7mORsMZZaQ-uC-W7UkBHuh7o5pF4r-lw8LjnaHNW38CTM0tg6vrdb5wQKOoP8g",
+      "view_skin":"https://lh3.googleusercontent.com/ncqhPCgHxe-15MiJv4YBxyWoBB4UsrjFfhTmYnQS44XPff4KEGKdmTCxivJYVsg0_9ZeOtEWryE_yTJwJBji71U"
+    },
+    {
+      "id":20,
+      "name_skin":"Diamond Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/I0tyRauyIj8KhyIquxhYlz92BWGWgJbqCo8m-RRoX8uzG4PR5EATjmI10LIuVGOQJ6CY0Q5HivAnIEQ4JYG70cM,
+      "view_skin":"https://lh3.googleusercontent.com/zI1GFgkxcJ6MguL0RdeVboxUJDpmBJj1ijbNBQDA1Fd5gzRF8t9wjkNobZ0mWfOI88AggDPfRtAaw1P4TNoy1A"
+    },
+	{
+      "id":21,
+      "name_skin":"Diamond Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/ALmOS5Fcwj71FtT7HICa6dlputmKWB2214pYrTkyDv_TcKeDtEERGe_rPSOFbH7RM7RgRS6d7o5oH7au3-qrb1R25-upiYGQxa4",
+      "view_skin":"https://lh3.googleusercontent.com/xFLXYIPrS04-XNgJRurDrJcNJoHEbPC0xVdpToS33TYIX83Ar4pzam7QSnC8S3BLJ9i1kJylzGk6pzmAWGvaqyqi1hGvh7hZVP4E"
+    },
+    {
+      "id":22,
+      "name_skin":"Diamond Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/ILj1LeZ-E8FZ_IlplBObeT13NN8ViVNJEbtY_aFGynXD4WRUEzryJqX04L1EuPsxDEPGIwsMqj43JZ-coKea",
+      "view_skin":"https://lh3.googleusercontent.com/K1l0lJW3zg7bZRsygwtYM_GD6XOL5HJ9cJzRK2pSO7Ue3MbpinqQS137LI-fSG0YfyhBjyT6hjKF2NhVrSxUtQ"
+    },
+	{
+      "id":23,
+      "name_skin":"Diamond Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/rJoJoq8vItDAesR4K3avArLj_xjua8Qj3hqVbN_x1ZdI92jzI9VJiH7vTVLp5K8ivWpCrEwK6JmATfM_lF3WZ1REaC8utFs4KH-O",
+      "view_skin":"https://lh3.googleusercontent.com/Ppri9e7KijbK5yrUpofwSsbuIIkH3-J8lc1N733hIeOY7mbQf7dJwB4XDMZdisRF2vDT_AO-yaVtwqW6wka1cN-xMknETRuNcUA"
+    },
+    {
+      "id":24,
+      "name_skin":"Diamond Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/nPCTMo2L9JVW_VXUdDnvWZtDgEdVT-DysnpMrIgOG5CAPHpOZr7pAgLFfauDVTGD3DBoiNGMo826F38aFobClKMqeDz83n6Gcqs",
+      "view_skin":"https://lh3.googleusercontent.com/a9EzJwUybjuO0SXAFc7NfAH2NqzDeUZxvhNui5Lm3M0itUm82_M8v1Wm_2iRFzYHdM4kVcAmcPqEZ-qX9wGq-hz71Y6wG39h3kE"
+    },
+	{
+      "id":25,
+      "name_skin":"Diamond Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/thbvHYSct63y7fF1OtYRi_5BY7xAWTAzRnHBH2LnFeAqF4sEZq0BneDpTv1-t2UqAVe44XJ8GKCkSAH_qVAtZg",
+      "view_skin":"https://lh3.googleusercontent.com/Fjpd92nOI33C97kzV5LUM0MsUC_YqS3xcMp7DHOEmsN3sF9Y4fnsXEgHiKuMrkVFqtAvxO36Qe_U1iwq9OXnqQ"
+    },
+    {
+      "id":26,
+      "name_skin":"Diamond Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/S1jcLuB5q1AtyuvC4pE0StlOSftApwaMUdKuU-gUkshvbpv43THWWJf-gL0SPJpOhJCLk8-rTiLiO7tdoAzw",
+      "view_skin":"https://lh3.googleusercontent.com/0prYM8z661eSIKrw8hvNH8b04rtAZjHCCUp8KTM-Shp9IFQqQZFIYOtiH4BFeB6tkomXb6k1GZNSm9xqF8-f"
+    },
+	{
+      "id":27,
+      "name_skin":"Diamond Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/S06jNpol6MMao18rOSELkaCCJRshPnaNhXqGwwpIZV5-nW05cHpDtTwnDbea1oWbX8xMl96gDpbDyXv66zk7drJMjubhkqin1E8b",
+      "view_skin":"https://lh3.googleusercontent.com/B3t436IWJeV5cOYG6ppk-WPKeUPDNo93iJRwBw8_QrlWcB3Q5xWjAyRPhcmRM9bqO5G0gXEwwNIOvdB-wfm69bJMVGzjVcUPHA"
+    },
+    {
+      "id":28,
+      "name_skin":"Diamond Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/npp3iXcaxjCSurnB26C3XXaP1F_UJUc8nE8bNQKLQoOIenvIJuBLH4S-S5O6PPNHsXW6QgvHvvCnk4x0n8ETESq94q8tuD6CZg4",
+      "view_skin":"https://lh3.googleusercontent.com/YeXY3tJawmFfr3tRbVZVUQFnJ-zTAy7FpQRIMQlRO8MunpJ_OlVRuud1kmjrjjoYJPRZC-zBRPJYoCIOodP-NOVug9YWCI_ORNo"
+    },
+	{
+      "id":29,
+      "name_skin":"Diamond Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/EyvjHlTmUf_vO0jmUL_wbukccEdbp3IW94L6Ay0_ls9n8wz05y71EsWHKGkpDzAA10rVJW8X0Ea95QYQ66v6Kw",
+      "view_skin":"https://lh3.googleusercontent.com/zgLFhEQ8t4AwyFPfTuDUfLL5AGmdevMkeRBkSupW1qS76F4eWLEvB-H0fs19PNd_UR_QijNgaTA40Pl1SMZm5XI"
+    },
+    {
+      "id":30,
+      "name_skin":"Diamond Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/fBTc8p_mh4sVgJx9fRL2U1mtdz-l-J9RZ4GWsAxGDDAf7ZqpR4FUm7uDtSeD-fwEpxIM3jgAZzcJQCqDtq9_O9I",
+      "view_skin":"https://lh3.googleusercontent.com/d1Gmr_03k4xybS0dBJ8MZNhAxPDgYCod2GlreI5xCRXhVvUe5JPVjoEtcfxx6CMjaPjYDYLLxDIsHciApapwzdM"
+    },
+	{
+      "id":31,
+      "name_skin":"Diamond Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/BwwJzM30AwSCwLxDh3ETlCACtGgqQKhNgGWMw7YS2n1mbzQrUtsgxEOQ50U3jYu8t0VbWiLhN35-l9xOCDw95A",
+      "view_skin":"https://lh3.googleusercontent.com/JmzUdaVJ76G1vFMf5LQf444etM0nvb1bVl81fWz6dZNSWUrrV6k1VuDjPyHn-777SZ33L3A4SDDdpYFVSwTq"
+    },
+    {
+      "id":32,
+      "name_skin":"Diamond Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/PLAk3SgdWSwXE0MyFtncaahiri3nitVSzvLm9aqqYpOYAoHToqVdK0ovwXao-m6ZUkYrvmWXuSbq6h5cPCM_vWYm1YFUp__0QdU",
+      "view_skin":"https://lh3.googleusercontent.com/JDWoHIv5u2G16GuQTNBMLN-c8mx6u4NhnUj2Ympk1c40KE7gkwYoJ0EKe4lgrf5mL3yuVDoyxNkjgiwSvLHFsE6-o1kFekZfmQk"
+    },
+	{
+      "id":33,
+      "name_skin":"Diamond Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/U3lYAGc-4HKZllIkZsNDOssXzsVZBeCSZVPyXLndBGqtlN2xrSH2Dy66VIh-8qB-XyrK6jjJ4nBbtdRnENJLNTU",
+      "view_skin":"https://lh3.googleusercontent.com/8szf6P8lEB8iplFHCAZaUaaxJtlqgpkN91Aj6p151VLAQOf9ae1k0rgcN4dYLk9JNlFMCKiybfbitRVYZCiWfQ"
+    },
+    {
+      "id":34,
+      "name_skin":"Diamond Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/HHyuTMoFyRim90cUh4dFxVI2A6ZuMpvvEIU1ouLKrncFlyR5vTTlV2bzTLNPGn0YIpcrbaoyqDzo7q328MukKbvpWseCHSvrTQ",
+      "view_skin":"https://lh3.googleusercontent.com/4o8tSp13Ug9qoPgjWSbGCq7LWvN1f00tW6nwz15AqGZdQ12V7H2i8wlyzk0TRFIbSChh_B5gmEXnTaPkNvCrHY4EzwnP0WkJjA"
+    },
+	{
+      "id":35,
+      "name_skin":"Diamond Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/HiVmUvPgR4OuFft3qce4P0lywpWN-2uZW678ABq-D1Rz81V0hb8xV_03ihaqzO1PCS-h0wpxHFg4u8IrDPhq1yguttM0XZ9H0OI",
+      "view_skin":"https://lh3.googleusercontent.com/XsXPBY6ekKiZLsO6RQ-I_p9jccPkeZnUfYFyiJmKocMEn1YNkDr4NJ_vSBuoOof2xyAUw9TX2KJyWt_qwwjAy57Z2TKkLn0f3N8n"
+    },
+    {
+      "id":36,
+      "name_skin":"Diamond Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/HhD6CEkpQU-UeNIfXY1P7ZO-axEwxaqzyT9i1fuzW-XRPre8LOn92bbQsBD2fGKwM140fj86K0Lp7kdEbY9lqYUC6HxrVlEfGbQ",
+      "view_skin":"https://lh3.googleusercontent.com/9JTvPv6SZj1BfFZmoTzj2NlM4JkAzmRaDTonD8s2IheJcdjoQm3vdGi8xjmU2CVtHgTGh-cFQ2icDqUhXBjyV4XiUG8a2pTe0uc"
+    }
+  ],
+  "Addons":
+  [
+   {
+      "id":1,
+      "name_add":"Diamond Addon MCPE",
+      "add_url":"https://archive.org/download/diamondaddmap/add.zip",
+      "addB_url":"https://archive.org/download/diamondaddmap/addBR.mcpack",
+      "addR_url":"https://archive.org/download/diamondaddmap/addRP.mcpack",
+      "view_add":"https://modandskinmcpe.github.io/easycraftdev/diamond/add.png",
+      "des_add":"https://modandskinmcpe.github.io/easycraftdev/diamond/instal.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name_map":"1. Diamond Maps MCPE",
+      "map_url":"https://archive.org/download/diamondaddmap/map1.zip",
+      "view_map":"https://modandskinmcpe.github.io/easycraftdev/diamond/maps.png",
+      "des_map":"https://modandskinmcpe.github.io/easycraftdev/diamond/map.html"
+    },
+	{
+      "id":2,
+      "name_map":"2. Diamond Maps MCPE",
+      "map_url":"https://archive.org/download/diamondaddmap/map2.zip",
+      "view_map":"https://modandskinmcpe.github.io/easycraftdev/diamond/maps.png",
+      "des_map":"https://modandskinmcpe.github.io/easycraftdev/diamond/map.html"
+    },
+	{
+      "id":2,
+      "name_map":"3. Diamond Maps MCPE",
+      "map_url":"https://archive.org/download/diamondaddmap/map3.zip",
+      "view_map":"https://modandskinmcpe.github.io/easycraftdev/diamond/maps.png",
+      "des_map":"https://modandskinmcpe.github.io/easycraftdev/diamond/map.html"
+    },
+	{
+      "id":2,
+      "name_map":"4. Diamond Maps MCPE",
+      "map_url":"https://archive.org/download/diamondaddmap/map4.zip",
+      "view_map":"https://modandskinmcpe.github.io/easycraftdev/diamond/maps.png",
+      "des_map":"https://modandskinmcpe.github.io/easycraftdev/diamond/map.html"
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"More App",
+      "image":"https://modandskinmcpe.github.io/easycraftdev/moreapp.png",
+      "link":""
+    }
+  ],
+  
+  "Skin":
+  [
+    {
+      "id":1,
+      "name_skin":"PJ Masks Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/f1b1qcq375ywnj_85rqpx9rSPwaAlkzqBpxgYqX9eyeqxYRBH5VGAxN26Pwi3ckYVzytUcbibam3zzEi3uLRbeg",
+      "view_skin":"https://lh3.googleusercontent.com/dKOiYmzx8Cl7fb3kDBLfoA1f2RlU0Unan9-3H7H0CU53CH_BugWeWuz2XL-2-Aq3ufSjw5GaXRxsdafMTcg6XQ"
+    },
+    {
+      "id":2,
+      "name_skin":"PJ Masks Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/f6OZRNlxJR2mCP_yhR5VD-nbgPBYid6j9se96IIpl42PQBRCyiQG-fzvQYieDctn-Xpx74-re2ryLlNi6HWuug",
+      "view_skin":"https://lh3.googleusercontent.com/7s7UdVctCl4DMiOVkiuixjEMKW0DxQhF0DnwpwjccSEHln2IgbZUzJ5ah5_-LEVDHb_vmKGATRwQHd4Uye4tTw"
+    },
+	{
+      "id":3,
+      "name_skin":"PJ Masks Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/igyUWF6pNJuBLuDLOBuMND96O3OfAvK_QRCwZu4B92mJqY0MT0voftrEICTrn-YDJgERJMLvf8CigaqjRjVssQ",
+      "view_skin":"https://lh3.googleusercontent.com/xBZTx-E9pRj4BD6Y-I5F2fpLA7ZVfiyfSaHNLPzdeQ1Vlyi2x8kp7AJpomoXUewYa7SLSDvZesx7XFeZxhZ3ag"
+    },
+    {
+      "id":4,
+      "name_skin":"PJ Masks Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/ZPZZsvHEhmS7UI2RDaH6STCGQ-yow5hjQdpP5iiq2Duxn9ghRwOw61xxThfc0B5MCUBdf4tGWB_cus3Qt04I",
+      "view_skin":"https://lh3.googleusercontent.com/XHBTheoT-wtayOCoMBKgArJPHvHnrPR1wC1uIFyb1jKJ9aIBgxCpQjvkWIBk3gL6VDXA8Q3JyXjGJpgFilB_QA"
+    },
+	{
+      "id":5,
+      "name_skin":"PJ Masks Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/I_VoL-MdoTK-5wxhwqvrRpfHD4vRiXHekuvuTFV0FWG8S-cJ2drHHD8CDwcBzwZ_TuPD_Lou_Sc6Nfk2BKBzE2xJpeiFPfvZgMs",
+      "view_skin":"https://lh3.googleusercontent.com/Mwcxo-XhMFOfTJHgBBm4EOok0Zr1XxdKADzbO93zPusEhHw_nZntcnBkt3Zuoz7XOdi6u5V5bFDhlZjqvJj6CNNfTMJ8hop-cw"
+    },
+    {
+      "id":6,
+      "name_skin":"PJ Masks Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/Td4Wz3GSfFpalleBNc5ptkVj6dh7qoGFMM8WSB2g_-cA0h75SQcuJni3h-Qf6A3yyx1_DFdTqPidL_Oh_BlXMN0MTXidb1zFJQ",
+      "view_skin":"https://lh3.googleusercontent.com/5c7o4efKwrVdPm2xZMlKU0oQDTR2t3T0iVezCUXP2wRrCViJZuiwcnxInOgAqBPV_MA5cZpgLXgLCjevDCQGRK1XXSVhfSs72HA"
+    },
+	{
+      "id":7,
+      "name_skin":"PJ Masks Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/yAewNdUQFpMyus5DTbNuWlYeGF7TXMHN1FZn38K6r8Xj9E10n-4gU-y2pEKbLADhKQIPa1fmMjMdzomQh71wK2ZZgWlZ3QeP6g",
+      "view_skin":"https://lh3.googleusercontent.com/Rd2Ip_Y_FMYH_VzjWl-kBDfd2uHsEfr1RJY1iwDggmimvGEeQdAiQK1bfGlVM1Gh2ytWgpivjZ4xoI9q4pQLUSkok9-lrsH-kD8k"
+    },
+    {
+      "id":8,
+      "name_skin":"PJ Masks Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/NLsZX_KEue150n9-dk3B47lHOdBykkP83OKNee3SgnbYEybOWQxt6U96XMUar0Jyj2hibweyqFTCyl4tMdIy6A",
+      "view_skin":"https://lh3.googleusercontent.com/MCVtBAlUjTCFYS2nGOukZQ7aN9ew82jKf70N0eb0UNhukY5wydKy6sGI7na1_WRyYwWplR-bSqNojZqYsr5b4g"
+    },
+	{
+      "id":9,
+      "name_skin":"PJ Masks Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/NXAhr5_V5NQyPLcc4lJV6bSI3mboTaW5N-1BJ3XobwFQs2A4SKdG1tpcTvImYplCKd3sEsONxHTkLCUGRkf6xtfY2lcFSMxWNw",
+      "view_skin":"https://lh3.googleusercontent.com/KL0G7Hpye-GZ3Xk-4V8eEUVkWXH08M0tsNMv-vU39Op1UyY77P8Qn_Q0n2W1sjny9_fGOED11wxOU70uqnvF8AsPg9eZ2S_P-t8"
+    },
+    {
+      "id":10,
+      "name_skin":"PJ Masks Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/hrhB3hgYnXwJqyyYkMr3Glh64a5BID-TYLBsl4Wxt3A1ivy7nbsa4BBaU6D1bztNpqosIsjLf3ilktIEvQH8K-Leb0gq2YI_Bfg",
+      "view_skin":"https://lh3.googleusercontent.com/24LqupvOQDE5CloEKnZFaWZZDLXWPFtPA7fPcyWq9uaPVsUhcXyPUsmP_MBcEkXyXeEX3IWt1XRGtpcGgG9bAaH5J6O8cK1_Cw"
+    },
+	{
+      "id":11,
+      "name_skin":"PJ Masks Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/8PdHmuaNESH_2WH_a9Xr5yhy0eR6bRUHuanGFY2lLe1IrK_SrBQC18IbU3LataWna29CFiXdMkYArxTvPQAM1YrINeyJINolyrs",
+      "view_skin":"https://lh3.googleusercontent.com/0DSE_NEkGlxvItFj11nH-vTE4KlNf-0q8LfdGXs000r0D0RdUuyymZ8oYZ01wIvkUmKDvC8PC724OKWX-4ZBOOsKFa4O-HllVt4"
+    },
+    {
+      "id":12,
+      "name_skin":"PJ Masks Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/ihqla36SMwp6EXaF_nK4v7urSRyqpFe32goi6oJTHP58eVz9cPZKIa6bJgR1aE1VI_xEVAKF_VqRtbPlYUGm0hFcgnIZqzxRpbs",
+      "view_skin":"https://lh3.googleusercontent.com/vVzfOP3gp5PPvdQWK4NubJC2oUNSE3RiXZzRPoerob_Iybnbx2XClbHQOqZeT60DoYpbe96qrSNnPWUaQzwOXjpWHkH-Qxs8Xa66"
+    },
+	{
+      "id":13,
+      "name_skin":"PJ Masks Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/Q3qov4c9NS6kaeUekbFcjSDBx9j3ymZScBygQ3tKr-9D5mnqGVuRN7r1bxjInp8VfflALn2PdLklIf5gS9avmas98huDgB8BGmo",
+      "view_skin":"https://lh3.googleusercontent.com/FUHf5O4SvOxwu18JM5Pq1ymTGwSHZ8bayFWj0oVPlbJuADLBXGawmwalq72nC5AAL4V3z-R6hhoNT1D847p4ZayHsyDDlBbDvKE"
+    },
+    {
+      "id":14,
+      "name_skin":"PJ Masks Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/vdRcAEJzxgn9yBXc9JZjlIKpSm-A7bu2Z7zS_H23K9d3y0a1McUyDvzSBZDEfjHKUiQ_hn0f12DWh384JAfUiws7YB0cIRZe9AEr",
+      "view_skin":"https://lh3.googleusercontent.com/i8iza2mU4DF5FBeYY1QeY95yftD9q8QE05_AFVje45yELXiJ4YALxM83KoJ8ZBd-JUdSJ-_dYSQA8n2EEvO2l0okiPFTXk9a9g"
+    },
+	{
+      "id":15,
+      "name_skin":"PJ Masks Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/Y8Q0kIpWfwIinNDH7lE8cF9X1A__v-RtjhB9cKwJOj6xJ1zArZ57Iu6CD2ySXKrrlwsZ8r1rdq3BYHudZdZFsg3UAVfIhK8EDO72",
+      "view_skin":"https://lh3.googleusercontent.com/0hUZvBloBNQ3_VSgROi_s_TfNTuZTVl_J5_5wQ3hmRVEAc94TffTsCRH_Ccvum2HxmhQ6kVocQ2loYhm91shwFcQnhXyWwJRShk"
+    },
+    {
+      "id":16,
+      "name_skin":"PJ Masks Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/Qdlczq-R1YaQd_JqT3Zp44l7tYaXvkVj-UEC4OtB8ULBfz2Omzn5St6Xhyl0qq3cZl90oDwpMj_y6FWT6zJ9WGBWohqrhNqgyw",
+      "view_skin":"https://lh3.googleusercontent.com/dZvtwBnLvEYtLTGy1jFa_clw7etxZ-CBtRXkE52gxbzLA1P9CMUc7gtFGgDsFk7lUDnieQMzERWOuK_G7Pdg4c7XVec0xa0Xakk"
+    },
+	{
+      "id":17,
+      "name_skin":"PJ Masks Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/VQuZsiMjtNLGvzPg-xx_TcYMlj68NBjrhetfQZ4TUexo_WrTkIZyX3O4FWTJMnsRKmThUIhZ-W68rhso5cEwa-u1TFp8f73PwmOv",
+      "view_skin":"https://lh3.googleusercontent.com/CaUk7fnb86TlGOnP5yBErjjrCWyKxSrGLjvN-5Kuu5HP7l7GvV1onapluD9AlJzYuGRX3caeVXtz1eM0Y8_zo7FmamP4KjEKRjIE"
+    },
+    {
+      "id":18,
+      "name_skin":"PJ Masks Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/JgG_cNvv9AXjr3Hs_m4QKGolvytMDJnW4S3TqMXoUmhg1gvUd2-Qr8KYZGoxqL7RHYOWjETV9DX8egqfWeau4CmlWkFjEwjARH0",
+      "view_skin":"https://lh3.googleusercontent.com/4Cl590mcs-kna8i-rn4QadPzOVMx3DLO0pOZihavKOLS1YULYGXxNYambBTcr2fcir_7dWDFf7NSyW65Cq74vz5brh4bInITV-A"
+    },
+	{
+      "id":19,
+      "name_skin":"PJ Masks Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/qRYsWtJ9iMdiosTiZUWFMmmpUCIFcIckFszVwgaW3DVYwKq7XkHMy0HjEXBroWOckYq_U65Li8OakKseLfV1Cp62BLZ--KqfLSQ",
+      "view_skin":"https://lh3.googleusercontent.com/p18A-2OklabNyGktr89JACnPFoA2gs9BqRf6RBGWWqvXtAIOEjEPhFwB8BfxyhuKzHoPIZsqePzNqeYJxt94z2AoseRxjzcBUbFo"
+    },
+    {
+      "id":20,
+      "name_skin":"PJ Masks Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/5DqP17c_FvbW8n9CkNUYsDGY89ngHAb79XlJ7baFi1iB983d83i2yPg3hTnl9Q7tJ7wVDzmjEIgOS915H7831PK3WbCZ3RheTtE",
+      "view_skin":"https://lh3.googleusercontent.com/c4G8PVzbcLlkjv0tBX7BFIBnmsura5tECgjJgAJlAx6REsDQYlr6HdgZ-yCLh5XV7-0Z9XqbM8BFuPMGw3DQ4VbK6ImEqJzz6w"
+    },
+	{
+      "id":21,
+      "name_skin":"PJ Masks Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/axwKfUwDcxDTsV-aq_k0Pnn811zG7Dswd-b6ppj-Ar4aa2YwZJaakgXeo6FzQBtycwMCWidi3SRzDuPMhw-k9B72ASevftNULE7-",
+      "view_skin":"https://lh3.googleusercontent.com/fFlK63_fp_h9HU5xNqE6iinMtAoJ1IoAmasfS8CGPiaNhTMavU4rVC_EHxZb1xv4pBD9dOUyujoxvEtLrKNvyCMhLN7io61LMlg"
+    },
+    {
+      "id":22,
+      "name_skin":"PJ Masks Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/1KZQvRvta1Fn4t4DOdXX-tdB_-ixanqmOMKe7_fw1Rsk18ZnJly-4QVxYaG6_UOWYog4wTXo4CS07hE4tPip5Q",
+      "view_skin":"https://lh3.googleusercontent.com/kCfI4IV-k7sNhfmXQ3axO4_5l8bH-BOo96tOaX5YIF5fGXXbBi3eyHJ4ZuLvQCzTPKMYG0CRyF7CDaTdvbFkAQ"
+    },
+	{
+      "id":23,
+      "name_skin":"PJ Masks Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/y_jIqtljROtUnQ2BUoc2R9CVCfxpv_Bfg1OiANWfwE8IAVoNTCWTqEoO0XBpz4mb76OFRudO3FpSmEx6U4XFKIK5MLi4Bhmqsw",
+      "view_skin":"https://lh3.googleusercontent.com/q3P5-2KhV1EWTR-Hde1wUIpAa2BYd5Ralg5z2NizezSinuFkgDCm49iXnkdWVNo8sR7xaEoD_b1wnYxi50FVdatZ9JHxHDlphw"
+    },
+    {
+      "id":24,
+      "name_skin":"PJ Masks Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/9GxpIyaSPFTzJ3oDvo_bMhG8k_qhufRAr0saVhiqlT5Z7ehSQwo4E-pw9uRyoTzYV0ipVB-AsG0vh9n_C3vuEA",
+      "view_skin":"https://lh3.googleusercontent.com/bRovlzhDuqQimeFmkLwfq0nPeCraC9aPePm89lkzvI0eedx2Ta6iOmfvd_REPvc7U3ZtXEvLL1pGQDbmbl4NDg"
+    },
+	{
+      "id":25,
+      "name_skin":"PJ Masks Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/WlYDImbd_tMiUhdfZj0uHFQWzSXlYKWe5UKKRDEohKnabB8vd4Ikkl5PhaJDt6-O15xME4EZttPZnY7Ju8A4ow",
+      "view_skin":"https://lh3.googleusercontent.com/sAEVy2JR6eiZewkgThjazuH0MYeOBXx-b8W6VNVBlKCFS6XpRqnSs-4tTwXkbnAgn-Nuv_-dAvDUzuv6CVhu"
+    },
+    {
+      "id":26,
+      "name_skin":"PJ Masks Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/HOoLPKJugrNn_TZ3kKK2hIIBlBB4oHTs-BxiSLvUex0Fgur_T3HB9xOaS-A2_bZ85yaLCA8uT0ghy6OIELBlXU0",
+      "view_skin":"https://lh3.googleusercontent.com/bEudcEpHDKEcnN28EcE5VGZzkCJYaoXDB4G9C2oCxJYVyt7shpgkb3lJCr7cyXFwPBlyq8Y2LMVgRi8zmkgIRQ"
+    },
+	{
+      "id":27,
+      "name_skin":"PJ Masks Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/yLgbQ8i0zjuIXcpVVqIhwM2r4uAFXFRdYlAAg_K8NWdOUk5kYmnGftQmGkyb54h1_ZbL_vCMS5WhLG7xRG-mw_w",
+      "view_skin":"https://lh3.googleusercontent.com/WlXCrN2NXFj3YPFTJZYWBD0LCYyB3QbLnOlJDT9y1YkKNDxDZvJlk8FycZR2PR85nQrjvNVT7XfINrE9lskz-g"
+    },
+    {
+      "id":28,
+      "name_skin":"PJ Masks Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/sUOjUKIuxgvsFmXMcUHocZuQ85QyggbsHRy7FCggkEt0oF0n6GBjj0LKb-_4pVofhgVgw6sBaKNXKY7OQ2zT5w",
+      "view_skin":"https://lh3.googleusercontent.com/yufc8ghGMRmNwCdXkeiB0GzCRHFDhKsOR4lWnMg0GN8bgd1jmtPgsI9LQBXIZyCo-OaFLazNUB71asxaaDN7Dhs"
+    },
+	{
+      "id":29,
+      "name_skin":"PJ Masks Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/OIkLIDghA02QjGdzcZ0MN6-piM1DzDDYqITyJLTLXCrqAw_VWnA8RRXXC-pCOqzHu58BKk1gUx621nOpeKJ27g",
+      "view_skin":"https://lh3.googleusercontent.com/Ap2uk_u7ZvG5uu9I0yiRVhldQ8UhAwxYSUVqCxP6O5bs8oD9jli7CqYN462z4QviGdfGtf1LdbvQHrNLQGebkA"
+    },
+    {
+      "id":30,
+      "name_skin":"PJ Masks Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/1OscMKwcpNX0g2580X-MYGnjdLzxzFoV3Njgo_HPCW8eRKqO25801WohO0kD4z_7Xi5jdmFWYZi6FS_Ifac9AA",
+      "view_skin":"https://lh3.googleusercontent.com/pyQ156SrtHh1I_YdLjfL84kDtN27IfgP8PQyQCY4xZJy0_vRsOBnEo2MJu4itdwzwJRifUScdDvV1cdOM-oe"
+    },
+	{
+      "id":31,
+      "name_skin":"PJ Masks Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/Sd4QSoF-_62ppaQPSwAb6TBClVe9BBtSPZCgBhTDfuXYRrEGoZZ62v_3gbHo4zW9ovBN2O_Nvjua3ZPwgyEzqBw",
+      "view_skin":"https://lh3.googleusercontent.com/KyzbaRk-YwrSR00H05mh-rRUL9Fr6crSRbvC7RLZxRUKNWWgSNZ7RZ_OiClKaElTXpWiQnC97Qt2uZ8TrPLD"
+    },
+    {
+      "id":32,
+      "name_skin":"PJ Masks Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/eFJaiajrcw5UfzGYInn7K2_1US-qmG-069ygnpRqVqlaCEbj6yUVyywp5MtVaFIbipM1p6xaM6KtI4iURoVqpQ",
+      "view_skin":"https://lh3.googleusercontent.com/KHs1hnGoUqszGTL4h56cIdArDgvBANH033cp0Ay2KrDf69t90Hlt75w1MApZjLqLddo61bCjgioRwNzcVdVdYQ"
+    },
+	{
+      "id":33,
+      "name_skin":"PJ Masks Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/VJYOWcSyOmJ_f9rPh2WXJLVneb6igNHqXJBoirwZK6dmxcXuaI9jnbIEoPEqX5DIaUgIC0lsHUYhemtzDA2_Zas",
+      "view_skin":"https://lh3.googleusercontent.com/AE0_fKqYZ4RwP-XJVXxexbfI8InasIIb4KcWFyzc96gq_KghvvTUuqUgn3qLuUCvj4bVJxLNy_hjaICeb6BIRLI"
+    },
+    {
+      "id":34,
+      "name_skin":"PJ Masks Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/pqFHZxdfT95s8HbdOx8QuoHRxJwrLKq4UNHmJAGamGlk4jRVHgcJARGUGUkQ_Ix03ciCylSm2L-uaZXqEGsD",
+      "view_skin":"https://lh3.googleusercontent.com/WGtOH6I7T1pJC3dVefDEbBKzg0drSlFdb-p7jzqKG3iJn--kiIGmQO5YUC7nzE6n-oPLs19Bc0u_IFr582qB-w"
+    }
+  ],
+  "Addons":
+  [
+   {
+      "id":1,
+      "name_add":"PJ Masks Addon MCPE",
+      "add_url":"",
+      "addB_url":"",
+      "addR_url":"",
+      "view_add":"https://modandskinmcpe.github.io/easycraftdev/pjmasks/add.png",
+      "des_add":"https://modandskinmcpe.github.io/easycraftdev/pjmasks/instal.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name_map":"PJ Masks Maps MCPE",
+      "map_url":"https://archive.org/download/mappjmasks/map1.zip",
+      "view_map":"https://modandskinmcpe.github.io/easycraftdev/pjmasks/map.png",
+      "des_map":"https://modandskinmcpe.github.io/easycraftdev/pjmasks/map.html"
+    }
+  ]
+}

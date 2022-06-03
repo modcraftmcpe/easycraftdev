@@ -1,0 +1,247 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"More App",
+      "image":"",
+      "link":""
+    }
+  ],
+  
+  "Skin":
+  [
+    {
+      "id":1,
+      "name_skin":"Jurasic Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/SxJBPWdlRBgRmSujNNI80DHMH-FSF3rDo7aTTCG0F1lBBJYIZaZL6FOEcx-EPpmfe79ccVN2PVem6M9uQAl81CSM697r5g-qfkI",
+      "view_skin":"https://lh3.googleusercontent.com/VOebWalAK3icnQHV8pgEYUAajhsdeHP6p6MCRBsVA02G13IJH82nr0x9nOhgkIzFlkWg_yoVYQ3kkhTO62GesMLPN4OwmBWrwPg"
+    },
+    {
+      "id":2,
+      "name_skin":"Jurasic Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/IazRybW7VEJbd40dOQdG5ptZe04FO1JyLjr2yfFvePySyA1TkYMbg9y3iiGBiikZooMnHGqOuaHRe8Gmoqrp3QAFDUezPLRbYw",
+      "view_skin":"https://lh3.googleusercontent.com/X5K_TWhChCaDvYYfz5RzQNGqxM8KCYQuGGbqo3UO3HQnfoD6LGXERgG17SWZTGW1-2bEIjCXNNIHl93Hu3WmqzFOYLWKkjF8_g"
+    },
+	{
+      "id":3,
+      "name_skin":"Jurasic Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/Jk9-jHqro1jV7H-lBYjHvZm8-1xP_V1-eu3qjySfgz4cQX5rBDIvOkrJyAyQQQueuHSbl2q4fNW80_2itAesYD5MlrEdoGJzUQU",
+      "view_skin":"https://lh3.googleusercontent.com/TEHd-tK_MNtJnUt6estcJ8K3l7d0K4okvDWrygk4_BG8t1WSDA01M1hkLJ48QAMfO8j8bbSwOPxmhl8Ck5vl3eyw0KbRixO7jw"
+    },
+    {
+      "id":4,
+      "name_skin":"Jurasic Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/sq4xI5_xzGF7K_ZViIe4FnVbx1Sw90dQFoztfNXk8TstWKYLYBx29lK5JkmwkCFCQOS2DXvyqymxXd8pwTCZ3jL0_8iHU_C0ln8",
+      "view_skin":"https://lh3.googleusercontent.com/rjFp2QotsO6KsupQmdNUAZ2MsFj5vfnUT_GGc3GXOX1Jmg15T4mpazi8fjP0xFXxPibbl--nb1iSX_5HpYD3oDsXCtvetXK6amvZ"
+    },
+	{
+      "id":5,
+      "name_skin":"Jurasic Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/kw9cPTZ-2g1xBIXf9rvYbHvNwRqhToWpCGuMupg8WmpSPExjiz7INLYsVetYpBaBb0KkvvO3x4MNBEYMKbvGSEGq1RKQgTJxuMM",
+      "view_skin":"https://lh3.googleusercontent.com/NV88gKvHqE7a7S92SV8lHwtoti3onsHYwH_lq8uNn45WOF7SU9V7ShJtyZWUBA6pdnIrHueTpeodV8gELCyNqokG_i4IZ5ttVkQ"
+    },
+    {
+      "id":6,
+      "name_skin":"Jurasic Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/rUgJzBox4jGFJJzedHtlFIQtUXmlKZgM6ZeXKZF24rvAqZ8tSgo5I6a9HXQu79VlqdwIhWMb7duD0exwUGDkm-4ruolCKo8W1bs",
+      "view_skin":"https://lh3.googleusercontent.com/SzXuCSlLjzjTR77rsd64n8J6a2NQwhCH0FYMPYvyrTF0i_zKVwBKcum22Hvp06OfNcSGZbp5ODvh6a2QZrobu_mlPZTi7ztuj4s2"
+    },
+	{
+      "id":7,
+      "name_skin":"Jurasic Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/Bi9wHVGtjbPXaLpF4oeq0hy-M3ndmefU5DhVj3p-JoGYy13Rrd5ZTpTRGb4o6QvY7T4ZUjVWYDXY4J1O2yIHGq0mJbKsf4MczQU",
+      "view_skin":"https://lh3.googleusercontent.com/QezU1X29o8XJzuUBkEph9FYUGp25VoFEDO2gcPmvuFilSix0wxJgC9s6IWW-F3Upvu-nfVfaFaQP7ll4LGQ-eugVrrNVruupDdrr"
+    },
+    {
+      "id":8,
+      "name_skin":"Jurasic Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/v6sTt_kMl-qelkwotqdqKDTboO8Sa0nI1r8h-7slhBJXq3MZU4zIwZSgBJTzjkfMM0hA2mlTyprQRmCGjenQTCSZJBKVm45vrE4",
+      "view_skin":"https://lh3.googleusercontent.com/s6RG6ALOf2t0K4jAxM7Lu3RwnqFvOIrn5Myz4qgS_T377om61KnbB7dz2-4RJal0q9ZIskq1waM7USB1zxdFwkbQ0KDJ0Xn3LBc2"
+    },
+	{
+      "id":9,
+      "name_skin":"Jurasic Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/DoxP80gMRTdQhSO4G8BJya0gFCIpgpacW7oDi6_QzWyE7TwVnqWslLPjjogt_YLMezKJwtwRCCTR2DDHyJC93lI",
+      "view_skin":"https://lh3.googleusercontent.com/3aHnNT_4qSN4uILWrJeYypPelihBBvgZiIobzAvh6HZGXXxR6lv8bBmOKBqKC4eMH7HPuTNmdd_LOn-jv21Mwk_nj4rZSk352w"
+    },
+    {
+      "id":10,
+      "name_skin":"Jurasic Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/8xmKRMz2T4-33qOp2Nj9luebhvUxOf8dneXBgnXNjxfUPTGLuxZy7oRxw6jlsqDeJHo_YFc_VGAELRxGWaelFQ",
+      "view_skin":"https://lh3.googleusercontent.com/myWldO4H52oHl0Tm1AK4pbukU8M0NLwtK5GGvbQVr7v9YLOJBtAafNNG-FyqGDHLmxHm2PN_nIYTexWQCPKfBv9G6xacYrUiHA"
+    },
+	{
+      "id":11,
+      "name_skin":"Jurasic Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/najR7C4Yqqz8ccWkTzOaQgpNaX5U-RHQsztdKoWJw0wZbocf-mDsWb6WeA8tSMy_tz6rv9-0LOQKk-yJAP2LC_w1oIii1nDDow",
+      "view_skin":"https://lh3.googleusercontent.com/03DGSUmatk6CD8rbxiWW90_ziaRGNL1nTJ6bzKkV3s2TipFmBtUgbS9XyZksBKE7uqDJAvOSXFwxPswhtup38mNXM0vWRCeViV6G"
+    },
+    {
+      "id":12,
+      "name_skin":"Jurasic Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/dtW0HAt9q58XSwH44dzY0KS2dVlq3cRqaD3gWfB-lUvHkW3yiRQG5OH6ICAbKv9j-HciFZtkLWwbiBuMcapIDBQGbhdABBmDIGVa",
+      "view_skin":"https://lh3.googleusercontent.com/3uFDIrDhsueBUopVk5MNheYO4UedPwXonClDUM45OoFdtNYTgpCeAwrLLL2hFuCyo7kPnNft_jVL0iUSKJRIRC7TwDXrL271FlbU"
+    },
+	{
+      "id":13,
+      "name_skin":"Jurasic Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/_KsjZmh51W7slk3_owncRsfkJifgtWXxdfeelx4Q_xieISSVwl1jG4Jar1OUnL1TzE9TFZ1hp4IoISLl1DW8sL6jUvVdmbNX-Dw",
+      "view_skin":"https://lh3.googleusercontent.com/2-sX72cxk8O9GOxi5teBVG9w7XwJzffPs8jACtSk5yhOF9FkpsF9pz58W2_tjvOF4LXpD4uggcleG9jvu5oBDsjytQgE_YcBKf4O"
+    },
+    {
+      "id":14,
+      "name_skin":"Jurasic Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/yh6UE14BndMQCxGH-jNDKChA795aA7A37dpOa9x3PvNr-SFvbrlT9RuCIQ6eH8AqSiodIkiB7C7cWgU6JVOd7ET_bCL-yYnOTfnE",
+      "view_skin":"https://lh3.googleusercontent.com/LpYEnM9pcLtMaN62pp2PUFlHZ4wFKxcRixAI0YD30dnFu4F8J3vfYK_7vKU-Xf8FxT7ChI7zmd4iB62o86QMbCzlK1a8BMg2avox"
+    },
+	{
+      "id":15,
+      "name_skin":"Jurasic Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/8C-Ux6whzQWw3it8rweyofnTELSSC8j0qN8VOPga3glekGfbRKfRfzZmcsv2q4oZhyT46W7uALEhhVJTyIHvH7WOCrNFal893dM",
+      "view_skin":"https://lh3.googleusercontent.com/7UY9okSW5nzUMEqC-ghNR6dt-9TC0qYjBSQqsNKAcjsiXhhDTiwqOtnV0vYCyr5x9pSSOfAa4wlW9oPmijtWR7aE0kAlFL9Hj94"
+    },
+    {
+      "id":16,
+      "name_skin":"Jurasic Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/0Yx-2udsdnZreIfB9HbfKi6TJbuAEHGDjO9AiJDQyO2RQbq5zUKttB_ZBn9dE-kmM1TSfSclFGN_gwqZbbWQuguDJcxRLfYJ030t",
+      "view_skin":"https://lh3.googleusercontent.com/n_1z8sU0o5ioH9q7uHsePM3TN_D0v23DbWUU9QgpB2revhcK5iYgWXJsIXnDdTiMU6Xu8vBmfomThbEsHwZLsNAx8uOsBU9KgA"
+    },
+	{
+      "id":17,
+      "name_skin":"Jurasic Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/WZTEoHMY3dB4IUqmhXd1vnGS1CqaRln9wvFgssQfeA6omNSyvK7tYE-Dpq0bOZSPP6Ep_qW_rZg621pwRL4wg-EM-5QyoCX9YOMy",
+      "view_skin":"https://lh3.googleusercontent.com/fYbCAaa8-9lpt3fnmNnWhWQfTvP36IFucE0Ltg18EXGScqlSmV0-ycKrQJ409c95Nqde_LUT3U0t9BQKnUdHK0nwpCM4PRWRNf0"
+    },
+    {
+      "id":18,
+      "name_skin":"Jurasic Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/f6FBYesODadOvpNCbjUpxb8lL6GT2ZWx_tm7lnsjej78PHkq7-eb_T7pHqUuCbJYril-7L0YZiH2qbFhQWqN",
+      "view_skin":"https://lh3.googleusercontent.com/3bm6tfA_GubPdAgb36xPWufrRGHoSdU6NeH5akMSiiIvVkqK-Nn592Z7dXI2rigO_YZDGE6kJuCkAotpCdlFFw"
+    },
+	{
+      "id":19,
+      "name_skin":"Jurasic Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/6Sb8hsNlEabWsgJOWIMAggd44RYua-lDkIOnttrYPEKYiH2Y4_q9mR-2ZnCLoD3R435oX_ccvQ2sQMqBjCqpr7U",
+      "view_skin":"https://lh3.googleusercontent.com/hETQvCUrsHQJOBL6J1Vpm3z6GuE4h-msxkNnPVea2o6eCEBIUpoPYVng1MfSdyFSieEBl4UCzPFxPfAwYGq3zIQ"
+    },
+    {
+      "id":20,
+      "name_skin":"Jurasic Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/htXQTS-reZHeLlwDwxTHAuUXx8v_-pRoAPoDNH_tfSusoNLAR_JbrC2gbDT3vXVqce8uFXKBDbomUyC58Qnl5g",
+      "view_skin":"https://lh3.googleusercontent.com/CpA5REnw8SDW1ZlM6wiBXEjJ4VcWKJxUuf6zL0eSxwsFewUiPvM4FkqUtAKaFdrM9U3JY1uNG7T61vO4pvm_ksY"
+    },
+	{
+      "id":21,
+      "name_skin":"Jurasic Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/lELZjzAjCtHe8vNVXATWLphtNJLuzngU9eMEEDQs_YNGX0fVEGlrNjbO_jSdBJEZQQugT-7vmBVh_wDlR6XRQw",
+      "view_skin":"https://lh3.googleusercontent.com/E7ZqY6CkXYEGkFpDMyjyePgwRxsH1DGuYV_Qfn-8ynx6hvfjV5MMtlGsnUfweyp30AkkzHDucsFdD0bAdsLkAQ"
+    },
+    {
+      "id":22,
+      "name_skin":"Jurasic Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/W56EmyyYpOq3MK49vlYIAR_l77nqGmnqjZJ6WC-SGfHSq3AJL8kLTtr2jZchQroargAeGMGee6D5l4R76HfB",
+      "view_skin":"https://lh3.googleusercontent.com/C-TRicZjErkZSX5HTM2PMIbwnCxBrNZRITnsSBxQOD43B13fCVg76RdxnP7rpfldrs9Bqlh47yyCE1ZgxwHuWg"
+    },
+	{
+      "id":23,
+      "name_skin":"Jurasic Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/emaLCW9vrelX9qNsxZA3YHy1RXs8_GvJtiDvwMX6yBy5fNgPlNBDLXWXjMDI71QVFUVC9BYVYHKnuzSw_OVPpA",
+      "view_skin":"https://lh3.googleusercontent.com/KukLAksU11TcUQ4y63IT12KQrmX37oFVpR1GPRwDMSKR-V-UvqJqrVNxutDvlhW1x6-bn8rWHf72wpgNnI8Q"
+    },
+    {
+      "id":24,
+      "name_skin":"Jurasic Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/0P6h3VgWOcquZxYMZFte9-EwVZgf6RIxFmWLeokiLWg8IFyItlMah8udqosBCZoUypPWPQfAEoTjJFR4OZLQ",
+      "view_skin":"https://lh3.googleusercontent.com/UisVc6yDUh50o_gvzjg67UxNxO1vTHwel6wezPA_MBa0HiiugubBEdsIABU3zUN88QEHjCAHh4LiiLxd10pxqA"
+    },
+	{
+      "id":25,
+      "name_skin":"Jurasic Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/kxyEEVlfzR4-Z9MGxm5u7B8t_9v2BMOC6yHT94xgXCoRONRfTWm8xUZLPKzPIH9k5-PynrmWZ5zTXiSY5lL27Q",
+      "view_skin":"https://lh3.googleusercontent.com/GttpDskH0--v5RSEJFfY-m0krjxNQqLyn_1Wf-7GlqiHPhyvlG18QlRk5WeXPHj_s6MRGe6sYiMbHh-zCNtRKQ"
+    },
+    {
+      "id":26,
+      "name_skin":"Jurasic Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/yk51ByU0-uiXu-Kh63jkKggrk0SWf0ycWLOiTiSWj6DZxA2fiktwtzlArSXDcG88rnY27wOkpsgDb7ZwfIeNSw",
+      "view_skin":"https://lh3.googleusercontent.com/PPMtdk4dbRioeKajkmtDxkE0N4K1GyejzdgqH68FJuc5aiNwIC9PAoy1cDh4NP7McR4Dmh086SYdKHSbIeV4Wg"
+    },
+	{
+      "id":27,
+      "name_skin":"Jurasic Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/4jhtV0Rn2SDkurOIcE5Er8fUf7HoJJ3TDXVFAoy7LutEj9SB6mPbnFbYABCzJkOdOXu9n95_XSDnVdyyPlv14Go",
+      "view_skin":"https://lh3.googleusercontent.com/pu-D6ryqUMt7pJzi0n7TUeQ11BSFDVYXqRBktpkXff51b15HOSDpYbEX94D6kcRfO17g5PVetkUtY0uYluNZ9JE"
+    },
+    {
+      "id":28,
+      "name_skin":"Jurasic Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/x7HrwfCriU6x_-eGDgzrI92Svq6Ir7b9I7iz-SGlVrK56pygvQWJXeY5UP0LSh3VXenrozSahCRMAtbI6v8zew",
+      "view_skin":"https://lh3.googleusercontent.com/4R2uJZkfckvoTwGhwaIbs9bsxwvgKcGSHd0TvSozC-T7JGjCP22nNy0tAfqgWMt6azuMigtZA-ogKDhpUGUBP68"
+    },
+	{
+      "id":29,
+      "name_skin":"Jurasic Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/e9bvpAa3PTsUBnLTioMExfskUKG51KjLmbKkI9Cqw1agLrjdCnG9D7iUoJhQ1SMuODCAV8Orer-kMD6EH-mMxw",
+      "view_skin":"https://lh3.googleusercontent.com/84ac4OA7JUXfcuAndyQaEooaT45Im14YzQs3w0ui_-c_81nEBIC6M91q9RbWGII9TLHQGNlr0svjh8yb2O4Z0Q"
+    },
+    {
+      "id":30,
+      "name_skin":"Jurasic Skin MCPE",
+      "skin_url":"https://lh4.ggpht.com/IkxI_UVxLmXxxgeRUX2LoUQrebaTuil74PqeydwuzBaDp0Eqm_btWt5qTGTg3lIistiK0AS_wadUHhNHUVE1",
+      "view_skin":"https://lh3.googleusercontent.com/V8GMUMRGzfc5I1LiqnVvYHeN679C6gGvwc8mKZNS49EVfNpz4RABv7N7yOIw1tKrX9TGLZXB9vABFRvA8dNg"
+    }
+  ],
+  "Addons":
+  [
+   {
+      "id":1,
+      "name_add":"Jurassic Addon MCPE",
+      "add_url":"https://archive.org/download/addjurasic/add1.zip",
+      "addB_url":"https://archive.org/download/addjurasic/add1B.mcpack",
+      "addR_url":"https://archive.org/download/addjurasic/add1R.mcpack",
+      "view_add":"https://modandskinmcpe.github.io/easycraftdev/jurasic/add.png",
+      "des_add":"https://modandskinmcpe.github.io/easycraftdev/jurasic/instal.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name_map":"1. Jurassic Maps MCPE",
+      "map_url":"https://archive.org/download/addjurasic/map1.zip",
+      "view_map":"https://modandskinmcpe.github.io/easycraftdev/jurasic/map.png",
+      "des_map":"https://modandskinmcpe.github.io/easycraftdev/jurasic/map.html"
+    },
+	{
+      "id":2,
+      "name_map":"2. Jurassic Maps MCPE",
+      "map_url":"https://archive.org/download/addjurasic/map2.zip",
+      "view_map":"https://modandskinmcpe.github.io/easycraftdev/jurasic/map.png",
+      "des_map":"https://modandskinmcpe.github.io/easycraftdev/jurasic/map.html"
+    }
+  ]
+}

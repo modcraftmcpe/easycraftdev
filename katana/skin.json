@@ -1,0 +1,267 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"More App",
+      "image":"https://modandskinmcpe.github.io/easycraftdev/moreapp.png",
+      "link":"https://play.google.com/store/apps/developer?id=easycraft+dev"
+    }
+  ],
+  
+  "Skin":
+  [
+    {
+      "id":1,
+      "name_skin":"Katana Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/XKOnS9sJtbOQ2lFSVb8qo1NnGQPBf0xqkDhFPbTeGetDRGfH3gqahSjX44WD6NB2xGKXOyKMAJRLJZOIC81cRA",
+      "view_skin":"https://lh3.googleusercontent.com/d7lFDW1Jt5HiQqn0yib6YaCzRJs5R1F0Ug5EUwBGwAcWtILCXRGnUKlqEWaBD-6nYsX4H9vboBlNCXS-9IIZGTc"
+    },
+    {
+      "id":2,
+      "name_skin":"Katana Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/Sd-tIyxhhMoT7LVISp4GESRI2zBQodqoD3aMQl04RsWLXGsOB2USbIsqdwW8vrcAmh6nO6feWc_14R73zQKIKEjTQhMVcC7LgEM",
+      "view_skin":"https://lh3.googleusercontent.com/hxmxE6BgQacV9eBGJufV8doX7QutQIbGuP5r5XOvNKer5Krlal6ju-FSjhojtTuUTWPLlK3w7yRJ1w2xb9aMN8H63BKkF34cXTn4"
+    },
+	{
+      "id":3,
+      "name_skin":"Katana Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/blgC5vi5OOZf6aglXX7KlDtr1hiY60ZiSBNl9-Xo01vK1Jx-UySE3PdxoPv1n8db0FGhMajV0JlzKnEafXLQuTWjG6SDm9I1AQ",
+      "view_skin":"https://lh3.googleusercontent.com/7ci5MliIr0GeipdppHzx1jVAXtb7DeeBiHW8gr9yNjn3T6O4Kv7Hyzyr6-kJnYCibelLZd0_Xrh1pVnIG6RPixD3ZjnwxZIjicg"
+    },
+    {
+      "id":4,
+      "name_skin":"Katana Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/jP2-edj0MZUnKUzF2GHKexEEknXDu_pl5Cr5L0SMTMa5osdzPb11WSSJiHdgvtBZ3G8USbgTfWK9nH33HYgBH0AJp91Fubeo9MRL",
+      "view_skin":"https://lh3.googleusercontent.com/fg_3wAi-0_jpF8QiVwqMEj1J6iE8xhuizvuuFSEkVsSHhxlsfauY1mZwCCGshnYNs-D3hMz1fMEx-S7QK1tQ0yxPTjxvvQFJno8"
+    },
+	{
+      "id":5,
+      "name_skin":"Katana Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/z62dLEY_DV4z5ef72xb0zTp4yJd7prXxkCHM86KWEEF3gkYQmy_LnjJbRwiE_lrvvSHyLlXUhgCIkPan2A-NxtQ",
+      "view_skin":"https://lh3.googleusercontent.com/iFmLlMSwNjVeNOxAL0fSxUjSJw1yZjb37F6Ce1X53I6jfKpmYOL1unmwrnJ1fkJiDSHttd4TdGRzE6S6FKJLmZm408vOH7egtAQ"
+    },
+    {
+      "id":6,
+      "name_skin":"Katana Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/O2ZK8YbblJg3bla6z92LhcIDP9AEtUz0fGp-qj36Ng1AtsrcygBdb7m9eXPjHLhVX51EMt9cJmn5kJDEIf9YTns",
+      "view_skin":"https://lh3.googleusercontent.com/4oAcEck0gbjtdiqd8cZDecovUKGxAbdpXdHzJxvjfTwv0sd3SXfklLXHUaVEqE3JffdXhJbejH0CuD0X_H_f-g"
+    },
+	{
+      "id":7,
+      "name_skin":"Katana Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/PCLBrMCmpWAi3KN6rAuhlfRNvEYGmhWKWtXlzBDvuoKG6ixTmiHe0jjW03MYmjymXVIQgtrsDt8wJxuYBEeWbw",
+      "view_skin":"https://lh3.googleusercontent.com/spOg6SlaYL8bG7YUN5NoXNb_E_-bXKJXKl_gB-0RZl7dtQV1SuOCu6RHpN_dFXoeLjNTVrf0-ZKFayBLtv17uQ"
+    },
+    {
+      "id":8,
+      "name_skin":"Katana Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/oV1OmeQ6D-p-5ZT747fnlTmny9pJq8UxDEkMwOAhdXRyGhDgmxu88iJVo-d_MoxDYKPk_boPui59Sc-aZO6_",
+      "view_skin":"https://lh3.googleusercontent.com/JFvgqB6f1AYuhpJjZ2TgP9HcgVE3hKv1xffxIqqIaSeMyzw40CX2egFxFPhmlTruHngiEy05qDHhpY1SFanf"
+    },
+	{
+      "id":9,
+      "name_skin":"Katana Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/8vf5_gxzJIh_Z3QJr0rgqev7RAtQ76x8EE7B34ccc-6Wm41JgS7cs42EkzfcrkHpZ-xW0sXRwrOnAAmPihA2zI1qPmRtLPQg2B4",
+      "view_skin":"https://lh3.googleusercontent.com/_HcVePT-aICTsC2qQ8bt6lJJ_R_-87KDLhXFsmHg_dA6j8g7LgZsUZiMF-sKf9YbIUNLEuDZg7PW1FPcqHU54LpLW_uKtzwCh5rd"
+    },
+    {
+      "id":10,
+      "name_skin":"Katana Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/eB1gizkVSodxV-_YPgMhjJg-vixu7xEk_uIq9gb7dGbpGfo1G4O3V3jgFownemZKx_-P9ArccP3jR6IoPmgmSgJO8-coOYNwKQ",
+      "view_skin":"https://lh3.googleusercontent.com/0rKYXaZnsLBCIg_1b-18hEwi1U6FXwqP6CFxsmNX62LSSgSJWsLdas_ZS_rvsObkzN2mQWQDpWLC8xRkecxOsdKeDX45I5sjru4"
+    },
+	{
+      "id":11,
+      "name_skin":"Katana Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/FD8OcofnIDMasADVzlT33UMpDuyPLecxe7MhdnoNCn7qh8dzARQWzolXlbkVTxsl4PuXXhgIX0JOXrYaxwL1cVGmq0jVoLtX2CO8",
+      "view_skin":"https://lh3.googleusercontent.com/-lkNJ2ezC-oMTSV_JIJ02ywXqVtgfKmMqlifnyo7TMzDmeQZM_JIT7-ATKYWi9SudBuNEHFly7z1g9zveqXzKAgm8tmJ34ad4dey"
+    },
+    {
+      "id":12,
+      "name_skin":"Katana Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/i073qJTTAuvMUVvVQYEBUFIVKpm1fEjPxIpmMbPnsOpVZlA0Bo0zl2l_0qJmyNOaQNSsJ_j8kmah8ljOtIJutIU",
+      "view_skin":"https://lh3.googleusercontent.com/77dCrESsvzp-wCxr32NzNWQnXdf0A_5mJnUwlHIEMlH6h9aRhkjerW5kfq89NdcbjB1-p0qT-vNGqqb0jXm3bw"
+    },
+	{
+      "id":13,
+      "name_skin":"Katana Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/NPXnJd89UhEEugQyBPIwFaNQh1hgqb9G4Px5Hn3WZPtSZ10RLaPQm7oKkoAEtVd4sBF64nHfp63SQulb3sg7REIzfW1jrSYHOETa",
+      "view_skin":"https://lh3.googleusercontent.com/-cVaP5_lcjppAiy6SB85jgG4H2canKkdMT-GtgTv8O8EfQjzRdjWQhpaE49vmK8JpfTy5sh4AZdSZ75uiNbmzOUYL6qURqZxNwTc"
+    },
+    {
+      "id":14,
+      "name_skin":"Katana Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/YvvDHhw4VeCYCHwj4jvq6jf5cYnYWlxdHuGNE_4H-LrlKx8nfgz-5YEDX0bnhm22zq2WZHfNuS65yB1z8VsM",
+      "view_skin":"https://lh3.googleusercontent.com/R1-RXpSV9BdHqS_Hi8kIpDL8hXNqZdGKOaZuv9FleBJdk91NSJe6Mays4U4SURwF8jiBpeYqSB6XWvtP4MPe"
+    },
+	{
+      "id":15,
+      "name_skin":"Katana Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/6LJ_gc6v-qhMzGzrQgvLNFfF1T8E3sAePWZ_jg3wA0_2wQHIKT-6WeExO_kLmV-dtJo-SKQ-gxrIH_YD0lCW9Q",
+      "view_skin":"https://lh3.googleusercontent.com/bKqFRnfGJ7GnJns9f0pC4xyxn63sV-Gg7Es1QUmDLyOc_aaDKsfkgEzSy8wHLd_vkCqI83_LD8GPUyjfIAUr"
+    },
+    {
+      "id":16,
+      "name_skin":"Katana Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/-KMnTNHrs1MxtNl07064rYU7ZOQTGXc9WsneT41ScBPS29c87_ovc9A3ncorQsvB9QyuaPzp7dYo2dosY93t3Q",
+      "view_skin":"https://lh3.googleusercontent.com/VHOHniz18-nuz46VZlJv70C0Vj6y0wBD0C8mLAUg2Zfqd6mVZekQWsboX528EsKgB1QpgMjPhHnTjN6tHPUgeA"
+    },
+	{
+      "id":17,
+      "name_skin":"Katana Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/ObnDV5SP8IOeahu__GtQ6DDq0BINmmzjlYXmlSGqDQGOrLDKftMgHb0IFaJwGn5lS70dFHTCIiUkWW7rmB-Q1oR269YvKbtQAQ",
+      "view_skin":"https://lh3.googleusercontent.com/tUH83Zj6MyflBhxxd0Jmjo4imWoHpd2B2svIC8Jn_Zw9vPl2tPpKqFhyaOsHQiNUYZK4cz5XffYgNEAxaqIc41Ch303Wuqcjqw"
+    },
+    {
+      "id":18,
+      "name_skin":"Katana Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/ytRdMWw7tt7ZEuUme377CEUGz5zXc-6dvu8Xo1LJW3AXK_vilH2MjrQrfXt4rfIfa3wLDh7bShL2J4mh2oNiAi2V9JShKWKeVdYh",
+      "view_skin":"https://lh3.googleusercontent.com/YDSn5RXtKFDF-Fl44n2naos6Bw6hyvEbuiLOeQCHwMMvzLxNKFK-E1x2oSA07CQ6dDoh9HbOm78Cgap1mkOJeWynNSNlHgSXdFp6"
+    },
+	{
+      "id":19,
+      "name_skin":"Katana Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/GzELmEy883Tz7DwYVB-auD2yW2qjHhMZ1Pt9IahINLjdkO6vWEoVtE-rs4KFd05WDT9iyjrmeK9KhhYcSfmhdl9QepFrPtyw-xKO",
+      "view_skin":"https://lh3.googleusercontent.com/IoHK2GXHlyzw5oplvbR5cMP7HrxMIJAEf48Ep_ZyfLtg1llzBkAYgZS7M7dJn3U-31C9k1U001mxErdnBJr1RWH3d3nBY83F2xI"
+    },
+    {
+      "id":20,
+      "name_skin":"Katana Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/DEYmL_N07SCDPRt-nWV-qkyjd0moqNzVHLlHZ8uA9bOteVbSm-zr8nO3T3POY763LZ1ZN0aXGzlM6lkJKf9hYg93vI6zjYCGcVQ",
+      "view_skin":"https://lh3.googleusercontent.com/63KOuxIpEQxeJU54h237alMUPQ6f6bgXNSCW9-qHGz_oVBj58CQJtSjqVzErR7q9LhiOsuezw-BBCQ34GFYPg9Iay3UL8W8piRp9"
+    },
+	{
+      "id":21,
+      "name_skin":"Katana Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/FNrsSinbMPPoU0X8rKjPr8bMIggW0yU-JdOIJ0kL1O40tF4qeCjD4qFZniOGmcOn0RVDRc7RKMWHjt0JSrKa",
+      "view_skin":"https://lh3.googleusercontent.com/s8bInRAYvPCnHnByT_AQUWCXloOQ8SieRn9p_cFvWiWYVnoP62DUEyC_FVgKINRPaxEnYBLPQSWxbY1sKQnsIA"
+    },
+    {
+      "id":22,
+      "name_skin":"Katana Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/oOZ43o4lVVghXEXpTSsNAGAeAh2VYUSNEoag78BI5_hD5AtO98XgUmldJDfEL3DeVXOsNxm4dgdmPL-r4OagNqM5RU6JaoMwReiD",
+      "view_skin":"https://lh3.googleusercontent.com/l-j4TXddce0vR4VjjCrPwpAjxxh3Rmy1vJnsGXB8anZ7MzJDn9v-RUAIqNKvx44LZF2sLcEY3Nw2H84yEus3aJ4C9upAY__HMAE"
+    },
+	{
+      "id":23,
+      "name_skin":"Katana Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/fmjnplhAvLaS2lJ_vQHpuVkC-hITgtIbeHVSYXO76QMkDVjSIOPDWX-B7_C5nwqh_ktCCpDLW4pNeCFjncTLsK93d8D9TuJShg",
+      "view_skin":"https://lh3.googleusercontent.com/6Uz0nfhjdy_nhfSyjcuQhMaU2XGxx1qIMLvOd4Geu863nK5ATfRC2U1HuCTSeU_g3wPuvBbEBsDj8bfIQBM6xJFY0jLZuoDvCjA"
+    },
+    {
+      "id":24,
+      "name_skin":"Katana Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/_bM9XBBjIIvNBdL_WvJPi9Su6UnSjB8xVeo3MzpCrEjgXdAaRkYXaOyI_O3QIlcK4qFFPLogEiH-T-CzCuoZboJYOD_D0Bvkpwc",
+      "view_skin":"https://lh3.googleusercontent.com/HiqQKG01vudVQZQDeNJfH-W1goxifuQKm3Cc-7p_iUUpPcbUVhig-Bu16ZJYaBq2QxZcYjKaDmF0cqDnazeeZMZxFsaPr8zotVn4"
+    },
+	{
+      "id":25,
+      "name_skin":"Katana Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/3BNeMDND-8QH7avd_ShJ26yYRDsYkT9FVQB_yEyN749a3J0wGDyW06X8CtPjqkbB5xtrOKsWwC9rQN6zUd_7dxpAT7GRCUtvdbnp",
+      "view_skin":"https://lh3.googleusercontent.com/8vk6ZrqQvtyWmj6JV892mq7vLCBZIvFdW3uUY_6AZ3VGTOy1IJjMV_otJXBi2MZ2YzNL1tlF__uJm8v1mxHcpQ8FniGcBH_dXDo"
+    },
+    {
+      "id":26,
+      "name_skin":"Katana Skin MCPE",
+      "skin_url":"https://lh6.ggpht.com/GqGgwfV0bbhDDj1cn-SmOCSMO5Hifg82CloJMfrORiWo6gg3Kc-5gViNM0ZlEA50ojN4LEIIBRVKgyjbycH0",
+      "view_skin":"https://lh3.googleusercontent.com/sxgiImURKJgZCkSNL94jYrymtFHxp8_x0a-xSOownoyfdpdPPKyhm6MrtNZ2JtP9q45igbNGsQ-paeFALEm-Kg"
+    },
+	{
+      "id":27,
+      "name_skin":"Katana Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/-zS29F3vJfvG9_Tl2Kzdys9BM6e3qOo_M8nl6zY9LH47fZGS3y1oLajND4fnILzvyuzwT2UP78K41q6ELYU2SUMnjSJTeJqeMKg",
+      "view_skin":"https://lh3.googleusercontent.com/UJOiWZ6l-6HiBSSHgHvlsIOcIq70Wq_gL2LwUppAImNGjPbaDtCNrgogdMlyVNh-PBhfddyCf9TVABiczJHlYi-UzdKMR3MsApZk"
+    },
+    {
+      "id":28,
+      "name_skin":"Katana Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/U65zti3NJX_MUoHSm-V8K1yBecXZO3X25_H_Rk_7WAoyZnb4Lc7Zv5vKwV7VF7Q3Zw_E85dA5CEvppPxwXzgM3b5fo4UXo2HCJJl",
+      "view_skin":"https://lh3.googleusercontent.com/BPWuzqPRCR5uwEb4IXFvIUmJif3iZMstJgXGHofT9sysbAt1Qh78vB_v0HZEOUHWTp3jO6B2tmd8HhE1PllNTWbPmJhCqcOCSHE"
+    },
+	{
+      "id":29,
+      "name_skin":"Katana Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/xzMiVZODqhyNo7TgSw_8v4HLTrpyJz8Do-kMqi70NHCwyvcwhNkgVtKuBdBsr9X4Iu62OUf1u-ikX68bqLtFGZ4D8gm2JgtJwvw",
+      "view_skin":"https://lh3.googleusercontent.com/f4qaj1dNS6eUgQNCmoAiaDSZ7XCfA1r4wzpf-gLMTuqwckXQzTBBFa-D5XDj8xORNITzNGCWOQvncIyQeOrza0mlKv-Ad8OP-xc"
+    },
+    {
+      "id":30,
+      "name_skin":"Katana Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/08uA5jJ5Py8nphcMJtC00iHSsMTFqmLO4YtnkNa-_561IcvCfqkfkYXXtsuIjFxx3afJP4TRDDWrPWDizThbHEghMQDdQCkoIg",
+      "view_skin":"https://lh3.googleusercontent.com/2_KLR6P13WZYJVxBIYWQvuAze0qHbJVWsaV7Af55Vmy-TaE7gUnO5MElQWrq0gSTOSwQTubOwr421DgkKSZVpuMqw-3yjBo2jnQ"
+    }
+  ],
+  "Addons":
+  [
+   {
+      "id":1,
+      "name_add":"Katana Addon MCPE",
+      "add_url":"https://archive.org/download/addkatana/add1.zip",
+      "addB_url":"https://archive.org/download/addkatana/add1b.mcpack",
+      "addR_url":"https://archive.org/download/addkatana/add1r.mcpack",
+      "view_add":"https://modandskinmcpe.github.io/easycraftdev/katana/add1.png",
+      "des_add":"https://modandskinmcpe.github.io/easycraftdev/katana/instal.html"
+    },
+	{
+      "id":2,
+      "name_add":"Katana Addon MCPE",
+      "add_url":"https://archive.org/download/addkatana/add2.zip",
+      "addB_url":"https://archive.org/download/addkatana/add2b.mcpack",
+      "addR_url":"https://archive.org/download/addkatana/add2r.mcpack",
+      "view_add":"https://modandskinmcpe.github.io/easycraftdev/katana/add2.png",
+      "des_add":"https://modandskinmcpe.github.io/easycraftdev/katana/instal.html"
+    },
+	{
+      "id":3,
+      "name_add":"Katana Addon MCPE",
+      "add_url":"https://archive.org/download/addkatana/add3.zip",
+      "addB_url":"https://archive.org/download/addkatana/add3b.mcpack",
+      "addR_url":"https://archive.org/download/addkatana/add3r.mcpack",
+      "view_add":"https://modandskinmcpe.github.io/easycraftdev/katana/add3.png",
+      "des_add":"https://modandskinmcpe.github.io/easycraftdev/katana/instal.html"
+    },
+	{
+      "id":4,
+      "name_add":"Katana Addon MCPE",
+      "add_url":"https://archive.org/download/addkatana/add4.zip",
+      "addB_url":"https://archive.org/download/addkatana/add4b.mcpack",
+      "addR_url":"https://archive.org/download/addkatana/add4r.mcpack",
+      "view_add":"https://modandskinmcpe.github.io/easycraftdev/katana/add4.png",
+      "des_add":"https://modandskinmcpe.github.io/easycraftdev/katana/instal.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name_map":"Katana Maps MCPE",
+      "map_url":"",
+      "view_map":"",
+      "des_map":""
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"More App",
+      "image":"https://modandskinmcpe.github.io/easycraftdev/moreapp.png",
+      "link":"https://play.google.com/store/apps/developer?id=easycraft+dev"
+    }
+  ],
+  
+  "Skin":
+  [
+    {
+      "id":1,
+      "name_skin":"Hardcore Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/qp8U6BIGZVUP85oyiGgW5pDgXk1pwxcRg_NkFvye1mw46DGOlziDb0aBjibnR3CM-LcG9SYzqpCx45MYHB0lh6U",
+      "view_skin":"https://lh3.googleusercontent.com/NLKl01VpJJiFamd1r6OV-rjhDMMWvNTDwaLaODDq7-_pNZFrvTuIbBdfZT2HVL2DIKrbzT7zFn-jfdRZ7clDRg"
+    },
+    {
+      "id":2,
+      "name_skin":"Hardcore Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/gWX9XsfYMosKrgkE3Vc4FHUpZYPDaMxYirjVRbOMGtxJlhcYfSg1mjBE6uynigYskysg5VNza0zmDe_mK-_rfyX0-n78D9RUtu0",
+      "view_skin":"https://lh3.googleusercontent.com/dSvQq3LrjfYITXyYRFxPWKPgKxTPzd4CbrB_b1FqFkw5zNErTZ_4IiSgZ7cwEV72aT9J8kQFo84mHJEBimi6ExBSXM9zeRF79Gw"
+    },
+	{
+      "id":3,
+      "name_skin":"Hardcore Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/VjuXBwnhC4CAkF4kIJu9lAWlVj0cm1j1Al7koAln2ngi19Ol6eTyLvh3qSOtronbzyDX4GVFWhaxh0pHmEnz4NYR3LypE-jRkcBw",
+      "view_skin":"https://lh3.googleusercontent.com/of6ZUo_SAvHEcxnSGAn2a-tqkxMlArbltXSfFPmLkmkUbQ5nk2ar3SOdzVd4qk5RjEvfNIiVXwT0D24Ab804JhX-bZfYeNQcCA"
+    },
+    {
+      "id":4,
+      "name_skin":"Hardcore Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/ouJPxZpbwAHd1qLLdDTGBNF6zy5259L8wH5t0_GjyshyjYwV1GtRS_PkaKOj-4feS4yO6XnqGBg5LIceO5MbxZFwpu40WYyBtA",
+      "view_skin":"https://lh3.googleusercontent.com/OKc3GYRR-_58ZkNT7nJa7txXSZM0UFtBJxARtKWE1BX5-MK6J3a9tzFuDp24Y3yB96XH_Wcxgt7QJ_lHNDolScEbEavIQ8-i83s"
+    },
+	{
+      "id":5,
+      "name_skin":"Hardcore Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/qh1NA36aXbfVQrTmn6bIGeM1F2bD5x1fRZLbjnHU1jTEJ0Z6dG-PhhqtRNn3wdBBhbdTa3obvRCIFZB5yFJNxQkEBuadJQ_k2mdd",
+      "view_skin":"https://lh3.googleusercontent.com/gNW-JPVPEsNTlvjA2_o4VLJMs5aaQ4z1w2-cLEkifcStrYKoAntz9xx-FOK31DdIKnOZgpjjs35JR2L_fiLuSwY_oz1AvIqO2rlc"
+    },
+    {
+      "id":6,
+      "name_skin":"Hardcore Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/KsnvaO7XoLXcp1hJLj1iwNg6LCz2Ykup029gVCdZZwAI8edFanbzLL0FMW4cX-xQyh7i3djAo22ES_I0MWAnn5y_x_hSVTdBc94",
+      "view_skin":"https://lh3.googleusercontent.com/uLm493WfqBvbL7VxL24LsrRXtMdEREF6Ol9VKICSRSUjXsu_Y-fheyzPpALFpsXkQZBek1hmZPkdDUqTDgSgatReCFEZZnGWMg"
+    },
+	{
+      "id":7,
+      "name_skin":"Hardcore Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/y2LXgRFt3jgFGReVPvlndbGbuNssVSut7wH7NoL1U6YI9TSzmN_g2GagQymaxZrIh6kBVG9Aj3OKJDK0EDbWOAKBkCuheiXVlgw",
+      "view_skin":"https://lh3.googleusercontent.com/bdhb6NTDzYhv-XkUsgJOlryYybUMbDqpJVL9aLZfLJxEwQU3yLrS_v0fU5yMTJ7z4odEDUhSF6oGgNDNlWwpOW-vvw1Hg-blrqF0"
+    },
+    {
+      "id":8,
+      "name_skin":"Hardcore Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/nEnhLPnBb_SKWm-JPD6tdis9-2FpbQK96MgpyjdIIfRM50OBDWMUWS0IP8ZHHLU6FnJ21QENNXxipv35OD7QDgmMaOQILnjQ0kQ",
+      "view_skin":"https://lh3.googleusercontent.com/TcQnwA5eCZCriyfyvQKD6BQVvY_cjBPvxCD0Ujp4Lv2_GEx9xptyXi7_zhiM8vWB7MQPd9OHrEbzP7WQiAXCFtqaNrD_9waIO-Y-"
+    },
+	{
+      "id":9,
+      "name_skin":"Hardcore Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/lN65sg11XOExsyaT9xeV7Ovq4TkVc7ttz-U06HDHfaBVy9QdEGZ-StSjn2MGhcQVg-DMgvTZ3kJb-4ymkFYDNR9BBRw3HAup-2I",
+      "view_skin":"https://lh3.googleusercontent.com/HSTAR1avgh33sEJ1zX4biWNXmN4kOUoPAQBdpjt5lW7XPO4l9YECnU-ohbskU3artMtYyidpqoS5j5aFagCpkBjl11AeLX-fCpE"
+    },
+    {
+      "id":10,
+      "name_skin":"Hardcore Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/heIcRaM-PI7r-gsXUsq6C_EZOdZJ7DnrUw3blKPZT0iwQu6-1EKrxhSHPJC_ESfteMH8SG_DS01tmz9ZVBj1zaX25mHR5KBPwpL8",
+      "view_skin":"https://lh3.googleusercontent.com/BUZIwuuw_vSeG1oeylbsb1ucVntGPSwXQ4RlzUjR4UHd23arUWEBr5o7eUpbJv92xoMBV-N-_Ho6cMmj51b924CRit60Xztap3g"
+    },
+	{
+      "id":11,
+      "name_skin":"Hardcore Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/TZlgM1cQUtB8V1im8lN1zhPkZdkuO7FYKH83ORDGwJZjcoqF4M36DEA-jkVIKJqkKkt2_h-9HO_6TCR29SX8C6xPq5XDaQfgNQ",
+      "view_skin":"https://lh3.googleusercontent.com/xzPldpyD0JGInhGSfTnMJhuG524P_tvp9JOdBy7UpilLZefZC41NeNkjpyCS5rP2SNr-qlk7tv238wZ2UNjoSVWHfnjhpt_94Q"
+    },
+    {
+      "id":12,
+      "name_skin":"Hardcore Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/eVUTsHVPAq0jB4xT9D0QB_BLiq7qm_jQAXwQZdLe-XtUSml9hleyjrq-7peBt4JEJ_1CMwvZ4CY9Y9-NC1HK9qNhjvbhrYTkpwo",
+      "view_skin":"https://lh3.googleusercontent.com/xsU9d4Fv7X6PZNc8hhT__RzdyshlZK5q5CoiXEGsADRGG3FnRVCIViWhb4j0XvU_puC4fo-F1jlfDuIY0K6fcSZREI4TLI2s3iA"
+    },
+	{
+      "id":13,
+      "name_skin":"Hardcore Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/5PUOa2bM5Zvhw11470nEwNmkUI5SuDDPJVi12oK8lYMlu-Qm_cNMRiULc4TO8xMwuK_2XRvuCadUfW0L79ju7QPp08NyGAeuNA",
+      "view_skin":"https://lh3.googleusercontent.com/rtPLwkPKlOdQ264aknWRgw-5m2deQ6uSkxMrk4d_6-QSq-hxCfgPLSqH6HGBtfv_cM4Ets9QEwJVnzQmUT8c9k5m4wfDUjfEnw"
+    },
+    {
+      "id":14,
+      "name_skin":"Hardcore Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/KZKN3PiudxwTJFi_yh7RQzfAzkcTUyOQPT50-UVrmVO0W3qYCxNSiOPbdnQiRskxryyeBDDqH4b4v3oTjavZTZcJ1MlrmlsLMQ",
+      "view_skin":"https://lh3.googleusercontent.com/S8DfDE3IqenvrLXLBqT_zIJ2b_TyAFbixaHds-TjNtDq3hFXzhz1fPv-8Lp_wYcu5bEMJxYPYviRbh1cn_swDI3tcGv-oB4ihQ"
+    },
+	{
+      "id":15,
+      "name_skin":"Hardcore Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/-_ewntrGk0IJ_GKhM9Lsga_FkYdjeVavg1D0EnQ8t2qJRB2F3UzucHyai0_CRd58zuadl2KX9rSjr_bE2Xs2dU58TVzrqcEmQio",
+      "view_skin":"https://lh3.googleusercontent.com/c7ywTLZX5wGb6JdePEdorAi4j7Bu6lSRPmxOSLMEtbAR8KpOyVlRbLDfUztbWLMYb6z2Y92-9XSesYXDT32WJkMnGHdE4RLbLQ"
+    },
+    {
+      "id":16,
+      "name_skin":"Hardcore Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/oVfVDLxdkTooXscU1d9Md7g6Q2n97hXIhNKhhxmYevqehfQaMcMHBm1iS3y00v8nXag-Kxduab-nRGa76TeHLjh4gGsIjOQfrqf6",
+      "view_skin":"https://lh3.googleusercontent.com/ZTvTCQsS5D-ci2n_wESOIl1IhIVpCN2H7RoqVTcta9swJbdOp01235pE5uFv1QAAHwYL_Zz4j2lHX684WELbsZW2bLdMG9bB1g"
+    },
+	{
+      "id":17,
+      "name_skin":"Hardcore Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/x2yKlCokxmpsDJrTAoEo5ioi13JoDbL1ApM05jpkK7HyARIMsU4SrDEx3-CjznfxGEpb1LAonCbtBAu9y8-UWlHlVpgW9upzYvk",
+      "view_skin":"https://lh3.googleusercontent.com/3e48gkaTrOR1WNSMtUvn7AjAhOaqS79A9Yu3y7E5axsitEfWJj1NpYkhuPlkqt4mdJlGAiPrrzkxx-xt59rtmklmCUycGOEgtJrx"
+    },
+    {
+      "id":18,
+      "name_skin":"Hardcore Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/drBQxOM4hIC4s1Ry0xmZCk6N92hXt20Ne1bbpYtZEeBt7uMMuLelqlZxATuci8GZOY5z1Uznj9xr9neSjhoEd7ZpourPLXf6ag",
+      "view_skin":"https://lh3.googleusercontent.com/BRL2LCjGEikmkCT_1ay5vxXOo92fJ0-zkBzziptAKpbBA0tJckcZR1wvIwYFgIZTjEs10UfWXA7i3UkawooYnV7T9kIkcqVKZxM"
+    },
+	{
+      "id":19,
+      "name_skin":"Hardcore Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/VvOhKsZNgBKk_xlVQoEH7PmxgU-E65RcXBtx1qDpmVYth_-KXcOiu5M8Ka5q_srQNHseL2UrozzFVx0RromcyUipjLMC2cKAGkk",
+      "view_skin":"https://lh3.googleusercontent.com/de_qbpjx7uKPdW_cIMzWTrVgZ7-30aIlzafkyLzg-EspzlRUeUsw6laZl2cKVCG64EYJ9Q9ye0AiH3kZUQvCiDCDr9wrX85SAYX1"
+    },
+    {
+      "id":20,
+      "name_skin":"Hardcore Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/JlGHc_mDsvc1hHyStjOiHS7CgD0fGz7E1NNWHG3zc4V3WMPBWeJdRzvlcZ5KpAZLvEBiqzzGI5rByyDFJkR7okJnraM70_mb3xp4",
+      "view_skin":"https://lh3.googleusercontent.com/z5XSPdLIcu6wtWLyi6v5ZGEMnp60cEYtdUS40DxE9J79E_ef-V26n6iYDfJd35Oor2CcLrwXZgh1DBGYSBL9a6MuuNNgBu1YRg"
+    },
+	{
+      "id":21,
+      "name_skin":"Hardcore Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/Y5w3OZmJsWtaAFeDhBkK_5SKpwA5hspWvX52dDb5Tb89iclii8tfXSAcCxYrz6kMtCpiicLkRQ_9cXJOffu_l5hZ1Q1MBK2M70oW",
+      "view_skin":"https://lh3.googleusercontent.com/7glUzprhjDSXJt_cZSN00otGGl6LSvWU-Bi5c59Sc41gB4Ulvwq5EUYD4RdiaFpih5HpoEEhoecn8l8aFEc5mWkedP94B-d5RCA"
+    },
+    {
+      "id":22,
+      "name_skin":"Hardcore Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/8ybAFMd-Fpox9IkfAyzHluEFgq_q_FYyEaHPlI0cUOAfrbPiMTx30LRlGI8cAHqpOvkH24itxUj0dDEcs4Yf2jO1IvCxSBNOcg",
+      "view_skin":"https://lh3.googleusercontent.com/V4qeO81iFIDfezZK75LA82Bgvh0OkqyiEU_szIUk9d2KgbrmlQkNId5WE9tgbP4158PBlYmmnv7a2NVKTI7oDTtpAM9iFq37wJtK"
+    },
+	{
+      "id":23,
+      "name_skin":"Hardcore Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/w18T8-JMbiOoQhGnHiPZY7SMFKu6Ijvm2iJ_7iCCKP4OUrwXSqE-H00BCJOXoqkaFQnstPrGJUXC73UxRNIX8x44Gws8S8anXydt",
+      "view_skin":"https://lh3.googleusercontent.com/6mokthRbGrfBjAgNLtFz4MjhsXwiqtSp3ewkqjickCiR2_aobsMgTJtaezFXTZ1wiuko3c4GqOFSzk9qIv3OhDIvx59SyphqWg"
+    },
+    {
+      "id":24,
+      "name_skin":"Hardcore Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/cpi_7_9dYP6tTg6YMB55iPvWBq-_SU1mntnqsG4A46QGpUWDAMpqNQOba9YseSNMeJOMpXfdiIHEdrXqSLT2oKWY117XSSUItA",
+      "view_skin":"https://lh3.googleusercontent.com/xCNzbiA14F8PxBVmsOHsC_PaGdPpK2n17PrV5z3REG5VFs_k7_FfCF2jTaJmatXRfil4ktY4pjfFuZK5VBbDL9nu7a4vES_vRNFe"
+    },
+	{
+      "id":25,
+      "name_skin":"Hardcore Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/V27bZO3A5EuS6zMZWSjo7Y8TIZs2p5-V_TjP2HUC-DYzAhKX-W8rxvQaufI_hfsouVIy_xkniV8AYnQXCkDxj7EqAboe3QPBbDI",
+      "view_skin":"https://lh3.googleusercontent.com/3d3vCY7Dnihtg6D5T1FFO-vPQbnCwE6FakI-y0-aL4EIwspXL20MiW4hOLpgNWzBQtQ3GRCsHh3iWY64_lZ-ey-UEPFgxklO-uE"
+    },
+    {
+      "id":26,
+      "name_skin":"Hardcore Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/jZ3e11v22w-WcWu67UXDgNIqJXHX9oxajkcEM7XwSXWTW1kZTFM9pQGhq0TCmlO-qbD5SEXy8JyUqacpORnpCGl5xlgxDs2TqA",
+      "view_skin":"https://lh3.googleusercontent.com/vgZmqrh0BnoL4kfkKCV3jKKEl9Fkw0zbRJFOnzsgegn7G_BLcKACYaxaOSb60duHrN86ABQCL0SKC5CH36wjrgUpkjqtHXex0g"
+    },
+	{
+      "id":27,
+      "name_skin":"Hardcore Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/U0LqL0YI7HZgPkk9DyiVBFBaFq50mx-WOKLwGH5uNBfjZk12FRVXu-ICwYpmu5pPbC1BdVxlkhImI5Tz-j1j5YXHd4EzhMMWQXI",
+      "view_skin":"https://lh3.googleusercontent.com/sXYwUI4aouwIlJCkoQo3G-xYygkEvPh6jWZ6eJ_qnCkCtiqt_Care2LxEwzFeheRpnyzPO9KGISV76Wy4DWz6-WVHY4IaQ6AkQ"
+    },
+    {
+      "id":28,
+      "name_skin":"Hardcore Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/zt_79q-HEOumJHwFzVixZ3K5GfpuZ5JAacW5utgdKT0X_ZRcEapkpR86G6V7as6BP8C0mv0SrP4yeDZaK-oFF1e1byOgR3zgw_Q",
+      "view_skin":"https://lh3.googleusercontent.com/vP2JLh2KbkUpKF18GpmHovoniPYp4ij-Rx7kCgaTSFaDISFjau1tWUOfPFyXEiu6X2NsCC2T5kn_OJOxQuKpyptqyKbNr-0CjxWV"
+    },
+	{
+      "id":29,
+      "name_skin":"Hardcore Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/8GQDnal7XEfzpMEMl3tcDNyc_dDnxR7_yp9CNbnA5f5GTNtJ4IzRJMqDkGvFnRpM0r6-f2Vbfpun2yDWodpPU57ZEtjw4_nN2TA",
+      "view_skin":"https://lh3.googleusercontent.com/nWN6A3GP5OptxHQNPK-FMVn6TgiRIMleCWA3fZ7yO5jl0BfNaH_NBK_xVGKckxk4hSGqgGwyjjmFY3ZO9Y2--kW6-1fczhnaYw"
+    },
+    {
+      "id":30,
+      "name_skin":"Hardcore Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/yzRhl7tAzKrBaTBCSy8MC-931MTct4nZTHM5KF_u5So88QFjbHoLbRVi-Pxw5_aZjzLM7Sr2M6WmbnHuPgMS2YLP1OXJ4IuwAGo",
+      "view_skin":"https://lh3.googleusercontent.com/wxC_vMqxrAvmdBIJJ_W6KVeI2RjNlpRcygGlwKYmYY5RzwBKs5CXkR9ih2k4IGiicjVQ560zAATVNyLL4qkdbVTwzrPaZAfeTeQ"
+    }
+  ],
+  "Addons":
+  [
+   {
+      "id":1,
+      "name_add":"Hardcore Addon MCPE",
+      "add_url":"https://archive.org/download/addmaphardcore/add1.zip",
+      "addB_url":"https://archive.org/download/addmaphardcore/add1b.mcpack",
+      "addR_url":"https://archive.org/download/addmaphardcore/add1r.mcpack",
+      "view_add":"https://modandskinmcpe.github.io/easycraftdev/hardcore/add1.png",
+      "des_add":"https://modandskinmcpe.github.io/easycraftdev/hardcore/instal.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name_map":"Hardcore Maps MCPE",
+      "map_url":"https://archive.org/download/addmaphardcore/map1.zip",
+      "view_map":"https://modandskinmcpe.github.io/easycraftdev/hardcore/map1.png",
+      "des_map":"https://modandskinmcpe.github.io/easycraftdev/hardcore/map.html"
+    },
+	{
+      "id":2,
+      "name_map":"Hardcore Maps MCPE",
+      "map_url":"https://archive.org/download/addmaphardcore/map2.zip",
+      "view_map":"https://modandskinmcpe.github.io/easycraftdev/hardcore/map2.png",
+      "des_map":"https://modandskinmcpe.github.io/easycraftdev/hardcore/map.html"
+    },
+	{
+      "id":3,
+      "name_map":"Hardcore Maps MCPE",
+      "map_url":"https://archive.org/download/addmaphardcore/map3.zip",
+      "view_map":"https://modandskinmcpe.github.io/easycraftdev/hardcore/map3.png",
+      "des_map":"https://modandskinmcpe.github.io/easycraftdev/hardcore/map.html"
+    }
+  ]
+}

@@ -260,8 +260,8 @@
       "id":1,
       "name_map":"Katana Maps MCPE",
       "map_url":"",
-      "view_map":"",
-      "des_map":""
+      "view_map":"https://modandskinmcpe.github.io/easycraftdev/not%20map.png",
+      "des_map":"https://modandskinmcpe.github.io/easycraftdev/notmap.html"
     }
   ]
 }

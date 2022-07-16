@@ -1,0 +1,330 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"More App",
+      "image":"https://modandskinmcpe.github.io/easycraftdev/moreapp.png",
+      "link":"https://play.google.com/store/apps/developer?id=easycraft+dev"
+    }
+  ],
+  
+  "Skin":
+  [
+    {
+      "id":1,
+      "name_skin":"Guns Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/aNoYlAAxLjC9Z87gU5yEoejg22Q3TqmFAEbEqcqsds_SCcYl-0caNQtUAcVS0QZGcjNV1OEfpgXYO5-xhVZV_w",
+      "view_skin":"https://lh3.googleusercontent.com/96_SacycPU1_kLSe_Tne-I6fzTZ7NKBmO99V6av7I0RK9T6dbHNt9mX37SjDfQcX-LqMNeEWeLzRnm89uavUn_5aZVB98xUXlk4"
+    },
+    {
+      "id":2,
+      "name_skin":"Guns Skin MCPE",
+      "skin_url":"",
+      "view_skin":"https://lh3.googleusercontent.com/wLAYAprgiO_1mzo2ecn0pjpn8GbJ3sjqmL1f6-j-q7tRj5I233H-yEubOLjZ05l8uh2aW0b-QIY7iv2OBY1c"
+    },
+	{
+      "id":3,
+      "name_skin":"Guns Skin MCPE",
+      "skin_url":"",
+      "view_skin":"https://lh3.googleusercontent.com/tQZgUwNczejOnhI1vZetIyOWUKqsxaji8Ew0achXTmVzA7l9GDZ1Z2EgHa9I7TLyjD-QBW5J6XnAiYQRPuu1iw"
+    },
+    {
+      "id":4,
+      "name_skin":"Guns Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/YaQ-Eo3GDo0LSv5j507gh1OwvXemj8w8OdFGy_NdwW_vOGo0cec61eWJQY9QDcz4KTkDKE2xs0wtHQSIX2Qm3PtaBlDRIjEeog",
+      "view_skin":"https://lh3.googleusercontent.com/0PZTcHG03lStmHdoVYPnOJZ3FvJonQhipwvJS8XZn07aXAVaJw0y7WJhDQNA-55jWbQf6RAQoeluHlh6WreR2EcJQ-fcmi-dDdGD"
+    },
+	{
+      "id":5,
+      "name_skin":"Guns Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/xnUQVIuW130S2Wq4xX2qmtb9yoCBypJ0j4fgYDizaPeyE6zDKOlVyfnh1DMblhmjN7vrbLFwxcfAFrq3huil5tP3Hc_CK3xhR14",
+      "view_skin":"https://lh3.googleusercontent.com/X72zNGXip8QEbIn-RZybhE8kPPiuXyEnHADVbill2mUdAep-Dka61UEaIaU9-jPi3kc8wHNYPOPpWqG-dHU5qi_FgLFDIohCw0Q"
+    },
+    {
+      "id":6,
+      "name_skin":"Guns Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/gDJZ818Xl6Lgtaeu_x-5M-bfeRIlGsuzhTvhTPQaBkQf7s2caGfkS7Mcc9_hh7a4u089f5MR0shOr9MMGq-jJIWihQo-cxS1e4o",
+      "view_skin":"https://lh3.googleusercontent.com/9Qc6WZbLkFqXuWKJ307MrKD7lUhoHEWjXLrqLjORgdyTYPUhfReQ8Aphk_lPgp-HjZYstzOL5pq3ypaC5XQBY5AI5U9MXWdS1Dk"
+    },
+	{
+      "id":7,
+      "name_skin":"Guns Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/WBGouf0DIW4ZvWJHTTyHqTBDIRTTVXFBoBkv5lm7Wd44fyd5uLqigUMDHO3A2_gRCJD0BvA3EARYWxONXq6lPw",
+      "view_skin":"https://lh3.googleusercontent.com/KeKnVc0swZHM-WMBL__qxQlNq3XUw5IpEvDzimcpPst2jS1QP8olRO6f6KMUAlZMTEymwBOz8pjoXJOjGqeDsQ"
+    },
+    {
+      "id":8,
+      "name_skin":"Guns Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/AfAh5fK2nZfXclrK_Wgeo-nWnmDvpq5Bv6wVvSiIBND7zVF8iyETJ_WsYjzbvbh3LwXSMHOPkf8TSIqs9u9Kb5Y1prcgZb9Gv0M",
+      "view_skin":"https://lh3.googleusercontent.com/P3HOq0vOte2KxhK6hyv31M81uQU186h93l6KUS7K7Lk8LzRdtYpJjQw4_84dyeNGe94SHRA4wEbHzRyzCerjHRgZXVc3KMHW3i0"
+    },
+	{
+      "id":9,
+      "name_skin":"Guns Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/4vnmsOBZhn2XLxCY6MfW64IgDwnbyIdXa_Q64B9iXX2HX2OaPLhuCNoAORRnLTpj3dkwaBnDGDzznnl3_zeSkviPaxBiYht3GPg",
+      "view_skin":"https://lh3.googleusercontent.com/Mvia_rnSFidJo0mkFtelV2gN3bF6vAbd3iedSOBBl-tlDzmb9KYOJC6zikcm_WuYf16fDKg7W1-EgCs_hUxGvRWPvXIzfK9EZA"
+    },
+    {
+      "id":10,
+      "name_skin":"Guns Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/U3XT2ZGlhOaqVGnN6osp4ZggkXZuoiKSLwC5WzXaFASAkm2dbLPXTASxalG4FJtQWxpiEp7-c-YDrwVCzoG4tgakHAyZwQtPI1B8",
+      "view_skin":"https://lh3.googleusercontent.com/u8bLsMB2htPg4iYMgo_4_RYOwNypD8Gl5QhqSDMAnCOMdsgu8rPB1B_HKIW5dSRBiuLM1AU2atHRMqmcDlzVc5LEYT7iPMbH-ZE"
+    },
+	{
+      "id":11,
+      "name_skin":"Guns Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/ZpHJZfZmx4deqVjn26WgFJhxGhJYJopOqbJKiLLmqfX5pvru-zRsazikrg-TRovia8AqFXqBbHL2k2W8xq8wCNCHTMNID25ZMg",
+      "view_skin":"https://lh3.googleusercontent.com/LVtRTAMr0jP5vJ3zJq1AHcUr34lUtJBiMNrfW7BbJuO-DJR-bK2uH9otaJfq_RG0F4bkmxOHxv7aNUDHmdMEEElPj_gibeu4jrfL"
+    },
+    {
+      "id":12,
+      "name_skin":"Guns Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/Arn391XpH3oCcbPdZfKolQAlxbdYTzi7f6ccZIpJ-dCvpOlR1LvmC-bVl3n3rvgN8kwDySJ2LPRS6v2J5TBdNoSyYPenLaYusg",
+      "view_skin":"https://lh3.googleusercontent.com/kVtUkmod7VjMHFtIX4MweVfvzrcbXb_eUXlljaIBsXbBGdAikWI3c_knPBCg2lYmLgisHpw-nRNthM-2YD2Yq-29fo5G8tSsyA"
+    },
+	{
+      "id":13,
+      "name_skin":"Guns Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/BhGSFIZcIjIJXhlvlYgHkWaNJDL7O_F9YBIBwS5fa6NwDh3bV1JhoT4TqMk2VVokTIGQUqGWStIAhxeVDcBy8G3PezaEn_3jM_w",
+      "view_skin":"https://lh3.googleusercontent.com/zLsueRxv7HwyOcTfdfc-aNW20abO93nBjSgI18884O3vcWP4sVFZFWMPcWRtHAxnagYDfC-V7ptZ8I7tw4bV2UVCfQvG0_kCPkA6"
+    },
+    {
+      "id":14,
+      "name_skin":"Guns Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/FKN4DpYg_wXNCzNxO0YU4UYsryq2yTyGZ5IieEz29SKrS50eNUeS4wb-vakl0k5UxIGGSWDVZ6w2zKq7-q1Eb8orH989RMW6QW8",
+      "view_skin":"https://lh3.googleusercontent.com/jSEf4o_NUkx8TGjIhUfgP6pprGNOojHq-iOArY5dN42FQugWAR8z82QDtI229QUdY_U63zM2-HqvBk4zWK6FcQGoZlhqUGch_zEa"
+    },
+	{
+      "id":15,
+      "name_skin":"Guns Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/MrRfgVUIZAG0nM5YVqNxiSyoWOTuMF0f0AgGK1-dNJrDfTBslvcJNOG3T4-2U1NBOLrrjQkv2rsgBgRlHFqG3Lf41QGSRrcZ_Os",
+      "view_skin":"https://lh3.googleusercontent.com/HKOSfmRspnGq8qkk8IXjhdUX8yzIMbRY2C3zD-5nCEIhes4PmUGXc30HNt0VQ6dpf-pOxlls7686nHPvh7CticIS2CcxJu386Q4"
+    },
+    {
+      "id":16,
+      "name_skin":"Guns Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/jBe1qVrtBtdjmbGG0_Gg7Q-Ea5ehjHcMqw8m8MEYR4qhSez4ar5cwfYaN4MLUdprKZGcVfbufSqwascYS-URhKnDYNJbgB9ipmA",
+      "view_skin":"https://lh3.googleusercontent.com/MDNazzIZNHXnUtKgXceDIgXC7kLSA_BYIPdrQmaWDNIAiqyaVT41EwdSFw5TKA7vpBM361xztFSnMUOYMNuBDwlke4EWmqY43FU"
+    },
+	{
+      "id":17,
+      "name_skin":"Guns Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/aHTPPGuK5ELQXGaQlpmZkq5n4dwKqKTiafsl9tvALgbzaMe7XIS5eG4mAV6-xK6BIk5J54BjhbYdyRvb6s5maEMT8qoor8ljq48h",
+      "view_skin":"https://lh3.googleusercontent.com/TsBEUZ73MoeJK7JddKIu4ZAQBF3ETd06MK2dTL5w6WnYpQs2ZOjEqynUhd30dmWg9ifFMwFJX4ggXUGsH_YvH4OEgVIUDtTq3Q"
+    },
+    {
+      "id":18,
+      "name_skin":"Guns Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/mK7okxs9zpPdX8xzaIItXf2LenMlxIF0a04W6u1kG3ahA6gyVud0zkvgfFN8AoG-GB-Z1w2Rami9U6A1yh5S94ynHeDfa-vM_-Q",
+      "view_skin":"https://lh3.googleusercontent.com/RTnq6B5rpzVWCr7dyiJztMim3JNl2sVgIcx3ANQteleikpcDPUQv4Xziy8s2Y0nvhteB-XR63ha_KJOr5CP1Kxwp-nnSchydzA"
+    },
+	{
+      "id":19,
+      "name_skin":"Guns Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/y8SgeWdJ7CVID8jG6CX4SgXUaYxowjiGXZgYfm6xPZh2N4emJ5M4NHtA0qUzg6x5r0t4Qknw_iK218MMkJPaO3iLPQWOIxKOLD4",
+      "view_skin":"https://lh3.googleusercontent.com/WYPi-vlosvYr10PMBN0jyzerApaFgxsyOUDYms5WGshJpkZCDxU4OpK8SL479rmD66T1NNGvv9Uk4IWCz7n2Z7X70qC5XfNx88U"
+    },
+    {
+      "id":20,
+      "name_skin":"Guns Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/zb_YX8s3NmRL2jBwWHq1qvdW95OG7ehGgJsnGQd-NWu6Kl6PtDttHJDiPC_CVv6kOMkszguPs5ryDdVuhGSv",
+      "view_skin":"https://lh3.googleusercontent.com/qRSDFmiYoltcsDWutMYyl972d5a-LSc4rHscNWfBHrjZ-edcJmA5KxKf25cPozt9Ys_7tYvpmy0cS1ZPIVc02A"
+    },
+	{
+      "id":21,
+      "name_skin":"Guns Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/57yA6VZYdwalRv2b52b92lYpPzw4ylypvI6BNFOXxmuJOS5409MEiP9wtyNn-fO6ZhsNEkl4hzYfW8RE909x4HQ",
+      "view_skin":"https://lh3.googleusercontent.com/iZy1cT-tJK--Sfl4EQm1XKujTAz6G-OUPIDVhaL7-0Zm92GQaa2XYrF8baS-Lt_9w2VHUcc7xm6mHTWeD2bJ0A"
+    },
+    {
+      "id":22,
+      "name_skin":"Guns Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/4IPzM-NnzZdUy4M-fCEhg3mg54_2WQkGIGD5OlCZvT3__94tMliPRGNYNfcV2zFyJBQzM0fzviDI0ixgypyf",
+      "view_skin":"https://lh3.googleusercontent.com/LjxxqF2otz6HdfAL2x8cDBngZeykr_GfoLNoUrDhViSZPv7T1DzWloakKBaWnbuOnAPcRMgd9ldtpJGwJHUr"
+    },
+	{
+      "id":23,
+      "name_skin":"Guns Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/xgJqz_Um3auSodtffG5CZThvjMBNAjNkP4LpiDozTWOjwPmdUePUNbk_tWFWo6YpvKmMazq-b8g2hThKuT-jIg",
+      "view_skin":"https://lh3.googleusercontent.com/almrE763InJ75WKyhn5T7bQkO9cHBDMV5yBjj4rUXZnDsLaSUrLf4-BLsJjGr686sPxkePPdfze6JdTgtTfs3A"
+    },
+    {
+      "id":24,
+      "name_skin":"Guns Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/8DEVDLOGWyGVWE5VV0z0VrwP5YNK1FigWUeh4ZfFV39wB4tbyN-dStmmHzjX9z_UXzkezL4jeD7q47uLXvFhLhs",
+      "view_skin":"https://lh3.googleusercontent.com/XFDATmP_Ng6HLsrRCvbK_SLZMp1gXZ3Zp6PDHkaG8PHuxrUB6p2EtoZgp5iR-sKmSyoeDboaGj3CcI9cnx2EaA"
+    },
+	{
+      "id":25,
+      "name_skin":"Guns Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/0ju6DcLvd6KL8-dzJVBLaWCzs6CIvlYhTu80wxRp9XEOy2e3PIJLObU-sLO4VafALFSIP44ogO-Q3euNPCLW4g",
+      "view_skin":"https://lh3.googleusercontent.com/4RYPbMQezyGorD_y18LzIWkHe9uYWe4bk0GccyFm8TCQgRHQz_1FbSr4OrJuHmlyFnjpva42k4rOGMx7Mb0AaGM"
+    },
+    {
+      "id":26,
+      "name_skin":"Guns Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/ToWgYSSKWSbZhc_UjES73UE_9X-XTQ1XVrM6fAW1xHDF0wgqSoy10GrloULQh3rReFDvb2sylzTdDlHzxWuz7w",
+      "view_skin":"https://lh3.googleusercontent.com/oKWVqeVFr0iP89q-5adO3w-c3sWH2tDEWkTacdGiY30MRFHThZEy1cL7GJzXK56WESTsM6pXV5DXDlWCH6QCcQ"
+    },
+	{
+      "id":27,
+      "name_skin":"Guns Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/7iWyzKiPzKaqRIzv19ES2uAq8-ZOyBcBJM0pOfz_Sbbz7TdEraQC9gXh81Cl7vKkWs_8U-EAO8RWcu1vzhZVgg",
+      "view_skin":"https://lh3.googleusercontent.com/61-m5q-L6W6_1XHYvUrzI6KJdIxN6n9El5obH8yqe0EVAdMVlWjU_misbn7audN1rl7NRxCD-fu8guU6rFVZ-Wg"
+    },
+    {
+      "id":28,
+      "name_skin":"Guns Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/7tPfB9x-fK4oxLz2AxrOZWJ-9ilfbVJKcUr7iHDlM_NBMlai9KyQP8aVAQwPJv_4mYWR1Oj4L8f7AxhlhK_--0E",
+      "view_skin":"https://lh3.googleusercontent.com/ZlP-ZRQOjWbZjsVmnGyrCqW4pf6MblmbctSscokzqnwLrfAC9ymN1nYBKFmaRdxKADGx42KW-fCl7Fc_gnYY"
+    },
+	{
+      "id":29,
+      "name_skin":"Guns Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/ZHk_LWODcl5uTeHZm3WQOvKdmpSPOqKGrhXPdZYAmjUFMEqtSNEVOoa0zVDXn3AlZkfm1ghr7E0MkEE5STrnfA",
+      "view_skin":"https://lh3.googleusercontent.com/QOfr2R2WA02hAGVn46daPgjhPOmskx6_-QMU9XTqrnlFonJJBVynXk0RdQ-s44P82XTpw05xJIa9WzBoHKPmzw"
+    },
+    {
+      "id":30,
+      "name_skin":"Guns Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/1QHxABgldBGfx0aUCMhn4SA2uj5eL5n45Qmanoz_uI6Tz_2-S6YPkTMIY6-ylZvk_sA5uVP52Xdf_SEfmZjG",
+      "view_skin":"https://lh3.googleusercontent.com/XwjElbdWTkEysIB6LgOSwlhVbQGpGRHZZR93Z7RnZJ97GkxP8G7rQ9kF8l3cW87BeTXK0uifaPWGybOy8SOhVBg"
+    },
+	{
+      "id":31,
+      "name_skin":"Guns Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/MLRAKU7FKJTqcRXV8iG1yvHi0kqxS0Ur8o0qhhmwptCzmeDg44fsH3V_dCsYW2S1Z2nG1xFiSxAIQkF19YSHdg",
+      "view_skin":"https://lh3.googleusercontent.com/avDT2O6DILuhCZEtBow2JYz6m63opy84yosNTHu-ver0uoqPny6uWwBwf8iJTt3TVPNeM2iYEsI1z-DlHn0i"
+    },
+    {
+      "id":32,
+      "name_skin":"Guns Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/WFJmMy4gePn31DTZtOJWqzc6RcGeLmh4vQmzbjk2Q1jPc_OI6jKows-PtGhqq6A4RSb7HErgqs_54Np8GJ7H",
+      "view_skin":"https://lh3.googleusercontent.com/wJeRw9k5iJlsyAAftyrpDXa6dcZbil8-Lcc4hSnXj0wKZ7chGkSUhuq59BOLNmcPhFS8MH31o8zFhFF-bofVuK0"
+    },
+	{
+      "id":33,
+      "name_skin":"Guns Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/rH07-PLqdOEiI8u_simVJBXaCjIdfOeYCbX9e9wn4upy4LHCo5gaQcxEjQXdjOInv1PC5rXKsCOfhwfNwZY1XQ",
+      "view_skin":"https://lh3.googleusercontent.com/kI5J2W3fMxfRVVqas8iDb4_aym4jHv8WPG9CMcH9cqw1WaeT5eNGoFeClmwvsPRwC61xuhak5cKnsBzmfgxn"
+    },
+    {
+      "id":34,
+      "name_skin":"Guns Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/kTOwGVNPNcGP-gKY_dlgd2o85AxOuxd8E6yq-BZ0d4SvvATPYaAPU-uZI1UAjOXUqmt0effBuiBmKU7KcDl_Tg",
+      "view_skin":"https://lh3.googleusercontent.com/vWOZ3rlRjWg1gr03L5Ny0ZBxjnkZxxR8Wjm5vxvnUJmus_p8xZeBXWRkN9OPJW9myRQhA4fS1Ijf16GvUj-osTU"
+    },
+	{
+      "id":35,
+      "name_skin":"Guns Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/kb8Vm3fE65SuwtXp9NIMA8BTzVeUbC-ajWni2_gIOteuZjYd8Avyl0dVYTrPVR1-rrX7q7cS4SnK8lDzEZ3amQ",
+      "view_skin":"https://lh3.googleusercontent.com/hpp8824hr9z4mJdKOc9l6Ml46qFgTGHYyjpbAnVwrKHU7cUZWiyM_AnGNCy2JD0FrG_JodTZqTIh6L_UIH8L9ko"
+    },
+    {
+      "id":36,
+      "name_skin":"Guns Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/ZVZG_tOgXSH_XlYFbISP-3oFDk_G-ZR1a087wzstKkuPTuYSkmd65VymrhtTobwFztSmYon5tw4W5j5jf5Lb",
+      "view_skin":"https://lh3.googleusercontent.com/1DKb-B9ipYaNtDI9eVS3JFoGuSCjxYG6WdSc9PDxGBK35OGWnvhXyFJ8xkchaEFaf6nqA2Cn8yl7_4fC1q7C"
+    },
+	{
+      "id":37,
+      "name_skin":"Guns Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/7qVqNE48cEh9YZbrPQWOf7ik-c-kUehfsP3wx82wR50AgK1PE8qplkIUKPnlUGfpaNpAg4RkWcA0alKdseJDVw",
+      "view_skin":"https://lh3.googleusercontent.com/mbk3ptiARAbaZJ_KC6WqE5T9L8_t-jYuQNW5Seg_3QTGhT7oM_OEigRMpG7W3uBHQe9nSSzjfjdn89XHyny_"
+    },
+    {
+      "id":38,
+      "name_skin":"Guns Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/JY4iuggGcq29c-SH1ThcjKWpIST5IGitYplie29nvGNLbwaGGQ-7akAg1OyNUaPtb88_n6Co9rf8Vx7ezOvd",
+      "view_skin":"https://lh3.googleusercontent.com/gRBiIYaaMZs2OhAEGIETgipRjVl3k7fG-93Z7hxh_ZAIaqfqe4oryPl4eOjW6P49jFE06sNCvsMbD51ZYKQqcoI"
+    },
+	{
+      "id":39,
+      "name_skin":"Guns Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/88_nl6Xdp2wqIELeBxH3nsHVte83THQoabfGSh63qYVB0To5B7VipNBdEkdisMg4sqcJe9z0if033eDFa03w7g",
+      "view_skin":"https://lh3.googleusercontent.com/MwHikIBqmaavLXi27U_lqwpkcFV8NkNu6UZfO9iipbJXuwdWro2ytFl8jDIhi1YQ3mpjS5U6bHafjmIUfxCWeu0"
+    },
+    {
+      "id":40,
+      "name_skin":"Guns Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/wk2LdV-jBWfFeSGuiMpHaGYo5VYWTz3Lm6NOEdexDDK0XbDGpzePyKpx1Hs5Mat8QvF23aCkZiU7vMwFVDUggA",
+      "view_skin":"https://lh3.googleusercontent.com/V8ymIt4lO-walb7dNfREJPt4CXpz9rP9uz_yCCDZ49BC_8_7vof3YtqlnBfhmlnFhj6J54wUOD2KA8B-uKg1fA"
+    },
+	{
+      "id":41,
+      "name_skin":"Guns Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/yx4tTNvuQAX7X7pp9AydaBSFQxx-k6PWwIAMf0ht1IpNSP4D9BRR-L8au4PPvT92zLdrj_qbJS1mKiLGqjHLQxo",
+      "view_skin":"https://lh3.googleusercontent.com/yaLf2w4IxSD6z6pQ07pTVH8dkeZjUdvVgBvzLmofFb7wXg-bv82mstdlFyikrIXcHaGEAzCxZjXrmLaYi3O2"
+    },
+    {
+      "id":42,
+      "name_skin":"Guns Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/C_nA7-XFIE8dWCeImFhRAYqrdD8eIZcRWMkt5Q2cnG--EGKLSauLC1tVvZbq7ShdahJk2Gyd70Ut4R4SSEFb",
+      "view_skin":"https://lh3.googleusercontent.com/7tz2CRDhiaXAe5lYdB38HeWFxr9d8P-SYnOzcgZxR2gvNF8kIwvmVEPXhE8_C4x6_ufzWtudcE-anrjyBVZC"
+    }
+  ],
+  "Addons":
+  [
+   {
+      "id":1,
+      "name_add":"Guns Addon MCPE",
+      "add_url":"https://archive.org/download/addgun/add1.zip",
+      "addB_url":"https://archive.org/download/addgun/add1b.mcpack",
+      "addR_url":"https://archive.org/download/addgun/add1r.mcpack",
+      "view_add":"https://modandskinmcpe.github.io/easycraftdev/guns/add1.png",
+      "des_add":"https://modandskinmcpe.github.io/easycraftdev/guns/instal.html"
+    },
+	{
+      "id":2,
+      "name_add":"Guns Addon MCPE",
+      "add_url":"https://archive.org/download/addgun/add2.zip",
+      "addB_url":"https://archive.org/download/addgun/add2b.mcpack",
+      "addR_url":"https://archive.org/download/addgun/add2r.mcpack",
+      "view_add":"https://modandskinmcpe.github.io/easycraftdev/guns/add2.png",
+      "des_add":"https://modandskinmcpe.github.io/easycraftdev/guns/instal.html"
+    },
+	{
+      "id":3,
+      "name_add":"Guns Addon MCPE",
+      "add_url":"https://archive.org/download/addgun/add3.zip",
+      "addB_url":"https://archive.org/download/addgun/add3b.mcpack",
+      "addR_url":"https://archive.org/download/addgun/add3r.mcpack",
+      "view_add":"https://modandskinmcpe.github.io/easycraftdev/guns/add3.png",
+      "des_add":"https://modandskinmcpe.github.io/easycraftdev/guns/instal.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name_map":"Guns Maps MCPE",
+      "map_url":"https://archive.org/download/addgun/map1.zip",
+      "view_map":"https://modandskinmcpe.github.io/easycraftdev/guns/map1.png",
+      "des_map":"https://modandskinmcpe.github.io/easycraftdev/guns/map.html"
+    }
+  ]
+}

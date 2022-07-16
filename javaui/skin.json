@@ -1,0 +1,168 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"More App",
+      "image":"https://modandskinmcpe.github.io/easycraftdev/moreapp.png",
+      "link":"https://play.google.com/store/apps/developer?id=easycraft+dev"
+    }
+  ],
+  
+  "Skin":
+  [
+    {
+      "id":1,
+      "name_skin":"Java UI Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/IZvYajqwjQt0j795Gu1fi9G6Au_1bsFILamDXGb54e5VkBmlbCAaekqEypOamhy4ipccy1m27gFiAwOWXdjIkQ",
+      "view_skin":"https://lh3.googleusercontent.com/vQ-05PDVow6RKDRI2Da9p7O37Q1Jg8xs6YDw3c515l11NUHLdRGffmfx_gBhdovc_4WimHI1KaPs5Z5YnH4j"
+    },
+    {
+      "id":2,
+      "name_skin":"Java UI Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/OEuhnOsmGMbDL7pvxRqtDRBp5ekIGGowI81Zgsjph_fUR0Ri9DFqMIA8gKdJ_VcKWeblAuCA6UGDdHN_4Uk1vg",
+      "view_skin":"https://lh3.googleusercontent.com/9-bSskzkVVY3-llV95ZuN9qv7dWEo0ol3nUWKdbo0ORqPIb_Ta8A8CvcTfL3fnwYTewgyiiutCp0GN-NZi_qDw"
+    },
+	{
+      "id":3,
+      "name_skin":"Java UI Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/WLrZ-LsMcg5JBgU0KuRDZ0BD3wvMgiwFXx9Ifc5-kVdJXcPCKXCvNF2IMyQl58WOS2zIT9r9i9oMrwhXU0fqkw",
+      "view_skin":"https://lh3.googleusercontent.com/zmfWhj3zQniRur0CKBNLH5TqeH74fJPXVNukUmULwQzHphReSRsnbLoZcrdJahM6N0DFElIWslH4eGNz9XQn7w"
+    },
+    {
+      "id":4,
+      "name_skin":"Java UI Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/qotIw1RcABBKZy4tOSsHpsfvi-hPIL53pORKD2jcWVaXaPjgay_zYLwH9bcHiYmpYravqApMlwK1A_qRh9dU",
+      "view_skin":"https://lh3.googleusercontent.com/xHfR8QUXPBpTOkUJf8M4TYZJoNXgVDh5xH-Tn5_1zGaP_H4lp-_3UjeYRQjXw04fzv89dR4MazAitDbtQ9X75gJaRIrKj27gJ50"
+    },
+	{
+      "id":5,
+      "name_skin":"Java UI Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/Mdqx3fWuEooNlg4cwaud68WTExqhVJXmpSXFgMJgI62_E9nzQ0b1k80AV4Wx8H0vB6IYDlf5XypUKl1SIwnUbQ",
+      "view_skin":"https://lh3.googleusercontent.com/VSIF0BMR43DikbyMFM6IKRF77fi2fRGtI1ffwem9gXJCCnjB8wtVSS_J5hBRkiDy6jkJXrnwqgXQrEE5xdFLCQbgm71TvjM2zn8"
+    },
+    {
+      "id":6,
+      "name_skin":"Java UI Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/RZpxKeYzRHv1j9unlFci6MvuwzoFHtazreQ-sPyWFXnVGs2a_BQTPb5qwyDo5tx8khkHCdONDnmiOZtR02Rw",
+      "view_skin":"https://lh3.googleusercontent.com/W1jAjXhgoTygkYwvtjsfXH1Dh_3A5TTRoC5mYPxLkJVgT5457bsNKUpd4l16WQ5yBQr4vBNm3MdprT2RtZZ1vA"
+    },
+	{
+      "id":7,
+      "name_skin":"Java UI Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/ogeCs1WSbOb5wzhv5CZz_nM7_ef9SFzuk3OXohqs84HLoHO5iXge5EhKPE6dxg6l1u8DiLOz5S1NhAGcy97E-w",
+      "view_skin":"https://lh3.googleusercontent.com/O2gk-jd7Tn98aJkr6q0nM3RpRZ5Y0uGvr_ypPhnkc9K8-pIEczXGi79_duLzVNVhLAqdAS7RKD2hTxdO8JzX"
+    },
+    {
+      "id":8,
+      "name_skin":"Java UI Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/YKI55kCkzPmwUEWePP9kE6gGo85vkK9HQZonqdd9mdBy6lG1chEEcBEr6-PPqYWI0b-hoAQrKzLccrxsyBBOjWFSmkAx_mv6b04",
+      "view_skin":"https://lh3.googleusercontent.com/KLN7baLe_iC3pcaPeX7et2UkIkgBmae4hx-2P4pG0pOK_pK4KqDAK2IlDsqojubQBVu4ylUaGOK84Cw-LYM69-TiwayXQF_pKCo"
+    },
+	{
+      "id":9,
+      "name_skin":"Java UI Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/oNSUcc8Mj4W1rWrdu-flJ2jr17_91sDuQa-fRCD070nEACDFpw01IMiuoGo7XSkekdP5ddCCd_RXAxWDCkuh1UbnbuTWrz2Fh1M",
+      "view_skin":"https://lh3.googleusercontent.com/3_iCxe5cKzGIvd8FLiSjHDBoCz9Dp1z0DrN4yn3o84cAMnT8_CH240Q6iAskf0oXrbGfMuMJfm4cMiqUaUawYNvaw87xRDK4qmU"
+    },
+    {
+      "id":10,
+      "name_skin":"Java UI Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/BieSkwf69NCOGszCErlE4ZOuw8ns5yaxW-vJcVPc1J3CxIgVGv7H_LNuKbI-DCiuwrjxbDMO-pclIbfE54lb",
+      "view_skin":"https://lh3.googleusercontent.com/FtalTazSVupJvmQ6uPwGErA4oYG82k2U1KdZ2MYdHmFPS3BNT-sjUaMPnNsDAGnAZ-3hqeI8atuqKDHsySpo26ol5wKLBZK8fQM"
+    },
+	{
+      "id":11,
+      "name_skin":"Java UI Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/AcQSlLcwdN0a9s2jcTpbVf1oTPoL7f926Q0QQgX_FOJpuL5RhtpCUlUCH4Nwy0CcYovGebMZQVlV990yX6YJdw",
+      "view_skin":"https://lh3.googleusercontent.com/Q0X_5r6NAQuzRqtOTn32cQmUqry5HhPYpC73-cXsggLBt8QrLHdTGaajPfGtGzwIGMcbWjWPE0HdVh7uFShgSdqMS9R0dZOUtA"
+    },
+    {
+      "id":12,
+      "name_skin":"Java UI Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/RVLjRpjUcr9Ub4050nRGWVjKPxw6_O4zv6rQdcQhpUxm2Dp3d6dNcZKKwjLtKV3nXUmc9N37Gbe3WO9vXQv_",
+      "view_skin":"https://lh3.googleusercontent.com/i3hNLjOBwjRXgRU9XHU9D5lSBLFcFfibOMTf9zGmoID4C8cF5W8LegdI7u7wLQmGus-INKeHMkU7QESnji3duI4"
+    },
+	{
+      "id":13,
+      "name_skin":"Java UI Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/-cZtYSDYNG4FlgL0h71CUpers3SNnsixLPR8QCvqOOkdqo404oeUVSTkjZxkm82jwDg_VXKfjNvMiKnR-yUqrHOiixeWsezT-Q",
+      "view_skin":"https://lh3.googleusercontent.com/sy9hvqLLdNn2iuYIpz8xd1lQqNSlliU3ECEjILpQ_Wa5qVv32SQvrI0FtRvf9-IBQupCqJ9k-WYPYFZIu1vMMpLGv6fKly-g58iK"
+    },
+    {
+      "id":14,
+      "name_skin":"Java UI Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/NzNbbZRjtw-nIcUM5MKoo6BpU1LMIZijb6MT4UQP-Gp5APXA_VSKYkm8dKbqi-3PJxD00xxTUQhQmvCyK7mvzBhFmlU8iBdFHA",
+      "view_skin":"https://lh3.googleusercontent.com/Sy6ru5zuUA3KT3TiHTXApAFqJAij_fQneXaORTREs0dYsIpeXIhEOIAfZYy95cIiVF-nzcqx5Mn47qVTY-AmTj3dPOx63R7nug"
+    },
+	{
+      "id":15,
+      "name_skin":"Java UI Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/wxOp8S7hIwjrrDVn-issj6bDbLBmPvwJwsQBXy_mTdde9jtNgNP0bbMe4rarjEhJttRPi3N6R5n_kKAnlz5FxWU6xgqaNtspz5c",
+      "view_skin":"https://lh3.googleusercontent.com/cUE8z_PT_b3U0NBIDDFIqfv5i1PpGIWKTQld2-EzsPq-XsQHmSJrFqw9rjnM0_lklClaRITH1RnC7f8-4X8B7qDEvvllEycm9w"
+    }
+  ],
+  "Addons":
+  [
+   {
+      "id":1,
+      "name_add":"Java UI Addon MCPE",
+      "add_url":"https://archive.org/download/addjavaui/add1.zip",
+      "addB_url":"https://archive.org/download/addjavaui/add1b.mcpack",
+      "addR_url":"https://archive.org/download/addjavaui/add1r.mcpack",
+      "view_add":"https://modandskinmcpe.github.io/easycraftdev/javaui/add1.png",
+      "des_add":"https://modandskinmcpe.github.io/easycraftdev/javaui/instal.html"
+    },
+	{
+      "id":2,
+      "name_add":"Java UI Addon MCPE",
+      "add_url":"https://archive.org/download/addjavaui/add2.zip",
+      "addB_url":"https://archive.org/download/addjavaui/add2b.mcpack",
+      "addR_url":"https://archive.org/download/addjavaui/add2r.mcpack",
+      "view_add":"https://modandskinmcpe.github.io/easycraftdev/javaui/add2.png",
+      "des_add":"https://modandskinmcpe.github.io/easycraftdev/javaui/instal.html"
+    },
+	{
+      "id":3,
+      "name_add":"Java UI Addon MCPE",
+      "add_url":"https://archive.org/download/addjavaui/add3b.zip",
+      "addB_url":"https://archive.org/download/addjavaui/add3b.mcpack",
+      "addR_url":"",
+      "view_add":"https://modandskinmcpe.github.io/easycraftdev/javaui/add3.png",
+      "des_add":"https://modandskinmcpe.github.io/easycraftdev/javaui/instal.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name_map":"Java UI Maps MCPE",
+      "map_url":"",
+      "view_map":"",
+      "des_map":""
+    }
+  ]
+}

@@ -240,14 +240,14 @@
       "id":2,
       "name_map":"Family Maps MCPE",
       "map_url":"https://archive.org/download/addfamily/map2.zip",
-      "view_map":"https://modandskinmcpe.github.io/easycraftdev/family/map1.png",
+      "view_map":"https://modandskinmcpe.github.io/easycraftdev/family/map2.png",
       "des_map":"https://modandskinmcpe.github.io/easycraftdev/family/map.html"
     },
 	{
       "id":3,
       "name_map":"Family Maps MCPE",
       "map_url":"https://archive.org/download/addfamily/map3.zip",
-      "view_map":"https://modandskinmcpe.github.io/easycraftdev/family/map1.png",
+      "view_map":"https://modandskinmcpe.github.io/easycraftdev/family/map3.png",
       "des_map":"https://modandskinmcpe.github.io/easycraftdev/family/map.html"
     }
   ]

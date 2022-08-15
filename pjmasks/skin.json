@@ -244,9 +244,9 @@
    {
       "id":1,
       "name_add":"PJ Masks Addon MCPE",
-      "add_url":"",
-      "addB_url":"",
-      "addR_url":"",
+      "add_url":"https://archive.org/download/pjmasks_202208/add1.zip",
+      "addB_url":"https://archive.org/download/pjmasks_202208/add1b.mcpack",
+      "addR_url":"https://archive.org/download/pjmasks_202208/add1r.mcpack",
       "view_add":"https://modandskinmcpe.github.io/easycraftdev/pjmasks/add.png",
       "des_add":"https://modandskinmcpe.github.io/easycraftdev/pjmasks/instal.html"
     }

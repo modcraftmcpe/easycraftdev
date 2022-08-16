@@ -1,0 +1,272 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"More App",
+      "image":"https://modandskinmcpe.github.io/easycraftdev/moreapp.png",
+      "link":"https://play.google.com/store/apps/developer?id=easycraft+dev"
+    }
+  ],
+  
+  "Skin":
+  [
+    {
+      "id":1,
+      "name_skin":"ModBox Skin MCPE",
+      "skin_url":"https://lh5.ggpht.com/uGq7pYG1nlVhWY0bs_6diPD9bjI47Tihgu7cINsX4Q6aLhkREfYXrNo4g3P9so-WVZQEFUAsniavqBe7UBsM",
+      "view_skin":"https://lh3.googleusercontent.com/G8d8HDZN8eHfoAeVpWPzCLQui33HaC4l-VXD6TPpAo2KMMf02DeP0LDlW50OF5SPipOcgR_EDzykNVAN72GvVQ"
+    },
+    {
+      "id":2,
+      "name_skin":"ModBox Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/E8QA5jdulkups_NF-C-NOEC_Gl12kv-hCxY6hXLf6bWql86W_7yxtrJGHLYmt7YTfQmnNISnvfVQmk1avN_4",
+      "view_skin":"https://lh3.googleusercontent.com/Ln6ZK0b6X-hWm4ZIoYm9qfqiMkenYtN32df5eNKjlUx94ahcpWfwxphWhqVMRN9vGBngj67D4vFJooulicERzLE"
+    },
+	{
+      "id":3,
+      "name_skin":"ModBox Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/PDPMdM_fkb2BqFaY6jT3g41KLuVS2lFlly7im2_k6Stu3hA6KcWIMVyzI4Pghyneo88vglaOpL3KbALPCUlWgrogT0m01Mm2Dx0",
+      "view_skin":"https://lh3.googleusercontent.com/x8-xoIrrmBnbqIwPu5qLtj1OuJAs1rZvjcp82qwwSLxu7KLMaEOHBXqL3vZzfJC_GH32G3Gk2Ge-Lg91RV2-YcNE2JblPzddigQ"
+    },
+    {
+      "id":4,
+      "name_skin":"ModBox Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/ajj_x-TG7--B5j19RHTJXCAkZyC6SV8H8_ZhtNCBxie8oDrrsTr_Jsc78hMY4A0WAKBB9lvSMObntNsUJGc7e7w",
+      "view_skin":"https://lh3.googleusercontent.com/EUA23iF9zPRQVtv1wWjORIg2Y6ddUxIFZWXyrTZ6-Tgc8gkzSSnati2Fczqw4-6yQf_lRuzfO3-niSd2Cbkc"
+    },
+	{
+      "id":5,
+      "name_skin":"ModBox Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/gNO9JUrQgLr_ck-3bQoydfofGcKgYxvzPYMbhRNCEcOMmLCzGtAOY0TtPx64zJKcA3Vhh13G2brnYN8bj8iZxHiK-gDOOiNXgJI",
+      "view_skin":"https://lh3.googleusercontent.com/AqhMI7jZXv_7da_cOEc3s7ZuuQ58vfZUVGEphAIvbRkKWGEN1m5SbofJ2wy1Up19GM6BxbtJazgWrpzaQS3dk0USCmRR2k-gS_0"
+    },
+    {
+      "id":6,
+      "name_skin":"ModBox Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/2P5lgXe4-er7hw7T4ndPLOmys1bTI4loTVSIYGe0Ro83-Zb0xfu8xaVvEijrLy-hoPCijQpx5Aiuopb3hHJiFI41J7ME25AZhgI",
+      "view_skin":"https://lh3.googleusercontent.com/OwusTDmvR3YgWSD0kW4AHqWS4BGSbkpN3hkLFzAO2q2c2cMapNEhxqHDagPBRc3zOGJSmZT7fVZM24YkSvT5J-znTPr7imth7-I"
+    },
+	{
+      "id":7,
+      "name_skin":"ModBox Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/njUVqCSwPpVtpE7CZoBlxEeJVSCfiAuSGASDrBYHX7LtoOxldCDSY9b1ARZb5jmOEoRgXp3X1Q1nsdW-ENYrjCnAzzwQA44RCw",
+      "view_skin":"https://lh3.googleusercontent.com/UQC5wORXGFw8uHNr6dK9GQC_n2Hcou4MWdZGC4t43l6CTAbmIQPKWhVSdoyMcYiITyCxl8zZ8QZ5EyewzQdrSGjTUeuBKV8XAdI"
+    },
+    {
+      "id":8,
+      "name_skin":"ModBox Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/gN60z7Jhr7phGvsM53oL2h6hLC1JzM6_hCGr3c5qCYDDI6QKRyMKnCSmQ55D1UIHPOV-awDfUA--TDaHNyRgiHZTxfG_N00zng",
+      "view_skin":"https://lh3.googleusercontent.com/1Xqbn6SaZHItROV6iv8W2R0Yae4JI4LEU1qMUo7sjp6rpFb2j6ZTKNuYPj-bOqOaK_XW5fjcwO7xNLmOOfNXSrHWj4KkPOmWaWE4"
+    },
+	{
+      "id":9,
+      "name_skin":"ModBox Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/85K2VfinAmAomETvPSKaN4YOMTYEmt282D73YCk4j0k9sZMCl4qP0jCi877H7lFS7mVZqGHcPg_qtSfPNCjQXjgaBbswm0bUuzMG",
+      "view_skin":"https://lh3.googleusercontent.com/Y22NzadaoFEkewV_ybK4dOYQkZYS-4ND_-pfXLvBsi_VNo0tRyTFCflWF6sSDmsQcQ80d3uDLsdxY50IxyDcQOANvR09iQY8occ"
+    },
+    {
+      "id":10,
+      "name_skin":"ModBox Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/feUEW9Aqwl-MZeMeAkCb6hat9AmpGwvq_-2Aibj-mAbG86uavvnGgMeHbAWSxv-TH3nKO2ps_PDcdrVry_GZZqVOE8U1TXCufw",
+      "view_skin":"https://lh3.googleusercontent.com/vcwTXquY0Zch6T0xojvouhJeWBI1v0cfZvb1wgPcX6Hs7JYvzR1eI60F-xOzhAlumhp4GKmvwLfhmVb1soW-FQ5K92GwlWSHA88"
+    },
+	{
+      "id":11,
+      "name_skin":"ModBox Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/vICzR2x7nttvARZH83pxpYmU1b88QjrhoTKTWIfdU_MjkFSgJSCGLKrCHfElppvUKs_IK9C9NLkErkgB-WgcXdfYZjgGjNsZXVow",
+      "view_skin":"https://lh3.googleusercontent.com/I1yw6iyDclYem8_IMa5vebT4-L72VV3K7XeNpt1mQfw6IITHQ87u46FXjkDsp6a-Q0dIRXSnGQu6WNQtfwnRcqIgEX5Oss2BrBHR"
+    },
+    {
+      "id":12,
+      "name_skin":"ModBox Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/vaG0F0qYKECVMjE0dDUwH2iO_n0uVwj7I9lsgiTiJr8vg6vIvMQsGNf-a_AT4s__V4TuzMX9SjCHskWXdlfFZJlaoFarT2u-828",
+      "view_skin":"https://lh3.googleusercontent.com/KgHX76m3VXHLg9s0JsyckisCdWpmH5cmaBowT9wun_8N0unvjxWR1Vm7yZwjreypoJ1AllHjPINsX51ibKHJ4eQbQTyFq09Omg"
+    },
+	{
+      "id":13,
+      "name_skin":"ModBox Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/-Tt9-dI3nc_fFNOiDawm8XfypIHpab-hFZhCbFFNFsUw9TE2QLsQkTJ-iu35t_qEI-AFUQaB0GtAxl5hIqn3otKq-Igbobx6fBo",
+      "view_skin":"https://lh3.googleusercontent.com/hIvm2N_nOGXaogIJVgRCShuqlzFgJPm98EVYqvYTtpQm6Vw3-RxI8jUHl78h7Kq_P9DkOBGIE4pICyrYupsJLdUOLF3saxKY5awl"
+    },
+    {
+      "id":14,
+      "name_skin":"ModBox Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/H3XUkxSajvCK7Z_mtz0hm_DJsbI3DDnUucPC3hqsCnn-hJqIBCObwjRkZXTe-pDgJdr98FU2M9iRLk3_RZ2SA9heyLORuKa3vQ",
+      "view_skin":"https://lh3.googleusercontent.com/T9ckYnBIzFBGv612JehUP8-INVYAH4BnwjkX5ZkswGy5Jbxu03xHRDWXeayoLC5I4OmNW9j9GiynUvdjSueu70MRcBeD2pvBYBQ"
+    },
+	{
+      "id":15,
+      "name_skin":"ModBox Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/GQvZCyl9b2A5rAeMR10Vsu3F210oIi6WaRVD3Xqr36kPhGmXH2Rst4v5x06_Omt7-jjUGj0a_FRsUfvsxz1Kp_X6mwIGRIFdIcbP",
+      "view_skin":"https://lh3.googleusercontent.com/9arDXDL3zT7gDFEIlv8lbTPMvZjY8imkaUSkBpZDS8NFnyVz0BF4MdKc90dWCPs_0XLFQb4mhuJjCwKhUrltT0cb2K-RwaIxxv0"
+    },
+    {
+      "id":16,
+      "name_skin":"ModBox Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/kjRgmqstYreapDKY0q2BjU-pRKabNJ4XYZccuW0t2APgF1fADhaOB9BnvY-xq9s_c6hCnnKsutQPgzQV3TjHAvMr_LsMlejyy6Y",
+      "view_skin":"https://lh3.googleusercontent.com/xNAtx1uAmEZ71izAA9UDDehPsZS2zoS1w91Ne81hj_OW8Vj7gjiePAq0HkeVBHKvHY6-k3bQO9_TUVUqYXVKS_Mt3tuo7zCyQxE"
+    },
+	{
+      "id":17,
+      "name_skin":"ModBox Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/DEQqCpsznZ4-8-tBL7o2-N7JE3BcjsF_xEP1x6sgm2Utt1BTixqF-jU8azOFvvV-ze_q7mfv3TaodJdJoEMx5p530cF3aLjc5_w",
+      "view_skin":"https://lh3.googleusercontent.com/UsFKeOX7u6lnJbdC5hi_JDKkT2dwM9VLDlrOV_KBnv0BCq40UXMKwaIgDuvGszLPeXN-yRyH8SC14bphWTK-_G5_aGUmPsNYYh0"
+    },
+    {
+      "id":18,
+      "name_skin":"ModBox Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/RHxAmr_X7iFfbCWDIB6DkzQz6FVY2xro1NpElw4FSZjbX-gH3FOymdAT_wpK2ynDa_6KzjIsbC_lh_v_GGZ-fpvSUA3xitrE5oO5",
+      "view_skin":"https://lh3.googleusercontent.com/ZKbuPfUgsQSlE2VZpiCWaG0RUG7wrG8Me_9mdZ3T6SE8zJROrnT486izUeTX4Kbdxfq4BMvmm3XZpHqrLUJww59seBfhfHvzu4ov"
+    },
+	{
+      "id":19,
+      "name_skin":"ModBox Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/ISudzMHxarH0rlMccA5lSefNiKNW6atAlThgyYiumEwplawjhI_7gTdHi2nELBpYvnwjcWxO0RdQ1Y4wEX9CJ1OH5UtXUuA20hI",
+      "view_skin":"https://lh3.googleusercontent.com/f41cj4t8ynfkmDx049wHFL_wpUUBbOvdD_Z9d0E5yekgJ8xb8-HE_INw-Y60mbOPJdAt7rhPGzaD138DZbtRHc0qwndSThCeSaE"
+    },
+    {
+      "id":20,
+      "name_skin":"ModBox Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/BTLGNls64IlNZIxXBG7d__VDJezO4l0BQsWxXqF0sh2blzXLuYGegqKcpWhrd2nog-xMNWJeFBnG32jSMjCVHtcfCYXc7Bgfb2Ot",
+      "view_skin":"https://lh3.googleusercontent.com/TlUdFaZnMNyb2QHDZD-vt1XaWVNXtLWlPBURnkisa6xN_IUlg0wOpN3H5izV2g2AmN2dKuQzgCj_PKExPJBBc7EtNCHP9RyU-vI"
+    },
+	{
+      "id":21,
+      "name_skin":"ModBox Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/NE3dcD2ctt2XunF1ji5vxSQkqiJbyOhWpSt2GVfb-0VfMgajeeC7Hjo5FspifXX06uqlZmyALxgUNFAQvX9kDssNg8Mxzz2qruA",
+      "view_skin":"https://lh3.googleusercontent.com/UW4sl4cD38yM2tpMVVpHUthOwiYSOJWUrE1532gwdJ3An5VkgT8aNl0ecwXyaojmYMEv_3wbDaWOC1Rk5MF2mW6BGnAFRX4oBa0"
+    },
+    {
+      "id":22,
+      "name_skin":"ModBox Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/xdWqMGfbHAxcsy9R_bH7qC-UNfOYdHPbC0-yaKEsI27SZvsbDmxaH9TxG7TnOSuepSrUolXcpc6_3PSz7daezI0uKfjO7_krSw2u",
+      "view_skin":"https://lh3.googleusercontent.com/3C6p3jb4z5J_lIRo2vaZ5C4VZytLRk9bXkiMEVvxO5BfiKewcyMTuW7J3U9Vxygt-O1HrbFWa9KjN_aDi166oBL3XRawqh1k9FI"
+    },
+	{
+      "id":23,
+      "name_skin":"ModBox Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/718-eUQz28d2kCUaGRIy-D3agThQld6YYwBlKri-1fWSaZEJ3M0k9zpTUnGy5tf4Vbk9mE7kpvqygKF1ZnEA51q5KXLB8BF-bw",
+      "view_skin":"https://lh3.googleusercontent.com/Sfa4t1b9HddkJOt8BRM5W4Lfhqe2lJLe8sz0HYUJWsO6ExQ6bt8eQAQyIgsIIAbDcuO86QHsz9W-tsOaD4eQAuSYLi5Mvo99zu0"
+    },
+    {
+      "id":24,
+      "name_skin":"ModBox Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/N6taQnBqKRTGeGLjJpTePNfXgeHsx8NIEdibvjc_1qxmo-vDPHm9cwGL-EZV_LaYDGUDfwAU_nbTcb7qOWcBQ-Cbv1P68FRe8TE9",
+      "view_skin":"https://lh3.googleusercontent.com/5ql-YREPWLxV-3yZ-HWsPAOLjaep69vYFUakSmxj1E8aJV1kaYvtSPR3ljGT0-Pw1v4mhdPmjBkOlvU3gykcTzEnOF5ung1u0CE"
+    },
+	{
+      "id":25,
+      "name_skin":"ModBox Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/jgGVoyPARjpeEDhUHTTHIlGB7pIqiYtm69VleyAnasTDmdasv5OoVhpKg23-O_WKlk0LFYNngXB51BhexE581NJvjCQpkyqe1wDq",
+      "view_skin":"https://lh3.googleusercontent.com/sorY35QFZQgeDg6JStRmoDU_lMtLCLwQwmuPAFdARkcK72nnmAbaecvZwsg8Utgg7RQPy5RmyjpyCZvbnVkFqh5zcUIUcRimFw"
+    },
+    {
+      "id":26,
+      "name_skin":"ModBox Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/VxnukzfVSgGy8rq7PZMVXGkG1nNzy7AMaDZEUL95yzsJBjq_mXPXRWgO7gjZouBFdEjJmnp9mHnwy-59y7Xz6w67VrYPYMElfHY",
+      "view_skin":"https://lh3.googleusercontent.com/YBDJiiwWjw8U-YjIg9RJXj6nwZ-5GRak5tJUon_rXCBuN1nET0SpT3TMOJA1PoCinGM_LUbnMWvYk4OgyC-MgBXoeguRQ8gpqJk"
+    },
+	{
+      "id":27,
+      "name_skin":"ModBox Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/dWSkfkeX8hs-rW1S1BE3y0GwLDBpiOGJrzllycCbuaIqe2JwTDy_p-AGxvcGv-vJnqgaAJy2Gf1o8GrBAGd0HvIza33INq1qlQ",
+      "view_skin":"https://lh3.googleusercontent.com/ajv5WRPazZ01cLaDZuQG3LjBd89ZFQ-_47vNl9xR9dyKObbW5OmM22CWbFLZd1aDmqlSAL6q2HrI7yJJMjVQXyDvq28DyGum990"
+    },
+    {
+      "id":28,
+      "name_skin":"ModBox Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/_s902VO6i2PXHFnx_8e5e_KPXNRNa4c6Igds2jLx3JLf1Qjp8grkCVsgRrUcQw1zRR5-puaarKOXyAOP81mjSkIYXm4FBQHQCUY",
+      "view_skin":"https://lh3.googleusercontent.com/LUJTEn-E5GX4lt7DFDtGJTY8fSabw4K4tDe22JodNSkEFp7R_1biwTplWhAzNOnloOjht9Nx7qROdNAwucZAS_WUbuN9cEgl_x0"
+    },
+	{
+      "id":29,
+      "name_skin":"ModBox Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/9sYTySg5QNFGD6Fl2GZ7Mie9ZhYG6xpcjptWAK4QxuAs3S9vnAPElnXmupkYKSih-HEdi5KbMVXxkDnN3Q690tx1MmVyZsNO5yPd",
+      "view_skin":"https://lh3.googleusercontent.com/v1skMNchT7pIl9wOLTjqNV42ail6s2GHcWHHmY79fCzDSvuPTc4SVJUUWxemK1GDT8W6Sp58ackXMKQR9-mk1oqLQAY3QqPqVXw"
+    },
+    {
+      "id":30,
+      "name_skin":"ModBox Skin MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/6Yv-eSdD4CU4lUcMm_4mmPOmRHSGcMy3RiNkK_MBRRTXKhawqvMCR7gSyotJKmJ4ORna0U8j1U_iCyAbMi7kX3wlyWQ18BxFmIQ",
+      "view_skin":"https://lh3.googleusercontent.com/kExnvCOO62Ket-RcRssBuJo9gJPGN5I07LLGhdvf8wIT645zJxQBaVpJ9dOgiAIyKMm75I5IH9XP_W3yOd4n3zwmz8mpMnM5g0Q"
+    }
+  ],
+  "Addons":
+  [
+   {
+      "id":1,
+      "name_add":"ModBox Addon MCPE",
+      "add_url":"https://archive.org/download/addmodbox/add1.zip",
+      "addB_url":"https://archive.org/download/addmodbox/add1b.mcpack",
+      "addR_url":"https://archive.org/download/addmodbox/add1r.mcpack",
+      "view_add":"https://modandskinmcpe.github.io/easycraftdev/modbox/add1.png",
+      "des_add":"https://modandskinmcpe.github.io/easycraftdev/modbox/instal.html"
+    },
+	{
+      "id":2,
+      "name_add":"ModBox Addon MCPE",
+      "add_url":"https://archive.org/download/addmodbox/add2.zip",
+      "addB_url":"https://archive.org/download/addmodbox/add2b.mcpack",
+      "addR_url":"https://archive.org/download/addmodbox/add2r.mcpack",
+      "view_add":"https://modandskinmcpe.github.io/easycraftdev/modbox/add2.png",
+      "des_add":"https://modandskinmcpe.github.io/easycraftdev/modbox/instal.html"
+    },
+	{
+      "id":3,
+      "name_add":"ModBox Addon MCPE",
+      "add_url":"https://archive.org/download/addmodbox/add3.zip",
+      "addB_url":"https://archive.org/download/addmodbox/add3b.mcpack",
+      "addR_url":"https://archive.org/download/addmodbox/add3r.mcpack",
+      "view_add":"https://modandskinmcpe.github.io/easycraftdev/modbox/add3.png",
+      "des_add":"https://modandskinmcpe.github.io/easycraftdev/modbox/instal.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name_map":"ModBox Maps MCPE",
+      "map_url":"https://archive.org/download/addmodbox/map1.zip",
+      "view_map":"https://modandskinmcpe.github.io/easycraftdev/modbox/map1.png",
+      "des_map":"https://modandskinmcpe.github.io/easycraftdev/modbox/map.html"
+    },
+	{
+      "id":2,
+      "name_map":"ModBox Maps MCPE",
+      "map_url":"https://archive.org/download/addmodbox/map1.zip",
+      "view_map":"https://modandskinmcpe.github.io/easycraftdev/modbox/map2.png",
+      "des_map":"https://modandskinmcpe.github.io/easycraftdev/modbox/map.html"
+    },
+	{
+      "id":3,
+      "name_map":"ModBox Maps MCPE",
+      "map_url":"https://archive.org/download/addmodbox/map1.zip",
+      "view_map":"https://modandskinmcpe.github.io/easycraftdev/modbox/map3.png",
+      "des_map":"https://modandskinmcpe.github.io/easycraftdev/modbox/map.html"
+    }
+  ]
+}

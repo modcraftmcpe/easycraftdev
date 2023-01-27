@@ -6,7 +6,7 @@
       "select_backup_ads":"APPLOVIN-D",
       "main_ads_banner": "ca-app-pub-2521648737251856/8958752020",
       "main_ads_intertitial":"ca-app-pub-2521648737251856/9697705354",
-      "native_for_admob":"ca-app-pub-2521648737251856/4445378675",
+      "native_for_admob":"",
       "backup_ads_banner":"5c0dbca2bba65009",
       "backup_ads_intertitial":"c3eb3aa3603e4039",
       "interval_intertitial": 7,

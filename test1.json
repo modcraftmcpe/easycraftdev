@@ -1,12 +1,12 @@
 {
   "Ads":
   [
-    {
+      {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-D",
+      "select_backup_ads":"APPLOVIN-NB AE",
       "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
       "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "main_ads_natives":"",
       "main_ads_rewards":"",
       "backup_ads_natives":"",
       "backup_ads_banner":"db4d5e8718b97d78",
@@ -16,8 +16,8 @@
       "open_ads_alien":"",
       "switch_open_ads":"1",
       "switch_banner_natives_ads":"",
-      "interval_intertitial": 1,
-      "initialize_sdk":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
@@ -463,7 +463,7 @@
       "add_url":"https://wedosmp3.github.io/imagecreative/flash/addon1.zip",
       "addB_url":"https://wedosmp3.github.io/imagecreative/flash/addon1(B).mcpack",
       "addR_url":"https://wedosmp3.github.io/imagecreative/flash/addon1(R).mcpack",
-      "view_add":"https://umsyahdev.github.io/ModsandSkins/flashh/mapadd/ad1.png",
+      "view_add":"https://aliendro.id/uploads/demo/skinaddonmap/cat.png",
       "des_add":"https://umsyahdev.github.io/ModsandSkins/flashh/mapadd/installad.html"
     },
 	{
